@@ -16,13 +16,20 @@ para ajustar el Word/PDF/presentación correspondientes.
 | Referencia de calidad ASR | Subtítulos humanos de TED, cuando existan, **solo** para calcular el error (WER) de Whisper por video; se declara aproximado (los subtítulos editados no son transcripción literal) | Decisión del usuario |
 | Limpieza y calidad (Paso 2) | Módulo de limpieza del texto + análisis de calidad: WER vs. referencia, muletillas, conteo real de palabras vs. ~15.500 estimadas | Cubre objetivo específico 1 y Etapa 4 del Entregable 1 |
 | Hardware de desarrollo | 16 GB RAM, Intel Core i5-1135G7 (4 núcleos / 8 hilos), **sin GPU dedicada** (Iris Xe). Todo corre en CPU | Detectado en el equipo; confirmar que es donde se ejecuta el proyecto |
-| Vector store | ChromaDB o FAISS persistido; por decidir | Word dice ChromaDB, repo base usa FAISS |
+| Vector store | **ChromaDB** persistente, distancia coseno, una colección por video y modelo de Whisper | Coincide con el Word; guarda los minutos de cada fragmento sin código extra |
+| Fragmentación | Por segmentos de Whisper (~120 palabras, ~30 de solapamiento), conservando `start`/`end` | Permite citar `mm:ss`; reemplaza el corte a ciegas de LangChain del código base |
+| Entrada de video | Catálogo local (`data/videos/`) + subida de archivo desde la interfaz | Etapa 1 del Entregable: "archivo de video o enlace"; YouTube está bloqueado en la red de desarrollo |
+| Reproducibilidad | `temperature: 0`, `seed: 42` en Ollama | Misma pregunta, misma respuesta |
+| Evaluación | Principal: rúbrica humana del equipo (correctitud, fidelidad, alucinación) + métricas automáticas (acierto de recuperación por minuto, rechazo en preguntas trampa, latencia). Juez LLM solo como complemento | Un 3B juzgándose a sí mismo es poco confiable |
+| Estructura del código | Paquete `videoqa/` en la raíz (no `src/`): es una aplicación, no una librería; se ejecuta sin instalar el paquete | |
+| Hoja de ruta | 5 pasos: 1 base · 2 transcripción + limpieza + calidad · 3 RAG con citas + config. B · 4 evaluación · 5 cierre | Aprobado por el usuario |
 | Comparación obligatoria | Config A: RAG · Config B: transcripción completa sin recuperación | Entregable 1 §6.2 |
 | Métricas | correctitud, relevancia, fidelidad, alucinaciones, latencia | Entregable 1 §6.3 |
 
 ## Inconsistencias conocidas entre documentos y plan (resolver con el usuario, no en silencio)
 1. Whisper: PDF = large-v3 vs objetivo de bajo consumo.
-2. Vector store: Word = ChromaDB vs repo base = FAISS.
+2. ~~Vector store: Word = ChromaDB vs repo base = FAISS.~~ Resuelto: ChromaDB (coincide con el Word).
 3. Word (Entregable 1) dice "modelo de lenguaje de uso abierto" sin nombrarlo; el PDF de decisiones ya nombra Llama 3.2 3B. Pendiente alinear el Word y la presentación.
 4. Las cifras de tamaño de corpus (~15.500 palabras) son una estimación a 150 palabras/min; reemplazar por el conteo real cuando existan las transcripciones.
 5. Entregable 1 §5 dice que si el video ya tiene subtítulos "se aprovechan directamente"; la decisión vigente es usar solo Whisper (los subtítulos solo sirven de referencia para medir el error). Ajustar esa frase en el Word.
+6. Duraciones reales (ffprobe): video 1 = 10:19 (Word: ≈9), video 2 = 16:10 (Word: ≈13), video 8 = 13:01 (Word: ≈15). Total ≈ 109 min (Word: ≈103). Actualizar el Word.

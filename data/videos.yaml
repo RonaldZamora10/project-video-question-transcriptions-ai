@@ -1,0 +1,59 @@
+# Dataset del proyecto: 8 charlas reales en español, de temas distintos y de menos de 25 minutos.
+# "duration" es la duración real medida con ffprobe sobre el archivo (mm:ss).
+# "file" es el nombre del archivo dentro de data/videos/ (sin extensión).
+
+- id: 01_matematicas
+  topic: Ciencia
+  title: Las matemáticas son para siempre
+  speaker: Eduardo Sáenz de Cabezón
+  url: https://www.youtube.com/watch?v=lmFUp4K8fFc
+  duration: "10:19"
+
+- id: 02_privacidad
+  topic: Tecnología
+  title: El futuro de la privacidad
+  speaker: Sebastián Bortnik
+  url: https://www.youtube.com/watch?v=TjsCyfkKPk0
+  duration: "16:10"
+
+- id: 03_cocina
+  topic: Gastronomía
+  title: ¿Puede la cocina cambiar el mundo?
+  speaker: Gastón Acurio
+  url: https://www.ted.com/talks/gaston_acurio_can_home_cooking_change_the_world
+  duration: "13:15"
+
+- id: 04_musica
+  topic: Música
+  title: ¿Por qué nos emociona la música?
+  speaker: Paolo Bortolameolli
+  url: https://www.ted.com/talks/paolo_bortolameolli_por_que_nos_emociona_la_musica
+  duration: "15:48"
+
+- id: 05_alta_mar
+  topic: Medioambiente
+  title: Por qué necesitamos proteger el alta mar
+  speaker: Enric Sala
+  url: https://www.ted.com/talks/enric_sala_por_que_necesitamos_proteger_el_alta_mar
+  duration: "12:43"
+
+- id: 06_diversidad
+  topic: Desarrollo personal
+  title: El valor de nuestra diversidad interna
+  speaker: Rebeca Hwang
+  url: https://www.ted.com/talks/rebeca_hwang_el_valor_de_nuestra_diversidad_interna
+  duration: "12:05"
+
+- id: 07_cerebros
+  topic: Educación
+  title: La selección latinoamericana de cerebros
+  speaker: Juan Enriquez
+  url: https://www.ted.com/talks/juan_enriquez_la_seleccion_latinoamericana_de_cerebros
+  duration: "12:38"
+
+- id: 08_fracaso
+  topic: Emprendimiento
+  title: Una nueva manera de hablar del fracaso en los negocios
+  speaker: Leticia Gasca
+  url: https://www.ted.com/talks/leticia_gasca_una_nueva_manera_de_hablar_del_fracaso_en_los_negocios
+  duration: "13:01"

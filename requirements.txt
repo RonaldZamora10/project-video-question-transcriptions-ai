@@ -1,9 +1,7 @@
-streamlit
-langchain
-faiss-cpu
-sentence-transformers
-youtube-transcript-api==0.6.2
-numpy
-openai-whisper
-pytube
-yt-dlp
+# Dependencias del programa, con versión fija para que todo el equipo tenga el mismo resultado (Python 3.11).
+faster-whisper==1.2.1          # transcripción (Whisper optimizado para CPU)
+sentence-transformers==6.1.0   # embeddings con intfloat/multilingual-e5-base
+chromadb==1.5.9                # base de datos vectorial local y persistente
+streamlit==1.65.0              # interfaz web
+PyYAML==6.0.3                  # lectura de config.yaml y del catálogo
+jiwer==4.0.0                   # cálculo del error de transcripción (WER)

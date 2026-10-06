@@ -1,194 +1,76 @@
-# multi-agent-rag-local-ai
-Multi-Agent RAG system that answers questions from YouTube videos using local AI (FAISS, Whisper, Ollama) without API keys.
+# Preguntas y respuestas sobre videos con IA local
 
-# 🎥 Multi-Agent RAG (Local AI)
+Proyecto de la asignatura **Sistemas Inteligentes** — Universidad ECCI.
 
-A powerful **Multi-Agent Retrieval-Augmented Generation (RAG)** system that allows you to **ask questions from any YouTube video** using **local AI models** — no API keys required.
+El sistema transcribe una charla en español, la indexa y responde preguntas en lenguaje natural **usando solo lo que se
+dijo en el video**, indicando el minuto de donde sale cada respuesta. Si la respuesta no está en el video, lo dice.
+Todo se ejecuta en el computador del usuario, sin servicios de pago.
 
----
+Pregunta problema: *¿es posible construir un sistema basado en LLM que, a partir de la transcripción automática de un
+video, responda con precisión y fidelidad las preguntas en lenguaje natural de un usuario?*
 
-## 🚀 Features
+## Equipo
 
-* 🔍 Ask questions from any YouTube video
-* 🧠 Multi-Agent system (Retriever + Generator)
-* 🎤 Automatic transcript extraction
-* 🔄 Whisper fallback for videos without subtitles
-* ⚡ Fast semantic search using FAISS
-* 🤖 Local LLM (Llama3 via Ollama)
-* 🔐 100% local — no API keys needed
+| Integrante | Rol |
+|---|---|
+| _Por definir_ | |
+| _Por definir_ | |
+| _Por definir_ | |
+| _Por definir_ | |
 
----
-
-## 🧠 How It Works
-
-### 1️⃣ Input
-
-* Enter YouTube Video ID
-* Ask any question
-
-### 2️⃣ Transcript Extraction
-
-* Uses **YouTube Transcript API**
-* If not available → falls back to **Whisper (Speech-to-Text)**
-
-### 3️⃣ Text Processing
-
-* Splits transcript into chunks
-* Converts text into embeddings
-
-### 4️⃣ Vector Search (FAISS)
-
-* Stores embeddings in vector database
-* Retrieves most relevant chunks
-
-### 5️⃣ Answer Generation
-
-* Uses **Llama3 (via Ollama)**
-* Generates final answer based on context
-
----
-
-## 🏗️ Tech Stack
-
-* **Frontend:** Streamlit
-* **Embedding Model:** Sentence Transformers
-* **Vector DB:** FAISS
-* **Transcript:** youtube-transcript-api
-* **Speech-to-Text:** OpenAI Whisper
-* **LLM:** Ollama (Llama3)
-* **Downloader:** yt-dlp
-
----
-
-## 📂 Project Structure
+## Cómo funciona
 
 ```
-multi-agent-rag-local-ai/
-│── app.py              # Streamlit UI
-│── rag_pipeline.py     # Data processing + retrieval
-│── agents.py           # Multi-agent system (LLM)
-│── requirements.txt    # Dependencies
-│── README.md           # Documentation
+video ─► Whisper (texto con minutos) ─► limpieza ─► fragmentos ─► embeddings e5 ─► ChromaDB
+                                                                                     │
+pregunta ─► embedding ─► fragmentos más parecidos ─► Llama 3.2 3B (Ollama) ─► respuesta con [mm:ss]
 ```
 
----
+Se comparan dos configuraciones:
 
-## ⚙️ Installation
+- **A — Con recuperación (RAG):** el modelo solo recibe los fragmentos más relacionados con la pregunta.
+- **B — Sin recuperación:** el modelo recibe la transcripción completa.
 
-### 1️⃣ Clone the repository
+## Estructura
+
+```
+app.py              Interfaz web (Streamlit)
+config.yaml         Toda la configuración: modelos, rutas y parámetros
+videoqa/            Código del sistema
+tests/              Pruebas automáticas (no necesitan internet ni modelos)
+data/videos.yaml    Catálogo de los 8 videos del dataset
+data/transcripts/   Transcripciones generadas (forman parte del dataset)
+docs/               Entregables, decisiones técnicas y evidencias
+```
+
+## Instalación (Windows)
+
+Requisitos: Python 3.11, [Ollama](https://ollama.com) y unos 6 GB libres en disco.
 
 ```bash
-git clone https://github.com/vaibhav07772/multi-agent-rag-local-ai.git
-cd multi-agent-rag-local-ai
+py -3.11 -m venv .venv
+source .venv/Scripts/activate
+pip install -r requirements-dev.txt
+ollama pull llama3.2:3b
 ```
 
-### 2️⃣ Install dependencies
+Los videos no se suben al repositorio por su tamaño: se guardan en `data/videos/` con el nombre del `id` del catálogo
+(por ejemplo `data/videos/01_matematicas.mp4`).
+
+## Pruebas
 
 ```bash
-pip install -r requirements.txt
+python -m pytest
+python -m ruff check .
 ```
 
-### 3️⃣ Install Ollama (for LLM)
+## Créditos y licencias
 
-Download from: https://ollama.com
-
-Then run:
-
-```bash
-ollama run llama3
-```
-
-### 4️⃣ Install FFmpeg (IMPORTANT for Whisper)
-
-Download: https://ffmpeg.org/download.html
-
-Add it to system PATH and verify:
-
-```bash
-ffmpeg -version
-```
-
----
-
-## ▶️ Run the App
-
-```bash
-streamlit run app.py
-```
-
-Open in browser:
-
-```
-http://localhost:8501
-```
-
----
-
-## 📌 Usage
-
-1. Copy YouTube Video ID
-   Example:
-
-   ```
-   https://youtu.be/v00DUIxRX0c → v00DUIxRX0c
-   ```
-
-2. Paste in app
-
-3. Ask question
-
-4. Get AI-generated answer 🎉
-
----
-
-## ⚠️ Limitations
-
-* Some videos may not have transcripts
-* Whisper fallback requires **FFmpeg installed**
-* CPU-based Whisper is slower
-* yt-dlp may fail without proper environment setup
-
----
-
-## 💡 Future Improvements
-
-* 🌐 Deploy on cloud (Render / Streamlit Cloud)
-* 🎨 Better UI/UX
-* 📊 Chat history support
-* 🔊 Real-time streaming answers
-* 📁 Support PDFs + documents (RAG upgrade)
-
----
-
-## 💼 Use Case
-
-* 🎓 Learning from YouTube videos
-* 📚 Quick video summarization
-* 🔍 Search inside long videos
-* 🤖 AI-powered video assistant
-
----
-
-## 👨‍💻 Author
-
-**Vaibhav Singh**
-Aspiring NLP Engineer 🚀
-
----
-
-## 📜 License
-
-This project is licensed under the MIT License.
-
----
-
-## ⭐ Support
-
-If you like this project:
-
-* ⭐ Star the repo
-* 🍴 Fork it
-* 🧠 Build something awesome
-
----
-
+- Este proyecto parte del código de [vaibhav07772/multi-agent-rag-local-ai](https://github.com/vaibhav07772/multi-agent-rag-local-ai)
+  (licencia MIT, se conserva en `LICENSE`). Del original se reescribió todo el flujo: transcripción en español con
+  minutos, limpieza, fragmentación por segmentos, índice persistente, prompt restrictivo con citas, configuración B y
+  evaluación. La evidencia del comportamiento original está en `docs/evidencia/antes-codigo-base.md`.
+- Modelo de lenguaje: **Llama 3.2** de Meta, bajo la *Llama 3.2 Community License*. Built with Llama.
+- Transcripción: [faster-whisper](https://github.com/SYSTRAN/faster-whisper) (MIT) con modelos Whisper de OpenAI (MIT).
+- Embeddings: [intfloat/multilingual-e5-base](https://huggingface.co/intfloat/multilingual-e5-base) (MIT).
+- Videos: charlas TED y TEDx, licencia CC BY-NC-ND 4.0; se usan con fines académicos y no se redistribuyen.
