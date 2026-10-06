@@ -24,6 +24,10 @@ cleaning:
   # Sonidos de duda que sí se eliminan porque no aportan contenido.
   hesitations: ["eh", "ehh", "em", "emm", "mm", "mmm", "ah", "ahh"]
 
+analysis:
+  estimated_words_per_minute: 150   # supuesto usado en el Entregable 1 para estimar el corpus
+  corpus_estimate_words: 15500      # estimación del Entregable 1, para contrastar con el conteo real
+
 embeddings:
   model: intfloat/multilingual-e5-base
 
