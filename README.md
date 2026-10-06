@@ -57,11 +57,25 @@ ollama pull llama3.2:3b
 Los videos no se suben al repositorio por su tamaño: se guardan en `data/videos/` con el nombre del `id` del catálogo
 (por ejemplo `data/videos/01_matematicas.mp4`).
 
-## Pruebas
+## Uso
+
+Con el entorno activado (`source .venv/Scripts/activate`) y Ollama abierto:
+
+| Qué | Comando |
+|---|---|
+| Abrir la aplicación web | `streamlit run app.py` |
+| Transcribir los 8 videos (solo la primera vez, ~45 min en CPU) | `python -m videoqa.transcribe --all` |
+| Análisis de calidad de las transcripciones | `python -m videoqa.quality` |
+| Evaluar A vs. B con el banco de preguntas (~1 h en CPU) | `python -m videoqa.evaluate` |
+| Recalcular el resumen después de calificar a mano | `python -m videoqa.evaluate --summary` |
+
+Los resultados quedan en `data/analisis/` como CSV (se abren en Excel).
+
+## Pruebas automáticas
 
 ```bash
-python -m pytest
-python -m ruff check .
+python -m pytest            # pruebas rápidas, sin internet ni modelos
+python -m ruff check .      # revisión de estilo
 ```
 
 ## Créditos y licencias

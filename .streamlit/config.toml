@@ -1,0 +1,12 @@
+# Configuración de Streamlit para este proyecto (opciones según `streamlit config show`, versión 1.65).
+
+[browser]
+# El sistema es 100 % local: no se envían estadísticas de uso a Streamlit.
+gatherUsageStats = false
+
+[server]
+# Solo accesible desde este computador.
+address = "localhost"
+# Sin vigilancia de archivos: la app no se recarga sola al editar código, pero se evita revisar miles de módulos de
+# `transformers` en cada arranque (ruido en el registro y arranque más lento).
+fileWatcherType = "none"
