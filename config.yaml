@@ -12,7 +12,7 @@ paths:
   eval_questions: data/eval/preguntas.yaml  # banco de preguntas de evaluación
 
 whisper:
-  model: small            # tamaño elegido; ver docs/DECISIONES.md
+  model: small            # tamaño elegido por bajo consumo en CPU
   device: cpu             # el equipo no tiene GPU dedicada
   compute_type: int8      # cuantización recomendada por faster-whisper para CPU
   language: es            # fijar el idioma evita que Whisper lo adivine mal

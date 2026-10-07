@@ -17,9 +17,7 @@ data/index/
 # Secretos y configuración local
 .env
 
-# Herramientas locales del equipo (no forman parte del programa)
-CLAUDE.md
-.claude/
+# Material que no forma parte del programa
 _para_mover/
 
 # Sistema operativo y editores

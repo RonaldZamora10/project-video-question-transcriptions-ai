@@ -40,7 +40,9 @@ videoqa/            Código del sistema
 tests/              Pruebas automáticas (no necesitan internet ni modelos)
 data/videos.yaml    Catálogo de los 8 videos del dataset
 data/transcripts/   Transcripciones generadas (forman parte del dataset)
-docs/               Entregables, decisiones técnicas y evidencias
+data/referencias/   Subtítulos humanos de TED (solo para medir el error de Whisper)
+data/eval/          Banco de preguntas para evaluar las configuraciones A y B
+data/analisis/      Resultados en CSV (calidad de transcripción y evaluación)
 ```
 
 ## Instalación (Windows)
@@ -83,7 +85,7 @@ python -m ruff check .      # revisión de estilo
 - Este proyecto parte del código de [vaibhav07772/multi-agent-rag-local-ai](https://github.com/vaibhav07772/multi-agent-rag-local-ai)
   (licencia MIT, se conserva en `LICENSE`). Del original se reescribió todo el flujo: transcripción en español con
   minutos, limpieza, fragmentación por segmentos, índice persistente, prompt restrictivo con citas, configuración B y
-  evaluación. La evidencia del comportamiento original está en `docs/evidencia/antes-codigo-base.md`.
+  evaluación.
 - Modelo de lenguaje: **Llama 3.2** de Meta, bajo la *Llama 3.2 Community License*. Built with Llama.
 - Transcripción: [faster-whisper](https://github.com/SYSTRAN/faster-whisper) (MIT) con modelos Whisper de OpenAI (MIT).
 - Embeddings: [intfloat/multilingual-e5-base](https://huggingface.co/intfloat/multilingual-e5-base) (MIT).
