@@ -17,9 +17,6 @@ data/index/
 # Secretos y configuración local
 .env
 
-# Material que no forma parte del programa
-_para_mover/
-
 # Sistema operativo y editores
 .vscode/
 .idea/
