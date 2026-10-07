@@ -1,0 +1,178 @@
+# Banco de preguntas para evaluar las configuraciones A (RAG) y B (sin RAG).
+#
+# ESTADO: BORRADOR. Las preguntas y respuestas de referencia se redactaron leyendo las transcripciones de Whisper.
+# El equipo debe revisarlas VIENDO EL VIDEO (no la transcripción) y corregir lo que haga falta antes de reportar
+# resultados. No cambiar preguntas después de ver cómo responde el sistema: eso sesgaría la evaluación.
+#
+# Campos:
+#   id         <video>-<n>; las de tipo trampa terminan en T
+#   video      id del catálogo (data/videos.yaml)
+#   type       normal: la respuesta está en el video · trampa: NO está en el video (debe responder que no la encuentra)
+#   question   pregunta tal como la haría un usuario
+#   reference  respuesta correcta según el video (vacía en las trampas)
+#   minute     mm:ss donde empieza la respuesta en el video (vacío en las trampas)
+
+- id: 01-1
+  video: 01_matematicas
+  type: normal
+  question: ¿Por qué dice el ponente que un teorema es para siempre?
+  reference: Porque los resultados matemáticos demostrados son eternos; el teorema de Pitágoras sigue siendo verdad aunque Pitágoras haya muerto.
+  minute: "05:16"
+
+- id: 01-2
+  video: 01_matematicas
+  type: normal
+  question: ¿Qué pasaría si se dobla 50 veces una hoja de papel de 0,1 milímetros?
+  reference: El grosor del montón ocuparía la distancia de la Tierra al Sol.
+  minute: "04:19"
+
+- id: 01-3
+  video: 01_matematicas
+  type: normal
+  question: ¿Quién demostró que el hexágono es la mejor forma para cubrir un plano y cuándo?
+  reference: Thomas Hales, en 1999, unos 1700 años después de la conjetura de Papus de Alejandría.
+  minute: "06:55"
+
+- id: 01-4
+  video: 01_matematicas
+  type: normal
+  question: ¿En qué construcción se usó la estructura de Weaire-Phelan?
+  reference: En el edificio de natación de los Juegos Olímpicos de Pekín, donde Michael Phelps ganó ocho medallas de oro.
+  minute: "08:56"
+
+- id: 01-T
+  video: 01_matematicas
+  type: trampa
+  question: ¿Qué dice el ponente sobre el último teorema de Fermat?
+
+- id: 02-1
+  video: 02_privacidad
+  type: normal
+  question: Según el estudio que cita el ponente, ¿cuántas fotos en internet tiene un niño al cumplir 5 años?
+  reference: Alrededor de 1000 fotos, según la organización británica Parent Zone.
+  minute: "02:48"
+
+- id: 02-2
+  video: 02_privacidad
+  type: normal
+  question: ¿Qué artículo de la Declaración Universal de los Derechos Humanos protege la vida privada?
+  reference: El artículo 12.
+  minute: "05:29"
+
+- id: 02-3
+  video: 02_privacidad
+  type: normal
+  question: Según el ponente, ¿quién es el cliente de las redes sociales y qué papel tenemos los usuarios?
+  reference: El cliente es el anunciante, que es quien paga; los usuarios somos el producto y nuestros datos son la materia prima.
+  minute: "09:58"
+
+- id: 02-4
+  video: 02_privacidad
+  type: normal
+  question: ¿Con qué compara el ponente el futuro de la privacidad al final de la charla?
+  reference: Con el cigarrillo; así como hoy parece absurdo fumar en un avión, espera que la privacidad sea "el cigarrillo del futuro".
+  minute: "15:39"
+
+- id: 02-T
+  video: 02_privacidad
+  type: trampa
+  question: ¿Qué ley argentina de protección de datos personales recomienda el ponente?
+
+- id: 03-1
+  video: 03_cocina
+  type: normal
+  question: ¿Qué plato nació de la historia de amor entre la hija de un bodeguero chino y el hijo de un pastelero genovés?
+  reference: El arroz con mariscos del Perú, hecho en el wok a fuego lento con un poco de parmesano y de salsa de soja.
+  minute: "02:14"
+
+- id: 03-2
+  video: 03_cocina
+  type: normal
+  question: ¿Cómo se llamaba el primer restaurante de Gastón Acurio y dónde conoció a su esposa?
+  reference: Astrid y Gastón; conoció a su esposa Astrid en París, donde estudiaba cocina.
+  minute: "03:09"
+
+- id: 03-3
+  video: 03_cocina
+  type: normal
+  question: ¿Qué dato da el ponente sobre las muertes por obesidad y por hambre?
+  reference: Que hoy mueren más personas por obesidad que por hambre.
+  minute: "08:22"
+
+- id: 03-4
+  video: 03_cocina
+  type: normal
+  question: ¿Qué decisión tomó el cocinero Alain Ducasse en su restaurante de París?
+  reference: Eliminó la carne de su menú, consciente del impacto del consumo excesivo de carne en el medio ambiente.
+  minute: "11:15"
+
+- id: 03-T
+  video: 03_cocina
+  type: trampa
+  question: ¿Qué ingredientes lleva la receta de ceviche que enseña Gastón Acurio?
+
+- id: 04-1
+  video: 04_musica
+  type: normal
+  question: ¿Qué obra escuchó el ponente en su primer concierto y qué edad tenía?
+  reference: La Quinta Sinfonía de Beethoven, a los siete años.
+  minute: "00:00"
+
+- id: 04-2
+  video: 04_musica
+  type: normal
+  question: ¿Qué decidió el ponente después de ese primer concierto?
+  reference: Dedicar su vida a la música, para recrear ese momento, entenderlo y compartirlo.
+  minute: "03:34"
+
+- id: 04-3
+  video: 04_musica
+  type: normal
+  question: Según el ponente, ¿de dónde viene el poder evocador de la música?
+  reference: De su capacidad de generar, prolongar, suspender o incluso traicionar expectativas.
+  minute: "05:41"
+
+- id: 04-4
+  video: 04_musica
+  type: normal
+  question: ¿Qué le dijo el director de orquesta al ponente cuando era niño?
+  reference: Lo abrazó y le dijo "por esto hacemos lo que hacemos".
+  minute: "15:15"
+
+- id: 04-T
+  video: 04_musica
+  type: trampa
+  question: ¿Qué opina el ponente sobre el reguetón?
+
+- id: 05-1
+  video: 05_alta_mar
+  type: normal
+  question: ¿Qué hicieron los pescadores de Cabo Pulmo y qué pasó diez años después?
+  reference: Dejaron de pescar y crearon una reserva marina; diez años después la vida marina volvió a su estado prístino, con grandes depredadores, y ganan más dinero con el turismo.
+  minute: "00:22"
+
+- id: 05-2
+  video: 05_alta_mar
+  type: normal
+  question: ¿Qué porcentaje del mar está protegido hoy y cuánto dicen los estudios que se necesita?
+  reference: Solo el 2 %; los estudios sugieren al menos un 30 %.
+  minute: "03:05"
+
+- id: 05-3
+  video: 05_alta_mar
+  type: normal
+  question: ¿Qué países representan casi el 80 % del esfuerzo pesquero en alta mar?
+  reference: China, Taiwán, Japón, Corea y España.
+  minute: "06:33"
+
+- id: 05-4
+  video: 05_alta_mar
+  type: normal
+  question: ¿Qué porcentaje de las capturas marinas globales viene de la alta mar?
+  reference: Solo el 5 %.
+  minute: "10:32"
+
+- id: 05-T
+  video: 05_alta_mar
+  type: trampa
+  question: ¿Cuántas especies de ballenas hay en peligro según el ponente?
