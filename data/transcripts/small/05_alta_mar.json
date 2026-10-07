@@ -1,0 +1,982 @@
+{
+ "video_id": "05_alta_mar",
+ "whisper_model": "small",
+ "language": "es",
+ "language_probability": 1,
+ "duration_seconds": 762.64,
+ "transcription_seconds": 6058.4,
+ "segments": [
+  {
+   "start": 4.78,
+   "end": 10.28,
+   "text": "Si saltarán al azar en cualquier punto del mar, hoy seguramente verían algo así.",
+   "raw": "Si saltarán al azar en cualquier punto del mar, hoy seguramente verían algo así."
+  },
+  {
+   "start": 10.78,
+   "end": 16.28,
+   "text": "Sin peces grandes, sin peces, porque los hemos pescado más rápidamente de lo que se reproducen.",
+   "raw": "Sin peces grandes, sin peces, porque los hemos pescado más rápidamente de lo que se reproducen."
+  },
+  {
+   "start": 16.28,
+   "end": 19.78,
+   "text": "Hoy quiero proponer una estrategia para salvar la vida marina",
+   "raw": "Hoy quiero proponer una estrategia para salvar la vida marina"
+  },
+  {
+   "start": 19.78,
+   "end": 22.78,
+   "text": "y la idea tiene que ver mucho con la economía.",
+   "raw": "y la idea tiene que ver mucho con la economía."
+  },
+  {
+   "start": 22.78,
+   "end": 28.78,
+   "text": "En el 1999 había un pequeño lugar llamado Cabo Pulmo, en Baja California, en México",
+   "raw": "En el 1999 había un pequeño lugar llamado Cabo Pulmo, en Baja California, en México,"
+  },
+  {
+   "start": 28.78,
+   "end": 30.78,
+   "text": "que era un desierto submarino.",
+   "raw": "que era un desierto submarino."
+  },
+  {
+   "start": 30.78,
+   "end": 34.78,
+   "text": "Los pescadores estaban frustrados con no tener suficiente pesca.",
+   "raw": "Los pescadores estaban frustrados con no tener suficiente pesca."
+  },
+  {
+   "start": 34.78,
+   "end": 37.78,
+   "text": "Entonces decidieron hacer algo que nadie esperaba.",
+   "raw": "Entonces decidieron hacer algo que nadie esperaba."
+  },
+  {
+   "start": 37.78,
+   "end": 41.78,
+   "text": "En vez de pasar más tiempo en el mar en busca de los últimos peces",
+   "raw": "En vez de pasar más tiempo en el mar en busca de los últimos peces,"
+  },
+  {
+   "start": 41.78,
+   "end": 44.78,
+   "text": "decidieron parar de pescar completamente.",
+   "raw": "decidieron parar de pescar completamente."
+  },
+  {
+   "start": 44.78,
+   "end": 49.78,
+   "text": "Crearon un parque nacional en el mar, una reserva marina.",
+   "raw": "Crearon un parque nacional en el mar, una reserva marina."
+  },
+  {
+   "start": 49.78,
+   "end": 55.78,
+   "text": "Cuando regresamos a Cabo Pulmo, diez años después, esto es lo que vimos.",
+   "raw": "Cuando regresamos a Cabo Pulmo, diez años después, esto es lo que vimos."
+  },
+  {
+   "start": 56.78,
+   "end": 61.78,
+   "text": "Lo que había sido un herial submarino, se había convertido en un kaleidoscopio de color y de vida",
+   "raw": "Lo que había sido un herial submarino, se había convertido en un kaleidoscopio de color y de vida,"
+  },
+  {
+   "start": 61.78,
+   "end": 66.78,
+   "text": "lo vimos volver a su estado prístino en solamente diez años.",
+   "raw": "lo vimos volver a su estado prístino en solamente diez años."
+  },
+  {
+   "start": 67.78,
+   "end": 73.78,
+   "text": "Incluyendo el retorno de los grandes depredadores como los meros, los tiburones, los jureles.",
+   "raw": "Incluyendo el retorno de los grandes depredadores como los meros, los tiburones, los jureles."
+  },
+  {
+   "start": 75.78,
+   "end": 79.78,
+   "text": "Es un lugar extraordinario. Si son buzos, vayan a Cabo Pulmo.",
+   "raw": "Es un lugar extraordinario. Si son buzos, vayan a Cabo Pulmo."
+  },
+  {
+   "start": 79.78,
+   "end": 84.78,
+   "text": "Y aquellos pescadores visionarios ahora están ganando más dinero",
+   "raw": "Y aquellos pescadores visionarios ahora están ganando más dinero"
+  },
+  {
+   "start": 84.78,
+   "end": 88.78,
+   "text": "a través del turismo. Cuando podemos alinear las necesidades económicas",
+   "raw": "a través del turismo. Cuando podemos alinear las necesidades económicas"
+  },
+  {
+   "start": 88.78,
+   "end": 91.78,
+   "text": "con la conservación, pueden pasar milagros.",
+   "raw": "con la conservación, pueden pasar milagros."
+  },
+  {
+   "start": 91.78,
+   "end": 94.78,
+   "text": "Y hemos visto recuperaciones similares por todo el mundo.",
+   "raw": "Y hemos visto recuperaciones similares por todo el mundo."
+  },
+  {
+   "start": 94.78,
+   "end": 98.78,
+   "text": "Yo me pasé veinte años estudiando los impactos humanos en el mar.",
+   "raw": "Yo me pasé veinte años estudiando los impactos humanos en el mar."
+  },
+  {
+   "start": 98.78,
+   "end": 104.78,
+   "text": "Pero ver con mis propios ojos la regeneración de lugares como Cabo Pulmo me dio esperanza.",
+   "raw": "Pero ver con mis propios ojos la regeneración de lugares como Cabo Pulmo me dio esperanza."
+  },
+  {
+   "start": 104.78,
+   "end": 110.78,
+   "text": "Por lo que decidí, hace diez años, abandonar mi puesto como profesor en la universidad",
+   "raw": "Por lo que decidí, hace diez años, abandonar mi puesto como profesor en la universidad"
+  },
+  {
+   "start": 110.78,
+   "end": 114.78,
+   "text": "para dedicar mi vida a proteger más lugares en el mar como estos.",
+   "raw": "para dedicar mi vida a proteger más lugares en el mar como estos."
+  },
+  {
+   "start": 114.78,
+   "end": 119.78,
+   "text": "En los últimos diez años, nuestro equipo de National Geographic Pristinsis, mares prístinos",
+   "raw": "En los últimos diez años, nuestro equipo de National Geographic Pristinsis, mares prístinos,"
+  },
+  {
+   "start": 119.78,
+   "end": 124.78,
+   "text": "hemos estado explorando, estudiando, documentando los lugares más salvajes del mar",
+   "raw": "hemos estado explorando, estudiando, documentando los lugares más salvajes del mar"
+  },
+  {
+   "start": 124.78,
+   "end": 126.78,
+   "text": "y trabajando con gobiernos para protegerlos.",
+   "raw": "y trabajando con gobiernos para protegerlos."
+  },
+  {
+   "start": 126.78,
+   "end": 130.78,
+   "text": "Todos estos lugares ya están protegidos, cubriendo una superficie total",
+   "raw": "Todos estos lugares ya están protegidos, cubriendo una superficie total"
+  },
+  {
+   "start": 130.78,
+   "end": 133.78,
+   "text": "del tamaño de la mitad de Canadá.",
+   "raw": "del tamaño de la mitad de Canadá."
+  },
+  {
+   "start": 133.78,
+   "end": 139.78,
+   "text": "Estos lugares son los Yellowstones, los serenguetis del mar.",
+   "raw": "Estos lugares son los Yellowstones, los serenguetis del mar."
+  },
+  {
+   "start": 140.78,
+   "end": 147.78,
+   "text": "Son lugares donde uno salta en el agua e inmediatamente está rodeado de tiburones.",
+   "raw": "Son lugares donde uno salta en el agua e inmediatamente está rodeado de tiburones."
+  },
+  {
+   "start": 147.78,
+   "end": 153.78,
+   "text": "Y esto es bueno, esto es bueno, porque los tiburones son un signo de la salud del ecosistema.",
+   "raw": "Y esto es bueno, esto es bueno, porque los tiburones son un signo de la salud del ecosistema."
+  },
+  {
+   "start": 153.78,
+   "end": 160.78,
+   "text": "Estos lugares son máquinas del tiempo, que nos enseñan el mar de hace quinientos años, de hace mil años.",
+   "raw": "Estos lugares son máquinas del tiempo, que nos enseñan el mar de hace quinientos años, de hace mil años."
+  },
+  {
+   "start": 160.78,
+   "end": 164.78,
+   "text": "Pero también nos muestran cómo podría ser el mar del futuro.",
+   "raw": "Pero también nos muestran cómo podría ser el mar del futuro."
+  },
+  {
+   "start": 164.78,
+   "end": 168.78,
+   "text": "Porque el mar tiene una capacidad extraordinaria de regeneración.",
+   "raw": "Porque el mar tiene una capacidad extraordinaria de regeneración."
+  },
+  {
+   "start": 168.78,
+   "end": 172.78,
+   "text": "Hemos visto recuperaciones impresionantes en solamente unos años.",
+   "raw": "Hemos visto recuperaciones impresionantes en solamente unos años."
+  },
+  {
+   "start": 172.78,
+   "end": 179.78,
+   "text": "Lo que tenemos que hacer es proteger más lugares que estén en riesgo para que vuelvan a ser salvajes y llenos de vida.",
+   "raw": "Lo que tenemos que hacer es proteger más lugares que estén en riesgo para que vuelvan a ser salvajes y llenos de vida."
+  },
+  {
+   "start": 179.78,
+   "end": 185.78,
+   "text": "Entonces la pregunta es, ¿hay manera de acelerar la protección del mar?",
+   "raw": "Entonces la pregunta es, ¿hay manera de acelerar la protección del mar?"
+  },
+  {
+   "start": 185.78,
+   "end": 189.78,
+   "text": "Porque hoy en día solamente el dos por ciento del mar está protegido.",
+   "raw": "Porque hoy en día solamente el dos por ciento del mar está protegido."
+  },
+  {
+   "start": 189.78,
+   "end": 191.78,
+   "text": "Y eso no es suficiente.",
+   "raw": "Y eso no es suficiente."
+  },
+  {
+   "start": 191.78,
+   "end": 196.78,
+   "text": "Estudios sugieren que necesitamos al menos treinta por ciento del mar protegido",
+   "raw": "Estudios sugieren que necesitamos al menos treinta por ciento del mar protegido,"
+  },
+  {
+   "start": 196.78,
+   "end": 199.78,
+   "text": "no solamente para salvar a la vida marina, sino también a nosotros",
+   "raw": "no solamente para salvar a la vida marina, sino también a nosotros,"
+  },
+  {
+   "start": 199.78,
+   "end": 204.78,
+   "text": "porque el mar nos da comida, nos da más de la mitad del oxígeno que respiramos",
+   "raw": "porque el mar nos da comida, nos da más de la mitad del oxígeno que respiramos,"
+  },
+  {
+   "start": 204.78,
+   "end": 208.78,
+   "text": "absorbe mucha de la contaminación de carbono que lanzamos en la atmósfera",
+   "raw": "absorbe mucha de la contaminación de carbono que lanzamos en la atmósfera,"
+  },
+  {
+   "start": 208.78,
+   "end": 212.78,
+   "text": "necesitamos un mar saludable para sobrevivir.",
+   "raw": "necesitamos un mar saludable para sobrevivir."
+  },
+  {
+   "start": 212.78,
+   "end": 215.78,
+   "text": "Entonces hay manera de acelerar esa protección.",
+   "raw": "Entonces hay manera de acelerar esa protección."
+  },
+  {
+   "start": 215.78,
+   "end": 216.78,
+   "text": "Yo creo que sí.",
+   "raw": "Yo creo que sí."
+  },
+  {
+   "start": 216.78,
+   "end": 221.78,
+   "text": "Y una de las soluciones pasa por mirar a las aguas internacionales.",
+   "raw": "Y una de las soluciones pasa por mirar a las aguas internacionales."
+  },
+  {
+   "start": 221.78,
+   "end": 225.78,
+   "text": "Los países costeros tienen autoridad sobre 200 millas náuticas a partir de la costa.",
+   "raw": "Los países costeros tienen autoridad sobre 200 millas náuticas a partir de la costa."
+  },
+  {
+   "start": 225.78,
+   "end": 230.78,
+   "text": "Todo lo que queda más allá se llaman aguas internacionales o también alta mar",
+   "raw": "Todo lo que queda más allá se llaman aguas internacionales o también alta mar,"
+  },
+  {
+   "start": 230.78,
+   "end": 233.78,
+   "text": "en azul oscuro en este mapa.",
+   "raw": "en azul oscuro en este mapa."
+  },
+  {
+   "start": 233.78,
+   "end": 235.78,
+   "text": "Son dos tercios del océano.",
+   "raw": "Son dos tercios del océano."
+  },
+  {
+   "start": 235.78,
+   "end": 239.78,
+   "text": "Ningún país es responsable de la alta mar, pero todos lo son.",
+   "raw": "Ningún país es responsable de la alta mar, pero todos lo son."
+  },
+  {
+   "start": 239.78,
+   "end": 240.78,
+   "text": "Es un poco como el salvaje oeste.",
+   "raw": "Es un poco como el salvaje oeste."
+  },
+  {
+   "start": 240.78,
+   "end": 243.78,
+   "text": "Hay pasta de todo y nadie controla.",
+   "raw": "Hay pasta de todo y nadie controla."
+  },
+  {
+   "start": 243.78,
+   "end": 246.78,
+   "text": "Y hay dos tipos de pesca principalmente en alta mar",
+   "raw": "Y hay dos tipos de pesca principalmente en alta mar,"
+  },
+  {
+   "start": 246.78,
+   "end": 249.78,
+   "text": "en el fondo y en su superficie.",
+   "raw": "en el fondo y en su superficie."
+  },
+  {
+   "start": 249.78,
+   "end": 254.78,
+   "text": "La pesca de arrastre de fondo es la práctica más destructiva del planeta.",
+   "raw": "La pesca de arrastre de fondo es la práctica más destructiva del planeta."
+  },
+  {
+   "start": 254.78,
+   "end": 257.78,
+   "text": "Los súper arrastreros, los barcos más grandes del mar",
+   "raw": "Los súper arrastreros, los barcos más grandes del mar,"
+  },
+  {
+   "start": 257.78,
+   "end": 263.78,
+   "text": "tienen redes tan grandes que pueden contener a una docena de aviones 747.",
+   "raw": "tienen redes tan grandes que pueden contener a una docena de aviones 747."
+  },
+  {
+   "start": 263.78,
+   "end": 267.78,
+   "text": "Esas redes enormes destrozan todo a su paso",
+   "raw": "Esas redes enormes destrozan todo a su paso,"
+  },
+  {
+   "start": 267.78,
+   "end": 271.78,
+   "text": "incluyendo corales de profundidad que viven en montañas submarinas",
+   "raw": "incluyendo corales de profundidad que viven en montañas submarinas"
+  },
+  {
+   "start": 271.78,
+   "end": 273.78,
+   "text": "que pueden tener miles de años de edad.",
+   "raw": "que pueden tener miles de años de edad."
+  },
+  {
+   "start": 273.78,
+   "end": 277.78,
+   "text": "La pesca en su superficie se centra sobre todo en especies",
+   "raw": "La pesca en su superficie se centra sobre todo en especies"
+  },
+  {
+   "start": 277.78,
+   "end": 280.78,
+   "text": "que migran desde la alta mar hasta las aguas costeras",
+   "raw": "que migran desde la alta mar hasta las aguas costeras,"
+  },
+  {
+   "start": 280.78,
+   "end": 283.78,
+   "text": "las aguas de los países, como atunes y tiburones.",
+   "raw": "las aguas de los países, como atunes y tiburones."
+  },
+  {
+   "start": 283.78,
+   "end": 287.78,
+   "text": "Y muchas de esas especies están amenazadas porque se han pescado demasiado.",
+   "raw": "Y muchas de esas especies están amenazadas porque se han pescado demasiado."
+  },
+  {
+   "start": 287.78,
+   "end": 290.78,
+   "text": "Pero ¿quién las pesca? ¿Quién pesca en alta mar?",
+   "raw": "Pero ¿quién las pesca? ¿Quién pesca en alta mar?"
+  },
+  {
+   "start": 290.78,
+   "end": 293.78,
+   "text": "Hasta ahora era difícil saberlo exactamente.",
+   "raw": "Hasta ahora era difícil saberlo exactamente."
+  },
+  {
+   "start": 293.78,
+   "end": 298.78,
+   "text": "Los países han sido un poco transparentes con respecto a la pesca a la redistancia.",
+   "raw": "Los países han sido un poco transparentes con respecto a la pesca a la redistancia."
+  },
+  {
+   "start": 298.78,
+   "end": 305.78,
+   "text": "Pero hoy la tecnología satélital nos permite rastrear a barcos individualmente.",
+   "raw": "Pero hoy la tecnología satélital nos permite rastrear a barcos individualmente."
+  },
+  {
+   "start": 305.78,
+   "end": 307.78,
+   "text": "Y esto es una revolución.",
+   "raw": "Y esto es una revolución."
+  },
+  {
+   "start": 307.78,
+   "end": 311.78,
+   "text": "Y esta es la primera vez que presentamos los datos que van a ver.",
+   "raw": "Y esta es la primera vez que presentamos los datos que van a ver."
+  },
+  {
+   "start": 311.78,
+   "end": 316.78,
+   "text": "Les voy a enseñar las rutas de dos barcos pescando a lo largo de un año",
+   "raw": "Les voy a enseñar las rutas de dos barcos pescando a lo largo de un año,"
+  },
+  {
+   "start": 316.78,
+   "end": 320.78,
+   "text": "utilizando un sistema automático de posicionamiento satelital.",
+   "raw": "utilizando un sistema automático de posicionamiento satelital."
+  },
+  {
+   "start": 320.78,
+   "end": 324.78,
+   "text": "Este es un barco pescando atún y tiburones",
+   "raw": "Este es un barco pescando atún y tiburones"
+  },
+  {
+   "start": 324.78,
+   "end": 328.78,
+   "text": "durante meses alrededor de la costa sur del continente africano.",
+   "raw": "durante meses alrededor de la costa sur del continente africano."
+  },
+  {
+   "start": 328.78,
+   "end": 332.78,
+   "text": "Al cabo de unos meses el barco se dirige a Japón para reabastecerse",
+   "raw": "Al cabo de unos meses el barco se dirige a Japón para reabastecerse"
+  },
+  {
+   "start": 332.78,
+   "end": 336.78,
+   "text": "y poco después aquí está pescando alrededor de Madagascar.",
+   "raw": "y poco después aquí está pescando alrededor de Madagascar."
+  },
+  {
+   "start": 336.78,
+   "end": 340.78,
+   "text": "Este otro barco es un arrastrero ruso que pesca bacalao",
+   "raw": "Este otro barco es un arrastrero ruso que pesca bacalao"
+  },
+  {
+   "start": 340.78,
+   "end": 345.78,
+   "text": "en aguas rusas y también en las aguas internacionales en el Atlántico Norte.",
+   "raw": "en aguas rusas y también en las aguas internacionales en el Atlántico Norte."
+  },
+  {
+   "start": 345.78,
+   "end": 351.78,
+   "text": "Gracias a Global Fishing Watch hemos podido rastrear a más de 3.600 barcos",
+   "raw": "Gracias a Global Fishing Watch hemos podido rastrear a más de 3.600 barcos"
+  },
+  {
+   "start": 351.78,
+   "end": 354.78,
+   "text": "de más de 20 países pescando en alta mar.",
+   "raw": "de más de 20 países pescando en alta mar."
+  },
+  {
+   "start": 354.78,
+   "end": 358.78,
+   "text": "Global Fishing Watch utiliza posicionamiento satélital",
+   "raw": "Global Fishing Watch utiliza posicionamiento satélital"
+  },
+  {
+   "start": 358.78,
+   "end": 362.78,
+   "text": "e inteligencia artificial para detectar automáticamente",
+   "raw": "e inteligencia artificial para detectar automáticamente"
+  },
+  {
+   "start": 362.78,
+   "end": 365.78,
+   "text": "si un barco está pescando o navegando.",
+   "raw": "si un barco está pescando o navegando."
+  },
+  {
+   "start": 365.78,
+   "end": 369.78,
+   "text": "Y dependiendo del tipo de movimientos también sabemos qué tipo de pesca realiza.",
+   "raw": "Y dependiendo del tipo de movimientos también sabemos qué tipo de pesca realiza."
+  },
+  {
+   "start": 369.78,
+   "end": 373.78,
+   "text": "Entonces con un grupo de colegas internacionales, científicos y economistas",
+   "raw": "Entonces con un grupo de colegas internacionales, científicos y economistas"
+  },
+  {
+   "start": 373.78,
+   "end": 378.78,
+   "text": "decidimos investigar quién pesca en alta mar y quién se beneficia.",
+   "raw": "decidimos investigar quién pesca en alta mar y quién se beneficia."
+  },
+  {
+   "start": 378.78,
+   "end": 381.78,
+   "text": "Mi colega Juan Mayorga de la Universidad de California en Santa Barbara",
+   "raw": "Mi colega Juan Mayorga de la Universidad de California en Santa Barbara"
+  },
+  {
+   "start": 381.78,
+   "end": 384.78,
+   "text": "ha producido mapas detallados del esfuerzo pesquero.",
+   "raw": "ha producido mapas detallados del esfuerzo pesquero."
+  },
+  {
+   "start": 384.78,
+   "end": 389.78,
+   "text": "Esto significa cuánto tiempo y combustible se usa para pescar en cada punto del mar.",
+   "raw": "Esto significa cuánto tiempo y combustible se usa para pescar en cada punto del mar."
+  },
+  {
+   "start": 389.78,
+   "end": 393.78,
+   "text": "Tenemos mapas para cada país que pesca en alta mar.",
+   "raw": "Tenemos mapas para cada país que pesca en alta mar."
+  },
+  {
+   "start": 393.78,
+   "end": 401.78,
+   "text": "China, Taiwán, Japón, Corea y España representan casi el 80% del esfuerzo pesquero en alta mar.",
+   "raw": "China, Taiwán, Japón, Corea y España representan casi el 80% del esfuerzo pesquero en alta mar."
+  },
+  {
+   "start": 401.78,
+   "end": 405.78,
+   "text": "Cuando unimos a todos los países esto es lo que obtenemos.",
+   "raw": "Cuando unimos a todos los países esto es lo que obtenemos."
+  },
+  {
+   "start": 405.78,
+   "end": 407.78,
+   "text": "El mapa global de esfuerzo pesquero.",
+   "raw": "El mapa global de esfuerzo pesquero."
+  },
+  {
+   "start": 407.78,
+   "end": 410.78,
+   "text": "Sabemos la identidad de cada barco en la base de datos.",
+   "raw": "Sabemos la identidad de cada barco en la base de datos."
+  },
+  {
+   "start": 410.78,
+   "end": 415.78,
+   "text": "Sabemos la longitud del barco, el tonelaje, la potencia de los motores, cuántos tripulantes hay a bordo.",
+   "raw": "Sabemos la longitud del barco, el tonelaje, la potencia de los motores, cuántos tripulantes hay a bordo."
+  },
+  {
+   "start": 415.78,
+   "end": 421.78,
+   "text": "Con esto podemos calcular los costos de personal, los costos de combustible, etc.",
+   "raw": "Con esto podemos calcular los costos de personal, los costos de combustible, etc."
+  },
+  {
+   "start": 421.78,
+   "end": 429.78,
+   "text": "Por lo que por primera vez hemos podido calcular cuáles son los costos de pescar en alta mar.",
+   "raw": "Por lo que por primera vez hemos podido calcular cuáles son los costos de pescar en alta mar."
+  },
+  {
+   "start": 429.78,
+   "end": 432.78,
+   "text": "Mientras más oscuro el rojo, más altos los costos.",
+   "raw": "Mientras más oscuro el rojo, más más altos los costos."
+  },
+  {
+   "start": 432.78,
+   "end": 440.78,
+   "text": "Colegas de la Universidad de la Columbia Británica nos han podido iluminar cuánto está pescando cada país.",
+   "raw": "Colegas de la Universidad de la Columbia Británica nos han podido iluminar cuánto está pescando cada país."
+  },
+  {
+   "start": 440.78,
+   "end": 443.78,
+   "text": "También sabemos el precio del pescado cuando sale del barco.",
+   "raw": "También sabemos el precio del pescado cuando sale del barco."
+  },
+  {
+   "start": 443.78,
+   "end": 452.78,
+   "text": "Combinado con los datos de esfuerzo hemos podido calcular también por primera vez las ganancias, los ingresos de la pesca en alta mar.",
+   "raw": "Combinado con los datos de esfuerzo hemos podido calcular también por primera vez las ganancias, los ingresos de la pesca en alta mar."
+  },
+  {
+   "start": 452.78,
+   "end": 455.78,
+   "text": "Tenemos costos y tenemos ingresos.",
+   "raw": "Tenemos costos y tenemos ingresos."
+  },
+  {
+   "start": 455.78,
+   "end": 462.78,
+   "text": "Por lo que por primera vez también hemos podido calcular la rentabilidad de la pesca en alta mar.",
+   "raw": "Por lo que por primera vez también hemos podido calcular la rentabilidad de la pesca en alta mar."
+  },
+  {
+   "start": 462.78,
+   "end": 465.78,
+   "text": "Los beneficios económicos netos.",
+   "raw": "Los beneficios económicos netos."
+  },
+  {
+   "start": 465.78,
+   "end": 467.78,
+   "text": "Ahora les voy a enseñar otro mapa.",
+   "raw": "Ahora les voy a enseñar otro mapa."
+  },
+  {
+   "start": 467.78,
+   "end": 471.78,
+   "text": "Los colores rojos significa que estamos perdiendo dinero pescando en esa área del océano.",
+   "raw": "Los colores rojos significa que estamos perdiendo dinero pescando en esa área del océano."
+  },
+  {
+   "start": 471.78,
+   "end": 475.78,
+   "text": "Los colores azules significa que la pesca allí es rentable.",
+   "raw": "Los colores azules significa que la pesca allí es rentable."
+  },
+  {
+   "start": 475.78,
+   "end": 476.78,
+   "text": "Aquí está.",
+   "raw": "Aquí está."
+  },
+  {
+   "start": 476.78,
+   "end": 479.78,
+   "text": "Parece bastante rentable, ¿no?",
+   "raw": "Parece bastante rentable, ¿no?"
+  },
+  {
+   "start": 479.78,
+   "end": 483.78,
+   "text": "Pero hay dos factores importantes que tenemos que tener en cuenta.",
+   "raw": "Pero hay dos factores importantes que tenemos que tener en cuenta."
+  },
+  {
+   "start": 483.78,
+   "end": 491.78,
+   "text": "El primero es investigaciones recientes han revelado el uso de trabajos forzados o esclavitud moderna en alta mar.",
+   "raw": "El primero es investigaciones recientes han revelado el uso de trabajos forzados o esclavitud moderna en alta mar."
+  },
+  {
+   "start": 491.78,
+   "end": 497.78,
+   "text": "Compañías usan esclavitud moderna para reducir costos para sacar más beneficios.",
+   "raw": "Compañías usan esclavitud moderna para reducir costos para sacar más beneficios."
+  },
+  {
+   "start": 497.78,
+   "end": 507.78,
+   "text": "Y en segundo lugar, cada año los gobiernos subsidian a la pesca de alta mar con más de 4 mil millones de dólares.",
+   "raw": "Y en segundo lugar, cada año los gobiernos subsidian a la pesca de alta mar con más de 4 mil millones de dólares."
+  },
+  {
+   "start": 507.78,
+   "end": 509.78,
+   "text": "Volvamos al mapa de los beneficios.",
+   "raw": "Volvamos al mapa de los beneficios."
+  },
+  {
+   "start": 509.78,
+   "end": 516.78,
+   "text": "Si asumiéramos que no hay esclavitud, que a la gente se le paga un salario mínimo",
+   "raw": "Si asumiéramos que no hay esclavitud, que a la gente se le paga un salario mínimo"
+  },
+  {
+   "start": 516.78,
+   "end": 524.78,
+   "text": "y descontamos los subsidios gubernamentales de nuestro cálculo, el mapa se convierte en esto.",
+   "raw": "y descontamos los subsidios gubernamentales de nuestro cálculo, el mapa se convierte en esto."
+  },
+  {
+   "start": 524.78,
+   "end": 530.78,
+   "text": "La mitad de la pesca en alta mar no es rentable.",
+   "raw": "La mitad de la pesca en alta mar no es rentable."
+  },
+  {
+   "start": 530.78,
+   "end": 536.78,
+   "text": "De hecho, los subsidios son cuatro veces mayores que los beneficios.",
+   "raw": "De hecho, los subsidios son cuatro veces mayores que los beneficios."
+  },
+  {
+   "start": 536.78,
+   "end": 543.78,
+   "text": "Lo que esta análisis económica nos revela es que prácticamente la totalidad de la pesca en alta mar no tiene sentido.",
+   "raw": "Lo que esta análisis económica nos revela es que prácticamente la totalidad de la pesca en alta mar no tiene sentido."
+  },
+  {
+   "start": 543.78,
+   "end": 551.78,
+   "text": "¿Qué país, qué gobierno en susano juicio subsidiaría, apoyaría a una industria anclada en la explotación",
+   "raw": "¿Qué país, qué gobierno en susano juicio subsidiaría, apoyaría a una industria anclada en la explotación"
+  },
+  {
+   "start": 551.78,
+   "end": 556.78,
+   "text": "y fundamentalmente destructiva y que tampoco es tan rentable?",
+   "raw": "y fundamentalmente destructiva y que tampoco es tan rentable?"
+  },
+  {
+   "start": 557.78,
+   "end": 566.78,
+   "text": "Entonces, ¿por qué no cerramos todas las aguas internacionales a la pesca?",
+   "raw": "Entonces, ¿por qué no cerramos todas las aguas internacionales a la pesca?"
+  },
+  {
+   "start": 566.78,
+   "end": 573.78,
+   "text": "Creemos una reserva marina gigante en alta mar, dos tercios del Océano Global.",
+   "raw": "Creemos una reserva marina gigante en alta mar, dos tercios del Océano Global."
+  },
+  {
+   "start": 573.78,
+   "end": 580.78,
+   "text": "Estudios de la Universidad de California sugieren que tal reserva ayudaría a las especies de alta mar que migran como los atunes",
+   "raw": "Estudios de la Universidad de California sugieren que tal reserva ayudaría a las especies de alta mar que migran como los atunes"
+  },
+  {
+   "start": 580.78,
+   "end": 587.78,
+   "text": "y parte de ese incremento en la abundancia ayudaría a repoblar las aguas costeras de los países",
+   "raw": "y parte de ese incremento en la abundancia ayudaría a repoblar las aguas costeras de los países"
+  },
+  {
+   "start": 587.78,
+   "end": 591.78,
+   "text": "y las capturas de esas especies también se incrementarían, así como los beneficios",
+   "raw": "y las capturas de esas especies también se incrementarían, así como los beneficios,"
+  },
+  {
+   "start": 591.78,
+   "end": 594.78,
+   "text": "porque los costos de la pesca se disminuirían",
+   "raw": "porque los costos de la pesca se disminuirían"
+  },
+  {
+   "start": 594.78,
+   "end": 600.78,
+   "text": "y los peces que ahora los países grandes están pescando en el salvaje oeste los pescarían en los países costeros.",
+   "raw": "y los peces que ahora los países grandes están pescando en el salvaje oeste los pescarían en los países costeros."
+  },
+  {
+   "start": 600.78,
+   "end": 603.78,
+   "text": "Y los beneficios ecológicos serían enormes.",
+   "raw": "Y los beneficios ecológicos serían enormes."
+  },
+  {
+   "start": 603.78,
+   "end": 609.78,
+   "text": "Proporcionar un refugio de dos tercios del Océano para especies de predadores como los atunes y los tiburones",
+   "raw": "Proporcionar un refugio de dos tercios del Océano para especies de predadores como los atunes y los tiburones,"
+  },
+  {
+   "start": 609.78,
+   "end": 612.78,
+   "text": "que son esenciales para la salud del ecosistema.",
+   "raw": "que son esenciales para la salud del ecosistema."
+  },
+  {
+   "start": 612.78,
+   "end": 620.78,
+   "text": "Entonces, proteger alta mar, las aguas internacionales tendrían beneficios ecológicos, económicos y sociales.",
+   "raw": "Entonces, proteger alta mar, las aguas internacionales tendrían beneficios ecológicos, económicos y sociales."
+  },
+  {
+   "start": 620.78,
+   "end": 627.78,
+   "text": "Pero la verdad es que la mayor parte de las compañías pesqueras no les importa el medio ambiente.",
+   "raw": "Pero la verdad es que la mayor parte de las compañías pesqueras no les importa el medio ambiente."
+  },
+  {
+   "start": 627.78,
+   "end": 632.78,
+   "text": "Ganarían más dinero si no pescaran en alta mar.",
+   "raw": "Ganarían más dinero si no pescaran en alta mar."
+  },
+  {
+   "start": 632.78,
+   "end": 638.78,
+   "text": "Además, esto no impediría que pudiéramos alimentar a la creciente población humana",
+   "raw": "Además, esto no impediría que pudiéramos alimentar a la creciente población humana"
+  },
+  {
+   "start": 638.78,
+   "end": 644.78,
+   "text": "porque la pesca de alta mar representa solamente el 5% de las capturas marinas globales",
+   "raw": "porque la pesca de alta mar representa solamente el 5% de las capturas marinas globales,"
+  },
+  {
+   "start": 644.78,
+   "end": 649.78,
+   "text": "porque alta mar no es tan productiva como las aguas costeras.",
+   "raw": "porque alta mar no es tan productiva como las aguas costeras."
+  },
+  {
+   "start": 649.78,
+   "end": 663.78,
+   "text": "Y las capturas de alta mar se venden como artículos de alto standing como el sashimi de tuna y la sopa de aleta de tiburón.",
+   "raw": "Y las capturas de alta mar se venden como artículos de alto standing como el sashimi de tuna y la sopa de aleta de tiburón."
+  },
+  {
+   "start": 663.78,
+   "end": 669.78,
+   "text": "Las capturas de alta mar no contribuyen a la seguridad alimentaria global.",
+   "raw": "Las capturas de alta mar no contribuyen a la seguridad alimentaria global."
+  },
+  {
+   "start": 669.78,
+   "end": 674.78,
+   "text": "Entonces, ¿cómo vamos a hacer esto? ¿Cómo vamos a proteger las aguas internacionales?",
+   "raw": "Entonces, ¿cómo vamos a hacer esto? ¿Cómo vamos a proteger las aguas internacionales?"
+  },
+  {
+   "start": 674.78,
+   "end": 681.78,
+   "text": "Ahora mismo negociadores en las Naciones Unidas están comenzando discusiones para un nuevo tratado",
+   "raw": "Ahora mismo negociadores en las Naciones Unidas están comenzando discusiones para un nuevo tratado,"
+  },
+  {
+   "start": 681.78,
+   "end": 684.78,
+   "text": "para la conservación en aguas internacionales.",
+   "raw": "para la conservación en aguas internacionales."
+  },
+  {
+   "start": 684.78,
+   "end": 688.78,
+   "text": "Pero esto no debería pasar a puerta cerrada.",
+   "raw": "Pero esto no debería pasar a puerta cerrada."
+  },
+  {
+   "start": 688.78,
+   "end": 693.78,
+   "text": "Esta es nuestra gran oportunidad y todos debemos asegurar que nuestros países",
+   "raw": "Esta es nuestra gran oportunidad y todos debemos asegurar que nuestros países"
+  },
+  {
+   "start": 693.78,
+   "end": 698.78,
+   "text": "van a apoyar la conservación de las aguas internacionales.",
+   "raw": "van a apoyar la conservación de las aguas internacionales."
+  },
+  {
+   "start": 698.78,
+   "end": 700.78,
+   "text": "Hay un precedente.",
+   "raw": "Hay un precedente."
+  },
+  {
+   "start": 700.78,
+   "end": 707.78,
+   "text": "En el 2016, 24 países y la Unión Europea acordaron proteger el Mar de Ros",
+   "raw": "En el 2016, 24 países y la Unión Europea acordaron proteger el Mar de Ros,"
+  },
+  {
+   "start": 707.78,
+   "end": 710.78,
+   "text": "el lugar más salvaje de las aguas alrededor de la Antártica",
+   "raw": "el lugar más salvaje de las aguas alrededor de la Antártica,"
+  },
+  {
+   "start": 710.78,
+   "end": 714.78,
+   "text": "lleno de vidas salvaje como orcas, focas leopardo, pingüinos.",
+   "raw": "lleno de vidas salvaje como orcas, focas leopardo, pingüinos."
+  },
+  {
+   "start": 714.78,
+   "end": 719.78,
+   "text": "Y esas incluían naciones pesqueras como China, Rusia, España, Japón",
+   "raw": "Y esas incluían naciones pesqueras como China, Rusia, España, Japón,"
+  },
+  {
+   "start": 719.78,
+   "end": 727.78,
+   "text": "pero decidieron que proteger ese lugar tan único era más beneficioso que explotarlo por poco beneficio.",
+   "raw": "pero decidieron que proteger ese lugar tan único era más beneficioso que explotarlo por poco beneficio."
+  },
+  {
+   "start": 727.78,
+   "end": 732.78,
+   "text": "Ese es exactamente el tipo de cooperación internacional que vamos a necesitar.",
+   "raw": "Ese es exactamente el tipo de cooperación internacional que vamos a necesitar."
+  },
+  {
+   "start": 732.78,
+   "end": 735.78,
+   "text": "Lo podemos hacer de nuevo.",
+   "raw": "Lo podemos hacer de nuevo."
+  },
+  {
+   "start": 735.78,
+   "end": 743.78,
+   "text": "Si en 20 años nuestros hijos se lanzaran al azar en cualquier lugar del mar",
+   "raw": "Si en 20 años nuestros hijos se lanzaran al azar en cualquier lugar del mar,"
+  },
+  {
+   "start": 743.78,
+   "end": 745.78,
+   "text": "¿qué es lo que verían?",
+   "raw": "¿qué es lo que verían?"
+  },
+  {
+   "start": 745.78,
+   "end": 749.78,
+   "text": "Un desierto es un marino, como en la mayor parte de nuestro oceano hoy",
+   "raw": "Un desierto es un marino, como en la mayor parte de nuestro oceano hoy,"
+  },
+  {
+   "start": 749.78,
+   "end": 753.78,
+   "text": "o una abundancia de vida, nuestro legado para el futuro.",
+   "raw": "o una abundancia de vida, nuestro legado para el futuro."
+  },
+  {
+   "start": 753.78,
+   "end": 758.31,
+   "text": "Gracias.",
+   "raw": "Gracias."
+  },
+  {
+   "start": 758.31,
+   "end": 760.31,
+   "text": "Muchas gracias.",
+   "raw": "Muchas gracias."
+  }
+ ]
+}

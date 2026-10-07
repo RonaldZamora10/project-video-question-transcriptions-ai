@@ -105,7 +105,7 @@ def analyze(model_size: str) -> list[dict]:
 
 def save_csv(rows: list[dict], path: Path) -> None:
     path.parent.mkdir(parents=True, exist_ok=True)
-    with open(path, "w", newline="", encoding="utf-8") as file:
+    with open(path, "w", newline="", encoding="utf-8-sig") as file:  # con BOM: Excel muestra bien las tildes
         writer = csv.DictWriter(file, fieldnames=list(rows[0]))
         writer.writeheader()
         writer.writerows(rows)
@@ -131,10 +131,11 @@ def main() -> None:
 
     for row in rows:
         print(row)
+    # Se compara contra la estimación de los MISMOS videos (método del Entregable 1: minutos × 150 palabras).
     total = sum(row["palabras"] for row in rows)
-    estimate = load_config()["analysis"]["corpus_estimate_words"]
-    print(f"\nPalabras reales del corpus: {total} | estimadas en el Entregable 1: {estimate}")
-    print(f"Diferencia: {total - estimate:+} palabras")
+    estimate = sum(row["palabras_estimadas_150ppm"] for row in rows)
+    print(f"\n{len(rows)} videos analizados. Palabras reales: {total} | estimadas a 150 ppm: {estimate}")
+    print(f"Diferencia: {total - estimate:+} palabras ({100 * (total - estimate) / estimate:+.1f} %)")
     print(f"Tabla guardada en {output}")
 
 
