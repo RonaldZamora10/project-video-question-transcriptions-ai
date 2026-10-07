@@ -9,6 +9,7 @@ paths:
   references: data/referencias     # subtítulos humanos de TED, solo para medir el error de Whisper
   index: data/index                # base vectorial ChromaDB (se regenera, no se sube)
   reports: data/analisis           # tablas y resultados para el informe
+  eval_questions: data/eval/preguntas.yaml  # banco de preguntas de evaluación
 
 whisper:
   model: small            # tamaño elegido; ver docs/DECISIONES.md
@@ -20,13 +21,13 @@ whisper:
 
 cleaning:
   # Muletillas que se cuentan en el análisis de calidad (no se borran del texto: pueden ser palabras normales).
-  fillers: ["eh", "em", "mm", "este", "o sea", "pues", "bueno", "digamos", "vale"]
+  # "este" no se incluye: casi siempre es demostrativo ("este barco") y inflaba el conteo.
+  fillers: ["eh", "em", "mm", "o sea", "pues", "bueno", "digamos", "vale"]
   # Sonidos de duda que sí se eliminan porque no aportan contenido.
   hesitations: ["eh", "ehh", "em", "emm", "mm", "mmm", "ah", "ahh"]
 
 analysis:
-  estimated_words_per_minute: 150   # supuesto usado en el Entregable 1 para estimar el corpus
-  corpus_estimate_words: 15500      # estimación del Entregable 1, para contrastar con el conteo real
+  estimated_words_per_minute: 150   # supuesto del Entregable 1 para estimar el corpus (≈15.500 palabras en total)
 
 embeddings:
   model: intfloat/multilingual-e5-base
@@ -46,3 +47,7 @@ llm:
   num_ctx: 8192           # ventana de contexto; debe alcanzar para la transcripción completa (config. B)
   timeout_seconds: 600
   not_found_answer: "No encuentro esto en el video."
+
+evaluation:
+  retrieval_tolerance_seconds: 15   # margen al comprobar si un fragmento recuperado contiene el minuto de la respuesta
+  citation_tolerance_seconds: 60    # margen para dar por buena una cita [mm:ss] (los fragmentos duran ~45 s)

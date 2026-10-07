@@ -1,0 +1,676 @@
+{
+ "video_id": "04_musica",
+ "whisper_model": "small",
+ "language": "es",
+ "language_probability": 1,
+ "duration_seconds": 947.49,
+ "transcription_seconds": 6082.0,
+ "segments": [
+  {
+   "start": 0.0,
+   "end": 15.7,
+   "text": "A los siete años mi padre me llevó a un concierto de música clásica por primera vez y salí llorando.",
+   "raw": "A los siete años mi padre me llevó a un concierto de música clásica por primera vez y salí llorando."
+  },
+  {
+   "start": 15.7,
+   "end": 19.34,
+   "text": "Tocaban la quinta sinfonía de Beethoven.",
+   "raw": "Tocaban la quinta sinfonía de Beethoven."
+  },
+  {
+   "start": 20.98,
+   "end": 28.03,
+   "text": "¿Cómo preparas un niño antes de que vaya a un concierto de música clásica por primera vez?",
+   "raw": "¿Cómo preparas un niño antes de que vaya a un concierto de música clásica por primera vez?"
+  },
+  {
+   "start": 28.03,
+   "end": 33.87,
+   "text": "Bueno, unos días antes nos sentamos a escuchar una grabación que él tenía y ahí me explicó",
+   "raw": "Bueno, unos días antes nos sentamos a escuchar una grabación que él tenía y ahí me explicó"
+  },
+  {
+   "start": 33.87,
+   "end": 38.91,
+   "text": "un par de cosas sencillas, como por ejemplo la insistencia del tatatatán a lo largo de",
+   "raw": "un par de cosas sencillas, como por ejemplo la insistencia del tatatatán a lo largo de"
+  },
+  {
+   "start": 38.91,
+   "end": 43.83,
+   "text": "todo el primer movimiento, pero que además regresa más tarde en la sinfonía, que esta",
+   "raw": "todo el primer movimiento, pero que además regresa más tarde en la sinfonía, que esta"
+  },
+  {
+   "start": 43.83,
+   "end": 49.99,
+   "text": "sinfonía tenía cuatro movimientos o cuatro partes, o que el final de ésta sería una victoria",
+   "raw": "sinfonía tenía cuatro movimientos o cuatro partes, o que el final de ésta sería una victoria,"
+  },
+  {
+   "start": 49.99,
+   "end": 57.23,
+   "text": "una victoria humana, musical, concreta o abstracta, que lo que comienza con un insistente",
+   "raw": "una victoria humana, musical, concreta o abstracta, que lo que comienza con un insistente"
+  },
+  {
+   "start": 57.23,
+   "end": 61.95,
+   "text": "y sentencioso llamado se convierte en un triunfo lleno de validación y optimismo.",
+   "raw": "y sentencioso llamado se convierte en un triunfo lleno de validación y optimismo."
+  },
+  {
+   "start": 61.95,
+   "end": 66.31,
+   "text": "Incluso jugábamos a un juego. Cada vez que comenzaron la sección de la que habíamos",
+   "raw": "Incluso jugábamos a un juego. Cada vez que comenzaron la sección de la que habíamos"
+  },
+  {
+   "start": 66.31,
+   "end": 72.55,
+   "text": "hablado, yo apretaría su mano en señal de reconocimiento. Con esta información llegué",
+   "raw": "hablado, yo apretaría su mano en señal de reconocimiento. Con esta información llegué"
+  },
+  {
+   "start": 72.55,
+   "end": 79.31,
+   "text": "al teatro. Esto y la natural curiosidad me cargaron de expectativas. Por una parte estaba",
+   "raw": "al teatro. Esto y la natural curiosidad me cargaron de expectativas. Por una parte estaba"
+  },
+  {
+   "start": 79.31,
+   "end": 83.63,
+   "text": "tan concentrado, sí, disfrutando de la música, pero también de la experiencia de estar ahí.",
+   "raw": "tan concentrado, sí, disfrutando de la música, pero también de la experiencia de estar ahí."
+  },
+  {
+   "start": 83.63,
+   "end": 89.39,
+   "text": "El público atento, la orquesta numerosa, el sonido apasionado. Todo iba según lo",
+   "raw": "El público atento, la orquesta numerosa, el sonido apasionado. Todo iba según lo"
+  },
+  {
+   "start": 89.39,
+   "end": 94.99,
+   "text": "había anticipado. Hasta que de pronto ocurre algo increíble. Algo que hasta",
+   "raw": "había anticipado. Hasta que de pronto ocurre algo increíble. Algo que hasta"
+  },
+  {
+   "start": 94.99,
+   "end": 100.71,
+   "text": "el día de hoy sigo considerando uno de los momentos musicales más perfectos jamás escritos.",
+   "raw": "el día de hoy sigo considerando uno de los momentos musicales más perfectos jamás escritos."
+  },
+  {
+   "start": 100.71,
+   "end": 105.63,
+   "text": "Un milagro. La música hace un rato venía repitiendo un",
+   "raw": "Un milagro. La música hace un rato venía repitiendo un"
+  },
+  {
+   "start": 105.63,
+   "end": 119.33,
+   "text": "gesto. ¿Lo identifica? Pero además, una sucesión de acordes que",
+   "raw": "gesto. ¿Lo identifica? Pero además, una sucesión de acordes que"
+  },
+  {
+   "start": 119.33,
+   "end": 128.27,
+   "text": "me hacían pensar que después de esto seguramente vendría esto. Una suerte de sentido común",
+   "raw": "me hacían pensar que después de esto seguramente vendría esto. Una suerte de sentido común"
+  },
+  {
+   "start": 129.23,
+   "end": 133.07,
+   "text": "pero no hay nada de milagroso en eso. Humildemente esa resolución también la podría haber escrito",
+   "raw": "pero no hay nada de milagroso en eso. Humildemente esa resolución también la podría haber escrito"
+  },
+  {
+   "start": 133.07,
+   "end": 139.03,
+   "text": "yo y de paso terminamos el movimiento y dejamos que la gente tosa tranquila y compulsivamente",
+   "raw": "yo y de paso terminamos el movimiento y dejamos que la gente tosa tranquila y compulsivamente,"
+  },
+  {
+   "start": 139.03,
+   "end": 146.23,
+   "text": "se os han dado cuenta, o que redicen su teléfono. Pero esta música no la escribí yo y Beethoven",
+   "raw": "se os han dado cuenta, o que redicen su teléfono. Pero esta música no la escribí yo y Beethoven"
+  },
+  {
+   "start": 146.23,
+   "end": 154.47,
+   "text": "es Beethoven por algo. Retrocedamos unos segundos de esa música. Todo esto sigue un patrón",
+   "raw": "es Beethoven por algo. Retrocedamos unos segundos de esa música. Todo esto sigue un patrón"
+  },
+  {
+   "start": 154.47,
+   "end": 162.55,
+   "text": "y ya sabemos cómo debería concluir. Y esto no me lo esperaba. Un niño diría como que te engaña.",
+   "raw": "y ya sabemos cómo debería concluir. Y esto no me lo esperaba. Un niño diría como que te engaña."
+  },
+  {
+   "start": 162.55,
+   "end": 169.35,
+   "text": "Esa nota salía de otro universo sonoro sorprende. La música, el ritmo, late apenas al filo de",
+   "raw": "Esa nota salía de otro universo sonoro sorprende. La música, el ritmo, late apenas al filo de"
+  },
+  {
+   "start": 169.35,
+   "end": 174.63,
+   "text": "su extinción, pero poco a poco se estabiliza como dando señales vitales. Desimpulso grotaron",
+   "raw": "su extinción, pero poco a poco se estabiliza como dando señales vitales. Desimpulso grotaron"
+  },
+  {
+   "start": 174.63,
+   "end": 180.15,
+   "text": "los violines y una línea melódica errática, intermitente, insegura incluso hasta que",
+   "raw": "los violines y una línea melódica errática, intermitente, insegura incluso hasta que"
+  },
+  {
+   "start": 180.15,
+   "end": 185.79,
+   "text": "también encuentra consistencia. De esa forma la música cautiva nuestra atención. Es un momento",
+   "raw": "también encuentra consistencia. De esa forma la música cautiva nuestra atención. Es un momento"
+  },
+  {
+   "start": 185.79,
+   "end": 192.07,
+   "text": "cargado de la promesa de un inminente desenlace. Dese algo que sabemos que va a ocurrir y que",
+   "raw": "cargado de la promesa de un inminente desenlace. Dese algo que sabemos que va a ocurrir y que,"
+  },
+  {
+   "start": 192.07,
+   "end": 206.2,
+   "text": "sin darnos cuenta, ya lo esperábamos. Después de eso, el padre me dio y me abrazó emocionado.",
+   "raw": "sin darnos cuenta, ya lo esperábamos. Después de eso, el padre me dio y me abrazó emocionado."
+  },
+  {
+   "start": 206.2,
+   "end": 213.04,
+   "text": "Yo soy Osaba. Yo miré y le dije, no sé por qué estoy llorando, si no es tristeza lo que siento.",
+   "raw": "Yo soy Osaba. Yo miré y le dije, no sé por qué estoy llorando, si no es tristeza lo que siento."
+  },
+  {
+   "start": 214.04,
+   "end": 220.32,
+   "text": "Ese momento marcó mi vida. Fue ahí a los siete años que decidí dedicar mi vida a la música",
+   "raw": "Ese momento marcó mi vida. Fue ahí a los siete años que decidí dedicar mi vida a la música,"
+  },
+  {
+   "start": 220.32,
+   "end": 228.24,
+   "text": "porque quería recrear ese momento. Entenderlo y después compartir y contagiarlo. Veamos si",
+   "raw": "porque quería recrear ese momento. Entenderlo y después compartir y contagiarlo. Veamos si"
+  },
+  {
+   "start": 228.24,
+   "end": 233.24,
+   "text": "podemos lograrlo aquí y ahora. Yo creo que es contagioso. Cuando les conté esta nota inesperada",
+   "raw": "podemos lograrlo aquí y ahora. Yo creo que es contagioso. Cuando les conté esta nota inesperada"
+  },
+  {
+   "start": 234.92,
+   "end": 241.28,
+   "text": "de esa llave a nuevas opciones que finalmente se transforma en la puerta a este gran triunfo",
+   "raw": "de esa llave a nuevas opciones que finalmente se transforma en la puerta a este gran triunfo"
+  },
+  {
+   "start": 241.28,
+   "end": 246.12,
+   "text": "musical, lo que hice fue apuntualizar un fenómeno muy simple y al mismo tiempo muy común en la",
+   "raw": "musical, lo que hice fue apuntualizar un fenómeno muy simple y al mismo tiempo muy común en la"
+  },
+  {
+   "start": 246.12,
+   "end": 251.76,
+   "text": "vida misma, las expectativas. Si el tercer movimiento, efectivamente, hubiese terminado así",
+   "raw": "vida misma, las expectativas. Si el tercer movimiento, efectivamente, hubiese terminado así,"
+  },
+  {
+   "start": 253.24,
+   "end": 257.56,
+   "text": "nuestra percepción de lo ocurrido se marcaría dentro de ciertos parámetros de expectativas.",
+   "raw": "nuestra percepción de lo ocurrido se marcaría dentro de ciertos parámetros de expectativas."
+  },
+  {
+   "start": 257.56,
+   "end": 264.84,
+   "text": "Básicamente, recibimos lo que esperamos. La música concluye, el público se acomoda.",
+   "raw": "Básicamente, recibimos lo que esperamos. La música concluye, el público se acomoda."
+  },
+  {
+   "start": 265.84,
+   "end": 272.36,
+   "text": "Los instrumentistas se relajan un segundo hasta que el director de la orquesta vuelve a levantar",
+   "raw": "Los instrumentistas se relajan un segundo hasta que el director de la orquesta vuelve a levantar"
+  },
+  {
+   "start": 272.36,
+   "end": 283.7,
+   "text": "las manos en señal de investida para remeter con el último movimiento. Funciona. La música impacta de",
+   "raw": "las manos en señal de investida para remeter con el último movimiento. Funciona. La música impacta de"
+  },
+  {
+   "start": 283.7,
+   "end": 289.14,
+   "text": "todas formas. Pero no es lo mismo. Esa transición que escribió Beethoven no solo cumple con la",
+   "raw": "todas formas. Pero no es lo mismo. Esa transición que escribió Beethoven no solo cumple con la"
+  },
+  {
+   "start": 289.14,
+   "end": 295.34,
+   "text": "función de conectar una música con otra, sino que genera otro tipo de expectativas.",
+   "raw": "función de conectar una música con otra, sino que genera otro tipo de expectativas."
+  },
+  {
+   "start": 295.78,
+   "end": 300.94,
+   "text": "Desde esa nota inesperada hasta la búsqueda de nueva estabilidad en el ritmo, la melodía",
+   "raw": "Desde esa nota inesperada hasta la búsqueda de nueva estabilidad en el ritmo, la melodía,"
+  },
+  {
+   "start": 300.94,
+   "end": 307.14,
+   "text": "la armonía y esa textura que crece y desemboca en algo mayor. Pero en el intertanto nuestra mente",
+   "raw": "la armonía y esa textura que crece y desemboca en algo mayor. Pero en el intertanto nuestra mente"
+  },
+  {
+   "start": 307.14,
+   "end": 312.22,
+   "text": "reacciona, comienza a buscar alternativas, escenarios posibles y Beethoven lo sabe. Por eso esa",
+   "raw": "reacciona, comienza a buscar alternativas, escenarios posibles y Beethoven lo sabe. Por eso esa"
+  },
+  {
+   "start": 312.22,
+   "end": 318.54,
+   "text": "disolución y divagar de la música nos confunde y esa confusión genera expectativas que son",
+   "raw": "disolución y divagar de la música nos confunde y esa confusión genera expectativas que son"
+  },
+  {
+   "start": 318.54,
+   "end": 323.94,
+   "text": "mezcla de predicción y disposición a seguir siendo sorprendidos, ya que la misma música nos",
+   "raw": "mezcla de predicción y disposición a seguir siendo sorprendidos, ya que la misma música nos"
+  },
+  {
+   "start": 323.94,
+   "end": 330.74,
+   "text": "acaba de mostrar que todo es posible. En un nivel extra musical se parece a mi propia actitud antes",
+   "raw": "acaba de mostrar que todo es posible. En un nivel extra musical se parece a mi propia actitud antes"
+  },
+  {
+   "start": 330.74,
+   "end": 336.54,
+   "text": "y durante el concierto. La información de mi padre fue un incentivo para llegar al teatro lleno de",
+   "raw": "y durante el concierto. La información de mi padre fue un incentivo para llegar al teatro lleno de"
+  },
+  {
+   "start": 336.54,
+   "end": 341.1,
+   "text": "expectativas, a reconocer lo que ya sabía, a constatar. Pero una vez de que me sorprendió",
+   "raw": "expectativas, a reconocer lo que ya sabía, a constatar. Pero una vez de que me sorprendió,"
+  },
+  {
+   "start": 341.1,
+   "end": 346.82,
+   "text": "ya todo era posible. El poder evocador de la música proviene en gran medida de su capacidad",
+   "raw": "ya todo era posible. El poder evocador de la música proviene en gran medida de su capacidad"
+  },
+  {
+   "start": 346.82,
+   "end": 354.94,
+   "text": "de generar, prolongar, suspender o incluso traicionar expectativas. ¿Pero qué esperamos de ella? De la",
+   "raw": "de generar, prolongar, suspender o incluso traicionar expectativas. ¿Pero qué esperamos de ella? De la"
+  },
+  {
+   "start": 354.94,
+   "end": 370.35,
+   "text": "música misma, una melodía y un acompañamiento, una idea que se presenta y aloga y encuentra un cierre",
+   "raw": "música misma, una melodía y un acompañamiento, una idea que se presenta y aloga y encuentra un cierre,"
+  },
+  {
+   "start": 374.13,
+   "end": 385.22,
+   "text": "una nueva idea, más jocosa, todo apacible, esperable, expectativas cumplidas.",
+   "raw": "una nueva idea, más jocosa, todo apacible, esperable, expectativas cumplidas."
+  },
+  {
+   "start": 388.44,
+   "end": 407.75,
+   "text": "Giro inesperado, drama, ópera, no se veía venir, porque es más fácil predecirle de la consistencia",
+   "raw": "Giro inesperado, drama, ópera, no se veía venir, porque es más fácil predecirle de la consistencia"
+  },
+  {
+   "start": 407.75,
+   "end": 412.79,
+   "text": "como este preludio de bajo. Estamos diseñados para buscar estabilidad y asegurarnos una",
+   "raw": "como este preludio de bajo. Estamos diseñados para buscar estabilidad y asegurarnos una"
+  },
+  {
+   "start": 412.79,
+   "end": 420.98,
+   "text": "predicción. Se gatilla en asociaciones y la memoria saca conclusiones. La consistencia",
+   "raw": "predicción. Se gatilla en asociaciones y la memoria saca conclusiones. La consistencia"
+  },
+  {
+   "start": 421.02,
+   "end": 427.46,
+   "text": "nos permite anticipar y aceptar. Y una de las fuentes de placer al escuchar música es cuando",
+   "raw": "nos permite anticipar y aceptar. Y una de las fuentes de placer al escuchar música es cuando"
+  },
+  {
+   "start": 427.46,
+   "end": 433.9,
+   "text": "nuestras expectativas se cumplen. Pero y cuando perdemos el control de la predicción, cuando no",
+   "raw": "nuestras expectativas se cumplen. Pero y cuando perdemos el control de la predicción, cuando no"
+  },
+  {
+   "start": 433.9,
+   "end": 445.44,
+   "text": "se cumplen, gran recurso del romanticismo. Translist juega con este sorprender, una melodía",
+   "raw": "se cumplen, gran recurso del romanticismo. Translist juega con este sorprender, una melodía"
+  },
+  {
+   "start": 445.44,
+   "end": 462.22,
+   "text": "apasionada, arrebatada, que comienza un viaje, pero regresa. Y ahí, cuando todo parecía ir",
+   "raw": "apasionada, arrebatada, que comienza un viaje, pero regresa. Y ahí, cuando todo parecía ir"
+  },
+  {
+   "start": 462.22,
+   "end": 474.86,
+   "text": "por el mismo camino, seguro, predecible, se abre una puerta, otra alternativa que desestabiliza",
+   "raw": "por el mismo camino, seguro, predecible, se abre una puerta, otra alternativa que desestabiliza,"
+  },
+  {
+   "start": 474.86,
+   "end": 491.85,
+   "text": "pero fascina. Otra más. Fue como encontrar opciones que no se veían posibles y ese",
+   "raw": "pero fascina. Otra más. Fue como encontrar opciones que no se veían posibles y ese"
+  },
+  {
+   "start": 491.85,
+   "end": 502.04,
+   "text": "desafío de las expectativas no se duce. O un contraste. Maler sentencia, oscuras la vida",
+   "raw": "desafío de las expectativas no se duce. O un contraste. Maler sentencia, oscuras la vida,"
+  },
+  {
+   "start": 502.68,
+   "end": 516.37,
+   "text": "oscuras la muerte. Seria y desesperanzada la música toma un nuevo giro. Pero además",
+   "raw": "oscuras la muerte. Seria y desesperanzada la música toma un nuevo giro. Pero además,"
+  },
+  {
+   "start": 516.37,
+   "end": 525.73,
+   "text": "esta música tiene un dejo de movimiento, de baile, de bals. Y claro, el estilo, la tradición y la",
+   "raw": "esta música tiene un dejo de movimiento, de baile, de bals. Y claro, el estilo, la tradición y la"
+  },
+  {
+   "start": 525.73,
+   "end": 533.54,
+   "text": "herencia también generan expectativas. Porque Maler es heredero de toda una tradición bienesa",
+   "raw": "herencia también generan expectativas. Porque Maler es heredero de toda una tradición bienesa,"
+  },
+  {
+   "start": 533.54,
+   "end": 544.54,
+   "text": "donde esta música es parte de su ADN. Y el de nosotros, o no se sonrieron algunos al reconocer",
+   "raw": "donde esta música es parte de su ADN. Y el de nosotros, o no se sonrieron algunos al reconocer"
+  },
+  {
+   "start": 544.54,
+   "end": 551.42,
+   "text": "a este bal de Strauss, que por cierto, también está lleno de pequeños juegos de expectativas",
+   "raw": "a este bal de Strauss, que por cierto, también está lleno de pequeños juegos de expectativas,"
+  },
+  {
+   "start": 551.42,
+   "end": 562.61,
+   "text": "como estos sutiles cambios en el tempo, ese ir y venir. Pero que tanta grasa le dan",
+   "raw": "como estos sutiles cambios en el tempo, ese ir y venir. Pero que tanta grasa le dan,"
+  },
+  {
+   "start": 562.61,
+   "end": 581.86,
+   "text": "o sorpresas más radicales. Un nuevo bals. Como les dije, la tradición está en el inconsciente",
+   "raw": "o sorpresas más radicales. Un nuevo bals. Como les dije, la tradición está en el inconsciente"
+  },
+  {
+   "start": 581.86,
+   "end": 588.06,
+   "text": "colectivo. Y a través de gestos como este 1, 2, 3, 1, 2, 3, podemos reconocer incluso un",
+   "raw": "colectivo. Y a través de gestos como este 1, 2, 3, 1, 2, 3, podemos reconocer incluso un"
+  },
+  {
+   "start": 588.06,
+   "end": 613.8,
+   "text": "distorsionado y decadente bals escrito antes de la Primera Guerra Mundial. ¿No es como un",
+   "raw": "distorsionado y decadente bals escrito antes de la Primera Guerra Mundial. ¿No es como un"
+  },
+  {
+   "start": 613.8,
+   "end": 622.75,
+   "text": "fantasmagórico eco de ese bals bienes? Esas notas, al parecer inconexas, son productos de",
+   "raw": "fantasmagórico eco de ese bals bienes? Esas notas, al parecer inconexas, son productos de"
+  },
+  {
+   "start": 622.75,
+   "end": 628.99,
+   "text": "años de transformación de rey las musicales. Richard Wagner fue uno que contribuyó",
+   "raw": "años de transformación de rey las musicales. Richard Wagner fue uno que contribuyó,"
+  },
+  {
+   "start": 628.99,
+   "end": 637.31,
+   "text": "en su caso siendo un gran manipulador de expectativas. Música sugerente, llena de",
+   "raw": "en su caso siendo un gran manipulador de expectativas. Música sugerente, llena de"
+  },
+  {
+   "start": 637.39,
+   "end": 652.39,
+   "text": "erodismo, donde cada nota, cada sonido se aferra al próximo, se arrastra, se adhiere, pero que",
+   "raw": "erodismo, donde cada nota, cada sonido se aferra al próximo, se arrastra, se adhiere, pero que"
+  },
+  {
+   "start": 652.39,
+   "end": 664.94,
+   "text": "cambia permanentemente de dirección. Pero no todo lo que suena puede ser inesperado. Un",
+   "raw": "cambia permanentemente de dirección. Pero no todo lo que suena puede ser inesperado. Un"
+  },
+  {
+   "start": 664.94,
+   "end": 680.7,
+   "text": "silencio también puede ser provocador y dejar preguntas abiertas. El ensorrecedor silencio",
+   "raw": "silencio también puede ser provocador y dejar preguntas abiertas. El ensorrecedor silencio,"
+  },
+  {
+   "start": 682.58,
+   "end": 687.3,
+   "text": "de vicí y su sensual preludio la hacía hasta un fauno. Y ese sugirente silencio al comienzo",
+   "raw": "de vicí y su sensual preludio la hacía hasta un fauno. Y ese sugirente silencio al comienzo,"
+  },
+  {
+   "start": 687.3,
+   "end": 697.7,
+   "text": "el silencio, elemento esencial de la música. Más que ausencia o sonido, es un recurso",
+   "raw": "el silencio, elemento esencial de la música. Más que ausencia o sonido, es un recurso"
+  },
+  {
+   "start": 697.7,
+   "end": 704.62,
+   "text": "expresivo fundamental. Y uno de mis silencios favoritos es ese silencio complice, carregado",
+   "raw": "expresivo fundamental. Y uno de mis silencios favoritos es ese silencio complice, carregado"
+  },
+  {
+   "start": 704.62,
+   "end": 721.27,
+   "text": "de expectativas, el que ocurre antes de que la música sea. Pero también cada nuevo silencio",
+   "raw": "de expectativas, el que ocurre antes de que la música sea. Pero también cada nuevo silencio,"
+  },
+  {
+   "start": 721.67,
+   "end": 747.28,
+   "text": "regalando instantes de lucubración, siendo parte del discurso y conectando ideas que pueden",
+   "raw": "regalando instantes de lucubración, siendo parte del discurso y conectando ideas que pueden"
+  },
+  {
+   "start": 747.28,
+   "end": 770.94,
+   "text": "seguir creciendo. Contrastes, estabilidad e inestabilidad. Y a propósito, la estabilidad del pulso y cómo lo",
+   "raw": "seguir creciendo. Contrastes, estabilidad e inestabilidad. Y a propósito, la estabilidad del pulso y cómo lo"
+  },
+  {
+   "start": 770.94,
+   "end": 778.72,
+   "text": "agrupamos. Es una reacción instintiva que aparece apenas identificamos regularidad. Pero y cuando",
+   "raw": "agrupamos. Es una reacción instintiva que aparece apenas identificamos regularidad. Pero y cuando"
+  },
+  {
+   "start": 778.72,
+   "end": 784.4,
+   "text": "ya ni siquiera podemos anticipar esta agrupación y solo nos queda estar a merced de lo inestable.",
+   "raw": "ya ni siquiera podemos anticipar esta agrupación y solo nos queda estar a merced de lo inestable."
+  },
+  {
+   "start": 784.4,
+   "end": 802.3,
+   "text": "Escuchar música, muchas veces es como leer una buena novela policial, de esas en las que dudas hasta",
+   "raw": "Escuchar música, muchas veces es como leer una buena novela policial, de esas en las que dudas hasta"
+  },
+  {
+   "start": 802.3,
+   "end": 808.1,
+   "text": "del muerto. Y donde el nudo argumental y el inminente de ese enlace te hacen más sensibles",
+   "raw": "del muerto. Y donde el nudo argumental y el inminente de ese enlace te hacen más sensibles"
+  },
+  {
+   "start": 808.1,
+   "end": 813.42,
+   "text": "al cómo disminuye el grosor de las páginas, expectativas en el peso sobre la punta de tus",
+   "raw": "al cómo disminuye el grosor de las páginas, expectativas en el peso sobre la punta de tus"
+  },
+  {
+   "start": 814.26,
+   "end": 820.98,
+   "text": "dedos. El estado de atención cambia, es activa y aceleradamente especulativo. Ya no es si esto",
+   "raw": "dedos. El estado de atención cambia, es activa y aceleradamente especulativo. Ya no es si esto,"
+  },
+  {
+   "start": 820.98,
+   "end": 829.1,
+   "text": "entonces lo otro, sino si esto, luego esto, esto o lo otro. Como todo en la vida, en la naturaleza",
+   "raw": "entonces lo otro, sino si esto, luego esto, esto o lo otro. Como todo en la vida, en la naturaleza"
+  },
+  {
+   "start": 829.1,
+   "end": 833.58,
+   "text": "del arte también está presente esa idea de que hay que esperar lo inesperado. Pero ojo",
+   "raw": "del arte también está presente esa idea de que hay que esperar lo inesperado. Pero ojo,"
+  },
+  {
+   "start": 833.58,
+   "end": 837.42,
+   "text": "que lo inesperado no solamente tiene ese gustito de la primera vez. Por algo, volvemos a leer un",
+   "raw": "que lo inesperado no solamente tiene ese gustito de la primera vez. Por algo, volvemos a leer un"
+  },
+  {
+   "start": 837.42,
+   "end": 842.78,
+   "text": "clásico, a ver una película o escuchar una y otra vez la música que tanto nos gusta. En",
+   "raw": "clásico, a ver una película o escuchar una y otra vez la música que tanto nos gusta. En"
+  },
+  {
+   "start": 842.78,
+   "end": 847.22,
+   "text": "parte porque nos gusta experimentar desde la seguridad, como un niño que lee el mismo cuento",
+   "raw": "parte porque nos gusta experimentar desde la seguridad, como un niño que lee el mismo cuento"
+  },
+  {
+   "start": 847.22,
+   "end": 852.62,
+   "text": "todas las noches desde la tranquilidad de saber cómo termina. Pero además, la reelectora a través de",
+   "raw": "todas las noches desde la tranquilidad de saber cómo termina. Pero además, la reelectora a través de"
+  },
+  {
+   "start": 852.62,
+   "end": 858.98,
+   "text": "la memoria nos regala otros detalles, nos hace poner atención a otros lugares, a escuchar no la",
+   "raw": "la memoria nos regala otros detalles, nos hace poner atención a otros lugares, a escuchar no la"
+  },
+  {
+   "start": 858.98,
+   "end": 864.3,
+   "text": "melodía, sino el acompañamiento, por ejemplo, y descubrir que esa hermosa música había pasado",
+   "raw": "melodía, sino el acompañamiento, por ejemplo, y descubrir que esa hermosa música había pasado"
+  },
+  {
+   "start": 864.3,
+   "end": 872.58,
+   "text": "desapercibida, aún si siempre estuvo ahí. Reconocer, pero también para redescubrir un juego infinito de",
+   "raw": "desapercibida, aún si siempre estuvo ahí. Reconocer, pero también para redescubrir un juego infinito de"
+  },
+  {
+   "start": 872.58,
+   "end": 878.78,
+   "text": "expectativas o la relación entre el intérprete y el oyente, como lo va a ser, seguro que es distinto",
+   "raw": "expectativas o la relación entre el intérprete y el oyente, como lo va a ser, seguro que es distinto"
+  },
+  {
+   "start": 878.78,
+   "end": 882.7,
+   "text": "como me lo aprendí en la grabación que conozco. Pero es verdad la gracia si la música es un",
+   "raw": "como me lo aprendí en la grabación que conozco. Pero es verdad la gracia si la música es un"
+  },
+  {
+   "start": 882.7,
+   "end": 888.7,
+   "text": "organismo que respira y vive en el instante mismo en que suena. Sólo ahí la música es y",
+   "raw": "organismo que respira y vive en el instante mismo en que suena. Sólo ahí la música es y"
+  },
+  {
+   "start": 888.7,
+   "end": 896.06,
+   "text": "escucharla en vivo nos permite vivir ese momento lleno de expectativas. Cuando terminó el concierto",
+   "raw": "escucharla en vivo nos permite vivir ese momento lleno de expectativas. Cuando terminó el concierto,"
+  },
+  {
+   "start": 896.06,
+   "end": 904.94,
+   "text": "mi papá me llevó a conocer al director. Yo lo vi y me puse a llorar de nuevo. Sin decir nada, pensaba",
+   "raw": "mi papá me llevó a conocer al director. Yo lo vi y me puse a llorar de nuevo. Sin decir nada, pensaba,"
+  },
+  {
+   "start": 904.94,
+   "end": 910.54,
+   "text": "tú eres el responsable de estas lágrimas. Él me miró un poco descolocado. Pregunto si pasaba",
+   "raw": "tú eres el responsable de estas lágrimas. Él me miró un poco descolocado. Pregunto si pasaba"
+  },
+  {
+   "start": 910.54,
+   "end": 915.38,
+   "text": "algo más que mal. Muchas pueden ser las razones del llanto de un niño de siete años. Mi padre",
+   "raw": "algo más que mal. Muchas pueden ser las razones del llanto de un niño de siete años. Mi padre"
+  },
+  {
+   "start": 915.38,
+   "end": 919.18,
+   "text": "todavía emocionado le hizo un resumen y al entender el impacto que la música había tenido en mí",
+   "raw": "todavía emocionado le hizo un resumen y al entender el impacto que la música había tenido en mí,"
+  },
+  {
+   "start": 919.18,
+   "end": 926.66,
+   "text": "el director me abrazó y me dijo, bueno, por esto hacemos lo que hacemos. Ese día cambió mi vida.",
+   "raw": "el director me abrazó y me dijo, bueno, por esto hacemos lo que hacemos. Ese día cambió mi vida."
+  },
+  {
+   "start": 926.66,
+   "end": 932.18,
+   "text": "Mis expectativas han sido desde entonces cambiarlas de ustedes. Muchas gracias.",
+   "raw": "Mis expectativas han sido desde entonces cambiarlas de ustedes. Muchas gracias."
+  }
+ ]
+}

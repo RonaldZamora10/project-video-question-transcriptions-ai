@@ -1,0 +1,2008 @@
+{
+ "video_id": "02_privacidad",
+ "whisper_model": "small",
+ "language": "es",
+ "language_probability": 1,
+ "duration_seconds": 969.64,
+ "transcription_seconds": 454.4,
+ "segments": [
+  {
+   "start": 9.94,
+   "end": 13.94,
+   "text": "Yo no quiero aparecer más ahí, le dijo la niña.",
+   "raw": "Yo no quiero aparecer más ahí, le dijo la niña."
+  },
+  {
+   "start": 13.94,
+   "end": 16.26,
+   "text": "Esto lo cuenta la madre, la actriz argentina",
+   "raw": "Esto lo cuenta la madre, la actriz argentina,"
+  },
+  {
+   "start": 16.26,
+   "end": 19.14,
+   "text": "Griselda Siciliani en televisión.",
+   "raw": "Griselda Siciliani en televisión."
+  },
+  {
+   "start": 19.14,
+   "end": 22.14,
+   "text": "Fueron un local de ropa, nos llegaron la vendedora",
+   "raw": "Fueron un local de ropa, nos llegaron la vendedora,"
+  },
+  {
+   "start": 22.14,
+   "end": 23.42,
+   "text": "saludó la madre.",
+   "raw": "saludó la madre."
+  },
+  {
+   "start": 23.42,
+   "end": 25.42,
+   "text": "Hola, Margarita, ¿cómo estás?",
+   "raw": "Hola, Margarita, ¿cómo estás?"
+  },
+  {
+   "start": 25.42,
+   "end": 27.34,
+   "text": "Margarita, que tengas un lindo día.",
+   "raw": "Margarita, que tengas un lindo día."
+  },
+  {
+   "start": 27.34,
+   "end": 29.62,
+   "text": "Cuando la niña de seis años consultó a la madre",
+   "raw": "Cuando la niña de seis años consultó a la madre"
+  },
+  {
+   "start": 29.62,
+   "end": 31.98,
+   "text": "por qué una desconocida vendedora de un local de ropa",
+   "raw": "por qué una desconocida vendedora de un local de ropa"
+  },
+  {
+   "start": 31.98,
+   "end": 35.42,
+   "text": "sabía su nombre, ésta le dijo que probablemente era producto",
+   "raw": "sabía su nombre, ésta le dijo que probablemente era producto"
+  },
+  {
+   "start": 35.42,
+   "end": 37.18,
+   "text": "de las historias que subía a Instagram.",
+   "raw": "de las historias que subía a Instagram."
+  },
+  {
+   "start": 37.18,
+   "end": 39.46,
+   "text": "A lo que la nena, con mucha claridad, le dijo",
+   "raw": "A lo que la nena, con mucha claridad, le dijo,"
+  },
+  {
+   "start": 39.46,
+   "end": 42.42,
+   "text": "yo no quiero aparecer más ahí.",
+   "raw": "yo no quiero aparecer más ahí."
+  },
+  {
+   "start": 42.42,
+   "end": 44.26,
+   "text": "Hace unos años, durante varios días",
+   "raw": "Hace unos años, durante varios días,"
+  },
+  {
+   "start": 44.26,
+   "end": 48.02,
+   "text": "todos hablábamos de lo mismo, de la cheta de Nordelta",
+   "raw": "todos hablábamos de lo mismo, de la cheta de Nordelta,"
+  },
+  {
+   "start": 48.02,
+   "end": 50.82,
+   "text": "una señora que en un audio de WhatsApp",
+   "raw": "una señora que en un audio de WhatsApp"
+  },
+  {
+   "start": 50.82,
+   "end": 54.42,
+   "text": "hacía comentarios al menos polémicos, quejándose",
+   "raw": "hacía comentarios al menos polémicos, quejándose"
+  },
+  {
+   "start": 54.42,
+   "end": 57.54,
+   "text": "de los pocos codios de estética moral y estética visual",
+   "raw": "de los pocos codios de estética moral y estética visual"
+  },
+  {
+   "start": 57.54,
+   "end": 60.1,
+   "text": "que tenían los vecinos que tomaban mate en la pileta",
+   "raw": "que tenían los vecinos que tomaban mate en la pileta"
+  },
+  {
+   "start": 60.1,
+   "end": 61.66,
+   "text": "competida.",
+   "raw": "competida."
+  },
+  {
+   "start": 61.66,
+   "end": 64.86,
+   "text": "Los medios lo llamaron el audio viral del año.",
+   "raw": "Los medios lo llamaron el audio viral del año."
+  },
+  {
+   "start": 64.86,
+   "end": 68.34,
+   "text": "Nadie lo llamó una conversación privada entre una",
+   "raw": "Nadie lo llamó una conversación privada entre una"
+  },
+  {
+   "start": 68.38,
+   "end": 71.74,
+   "text": "persona y su agente inmobiliario.",
+   "raw": "persona y su agente inmobiliario."
+  },
+  {
+   "start": 71.74,
+   "end": 74.7,
+   "text": "Estes tipos de situaciones de conversaciones privadas o audios",
+   "raw": "Estes tipos de situaciones de conversaciones privadas o audios"
+  },
+  {
+   "start": 74.7,
+   "end": 77.66,
+   "text": "de WhatsApp que se filtran a los medios y se vuelven noticias",
+   "raw": "de WhatsApp que se filtran a los medios y se vuelven noticias"
+  },
+  {
+   "start": 77.66,
+   "end": 80.86,
+   "text": "o se viralizan, se volvieron totalmente cotidianas y son",
+   "raw": "o se viralizan, se volvieron totalmente cotidianas y son"
+  },
+  {
+   "start": 80.86,
+   "end": 83.94,
+   "text": "cada vez más frecuentes sin ningún tipo de debate sobre",
+   "raw": "cada vez más frecuentes sin ningún tipo de debate sobre"
+  },
+  {
+   "start": 83.94,
+   "end": 86.22,
+   "text": "por qué discutimos públicamente conversaciones",
+   "raw": "por qué discutimos públicamente conversaciones"
+  },
+  {
+   "start": 86.22,
+   "end": 88.82,
+   "text": "privadas.",
+   "raw": "privadas."
+  },
+  {
+   "start": 88.82,
+   "end": 90.94,
+   "text": "No se trata solo de la viralización o de los",
+   "raw": "No se trata solo de la viralización o de los"
+  },
+  {
+   "start": 90.94,
+   "end": 93.66,
+   "text": "famosos, esto aplica en otros ámbitos también",
+   "raw": "famosos, esto aplica en otros ámbitos también,"
+  },
+  {
+   "start": 93.66,
+   "end": 95.54,
+   "text": "otras historias.",
+   "raw": "otras historias."
+  },
+  {
+   "start": 95.54,
+   "end": 98.14,
+   "text": "Hace unos años y su viaje de capacitación",
+   "raw": "Hace unos años y su viaje de capacitación,"
+  },
+  {
+   "start": 98.14,
+   "end": 101.34,
+   "text": "éramos 30 a 40 personas que durante una semana compartimos",
+   "raw": "éramos 30 a 40 personas que durante una semana compartimos"
+  },
+  {
+   "start": 101.34,
+   "end": 104.34,
+   "text": "distintos talleres y distintas capacitaciones.",
+   "raw": "distintos talleres y distintas capacitaciones."
+  },
+  {
+   "start": 104.34,
+   "end": 107.38,
+   "text": "Me acuerdo que en un momento una chica me pide que le saco una",
+   "raw": "Me acuerdo que en un momento una chica me pide que le saco una"
+  },
+  {
+   "start": 107.38,
+   "end": 109.9,
+   "text": "foto con otros participantes y me da el celular.",
+   "raw": "foto con otros participantes y me da el celular."
+  },
+  {
+   "start": 109.9,
+   "end": 112.34,
+   "text": "Y yo veo que está bloqueado, entonces le digo",
+   "raw": "Y yo veo que está bloqueado, entonces le digo,"
+  },
+  {
+   "start": 112.34,
+   "end": 115.5,
+   "text": "¿lo puedes desbloquear por favor así te saco la foto?",
+   "raw": "¿lo puedes desbloquear por favor así te saco la foto?"
+  },
+  {
+   "start": 115.5,
+   "end": 118.98,
+   "text": "Y ella ya, esos 3 metros ubicada para la foto",
+   "raw": "Y ella ya, esos 3 metros ubicada para la foto,"
+  },
+  {
+   "start": 118.98,
+   "end": 121.18,
+   "text": "me digo que me grita, te paso la contraseña",
+   "raw": "me digo que me grita, te paso la contraseña,"
+  },
+  {
+   "start": 121.18,
+   "end": 123.38,
+   "text": "no me molesta que la tengas.",
+   "raw": "no me molesta que la tengas."
+  },
+  {
+   "start": 123.38,
+   "end": 125.26,
+   "text": "A lo que yo me acercé un poquito más y le dije",
+   "raw": "A lo que yo me acercé un poquito más y le dije,"
+  },
+  {
+   "start": 125.26,
+   "end": 130.8,
+   "text": "a mí me molesta tener tu contraseña.",
+   "raw": "a mí me molesta tener tu contraseña."
+  },
+  {
+   "start": 130.84,
+   "end": 133.0,
+   "text": "Otras historias, otras situaciones.",
+   "raw": "Otras historias, otras situaciones."
+  },
+  {
+   "start": 133.0,
+   "end": 136.2,
+   "text": "Un domingo cualquiera, en el almuerzo familiar",
+   "raw": "Un domingo cualquiera, en el almuerzo familiar,"
+  },
+  {
+   "start": 136.2,
+   "end": 138.84,
+   "text": "muchos se ríen del grupo de WhatsApp de papá con sus",
+   "raw": "muchos se ríen del grupo de WhatsApp de papá con sus"
+  },
+  {
+   "start": 138.84,
+   "end": 142.04,
+   "text": "amigos que se pasan pornografía todo el día como si fueran",
+   "raw": "amigos que se pasan pornografía todo el día como si fueran"
+  },
+  {
+   "start": 142.04,
+   "end": 144.28,
+   "text": "adolescentes.",
+   "raw": "adolescentes."
+  },
+  {
+   "start": 144.28,
+   "end": 147.64,
+   "text": "Muy gracioso, salvo que la mayoría de esos videos son",
+   "raw": "Muy gracioso, salvo que la mayoría de esos videos son"
+  },
+  {
+   "start": 147.64,
+   "end": 151.64,
+   "text": "compartidos sin el consentimiento de sus protagonistas.",
+   "raw": "compartidos sin el consentimiento de sus protagonistas."
+  },
+  {
+   "start": 151.64,
+   "end": 154.44,
+   "text": "En ese mismo almuerzo, otra pareja de la familia le saco una",
+   "raw": "En ese mismo almuerzo, otra pareja de la familia le saco una"
+  },
+  {
+   "start": 154.44,
+   "end": 157.92,
+   "text": "foto a su nena recién nacida y la sube a internet",
+   "raw": "foto a su nena recién nacida y la sube a internet,"
+  },
+  {
+   "start": 157.92,
+   "end": 160.0,
+   "text": "la sube a las redes sociales.",
+   "raw": "la sube a las redes sociales."
+  },
+  {
+   "start": 160.0,
+   "end": 163.24,
+   "text": "La Beba tiene 3 meses, ya tiene su perfil de Instagram",
+   "raw": "La Beba tiene 3 meses, ya tiene su perfil de Instagram,"
+  },
+  {
+   "start": 163.24,
+   "end": 167.12,
+   "text": "tiene decenas de fotos publicadas en internet y decenas o más",
+   "raw": "tiene decenas de fotos publicadas en internet y decenas o más"
+  },
+  {
+   "start": 167.12,
+   "end": 168.36,
+   "text": "de seguidores.",
+   "raw": "de seguidores."
+  },
+  {
+   "start": 168.36,
+   "end": 171.12,
+   "text": "Un estudio de la organización Parenzone",
+   "raw": "Un estudio de la organización Parenzone,"
+  },
+  {
+   "start": 171.12,
+   "end": 174.52,
+   "text": "la organización británica Parenzone dice que los menores",
+   "raw": "la organización británica Parenzone dice que los menores"
+  },
+  {
+   "start": 174.52,
+   "end": 177.88,
+   "text": "cuando llegan a los 5 años tienen alrededor de 1000 fotos",
+   "raw": "cuando llegan a los 5 años tienen alrededor de 1000 fotos"
+  },
+  {
+   "start": 177.88,
+   "end": 180.04,
+   "text": "publicadas en internet.",
+   "raw": "publicadas en internet."
+  },
+  {
+   "start": 180.04,
+   "end": 186.04,
+   "text": "1000 fotos en 5 años, 200 fotos por año, 16 por mes",
+   "raw": "1000 fotos en 5 años, 200 fotos por año, 16 por mes,"
+  },
+  {
+   "start": 186.04,
+   "end": 191.36,
+   "text": "4 por semana, una foto cada dos días.",
+   "raw": "4 por semana, una foto cada dos días."
+  },
+  {
+   "start": 191.36,
+   "end": 193.8,
+   "text": "La familia moderna en línea.",
+   "raw": "La familia moderna en línea."
+  },
+  {
+   "start": 193.8,
+   "end": 197.8,
+   "text": "Cuando leí este dato, se me ocurrió a ver si yo tenía 1000",
+   "raw": "Cuando leí este dato, se me ocurrió a ver si yo tenía 1000"
+  },
+  {
+   "start": 197.8,
+   "end": 202.4,
+   "text": "fotos publicadas en internet y no llegó.",
+   "raw": "fotos publicadas en internet y no llegó."
+  },
+  {
+   "start": 202.4,
+   "end": 206.56,
+   "text": "A mis 35 años tengo menos fotos publicadas en internet que la",
+   "raw": "A mis 35 años tengo menos fotos publicadas en internet que la"
+  },
+  {
+   "start": 206.56,
+   "end": 209.32,
+   "text": "mayoría de los niños y niñas de 5 años del mundo",
+   "raw": "mayoría de los niños y niñas de 5 años del mundo,"
+  },
+  {
+   "start": 209.32,
+   "end": 211.88,
+   "text": "a pesar de que nunca tomaron una decisión sobre",
+   "raw": "a pesar de que nunca tomaron una decisión sobre"
+  },
+  {
+   "start": 211.88,
+   "end": 213.84,
+   "text": "su participación en las redes.",
+   "raw": "su participación en las redes."
+  },
+  {
+   "start": 213.88,
+   "end": 215.56,
+   "text": "No se trata solamente de las personas",
+   "raw": "No se trata solamente de las personas,"
+  },
+  {
+   "start": 215.56,
+   "end": 217.52,
+   "text": "de los individuos, de las familias.",
+   "raw": "de los individuos, de las familias."
+  },
+  {
+   "start": 217.52,
+   "end": 220.52,
+   "text": "Esto también afecta al Estado, también afecta a las empresas.",
+   "raw": "Esto también afecta al Estado, también afecta a las empresas."
+  },
+  {
+   "start": 220.52,
+   "end": 223.6,
+   "text": "Hoy a la mañana, en un hermoso horario de sábado a las 8 y",
+   "raw": "Hoy a la mañana, en un hermoso horario de sábado a las 8 y"
+  },
+  {
+   "start": 223.6,
+   "end": 226.24,
+   "text": "media de la mañana, recibe un llamado telefónico.",
+   "raw": "media de la mañana, recibe un llamado telefónico."
+  },
+  {
+   "start": 226.24,
+   "end": 229.2,
+   "text": "Cualquier persona arrancando el fin de semana sin desayunar",
+   "raw": "Cualquier persona arrancando el fin de semana sin desayunar,"
+  },
+  {
+   "start": 229.2,
+   "end": 231.44,
+   "text": "seguro estamos todos deseando lo mismo",
+   "raw": "seguro estamos todos deseando lo mismo,"
+  },
+  {
+   "start": 231.44,
+   "end": 234.48,
+   "text": "querés cambiarnos de compañía de celular.",
+   "raw": "querés cambiarnos de compañía de celular."
+  },
+  {
+   "start": 234.48,
+   "end": 237.68,
+   "text": "Me suena el teléfono y un amigo cordóvez con mucha",
+   "raw": "Me suena el teléfono y un amigo cordóvez con mucha"
+  },
+  {
+   "start": 237.68,
+   "end": 240.36,
+   "text": "amabilidad, me ofrece una promoción para que me pueda",
+   "raw": "amabilidad, me ofrece una promoción para que me pueda"
+  },
+  {
+   "start": 240.36,
+   "end": 242.04,
+   "text": "cambiar de proveedor.",
+   "raw": "cambiar de proveedor."
+  },
+  {
+   "start": 242.04,
+   "end": 245.68,
+   "text": "Me dije que me suena interesante y que estaba dispuesto a avanzar",
+   "raw": "Me dije que me suena interesante y que estaba dispuesto a avanzar,"
+  },
+  {
+   "start": 245.68,
+   "end": 247.88,
+   "text": "si él me podía primero contar de dónde sacaron mi número",
+   "raw": "si él me podía primero contar de dónde sacaron mi número"
+  },
+  {
+   "start": 247.88,
+   "end": 251.08,
+   "text": "telefónico y quién les dio el consentimiento para llamarme",
+   "raw": "telefónico y quién les dio el consentimiento para llamarme"
+  },
+  {
+   "start": 251.08,
+   "end": 254.0,
+   "text": "a la hora que se les cante.",
+   "raw": "a la hora que se les cante."
+  },
+  {
+   "start": 254.0,
+   "end": 256.68,
+   "text": "Esto también aplica al Estado ni hablar.",
+   "raw": "Esto también aplica al Estado ni hablar."
+  },
+  {
+   "start": 256.68,
+   "end": 259.48,
+   "text": "Organismos públicos que tienen datos de los ciudadanos",
+   "raw": "Organismos públicos que tienen datos de los ciudadanos,"
+  },
+  {
+   "start": 259.48,
+   "end": 262.08,
+   "text": "datos personales, son muchas veces utilizados por los",
+   "raw": "datos personales, son muchas veces utilizados por los"
+  },
+  {
+   "start": 262.08,
+   "end": 265.84,
+   "text": "funcionarios para fines personales o políticos.",
+   "raw": "funcionarios para fines personales o políticos."
+  },
+  {
+   "start": 265.84,
+   "end": 269.8,
+   "text": "Tenemos el nombre, el DNI, el teléfono de una persona.",
+   "raw": "Tenemos el nombre, el DNI, el teléfono de una persona."
+  },
+  {
+   "start": 269.84,
+   "end": 272.44,
+   "text": "Bueno, llovemos no a base de datos y usémoslo para hacer una",
+   "raw": "Bueno, llovemos no a base de datos y usémoslo para hacer una"
+  },
+  {
+   "start": 272.44,
+   "end": 275.12,
+   "text": "campaña o una encuesta política telefónica.",
+   "raw": "campaña o una encuesta política telefónica."
+  },
+  {
+   "start": 275.12,
+   "end": 276.88,
+   "text": "Y si no nos atienden ya que tenemos los datos",
+   "raw": "Y si no nos atienden ya que tenemos los datos,"
+  },
+  {
+   "start": 276.88,
+   "end": 279.96,
+   "text": "¿por qué no los afiliamos al partido?",
+   "raw": "¿por qué no los afiliamos al partido?"
+  },
+  {
+   "start": 279.96,
+   "end": 283.08,
+   "text": "Los datos están ahí, ¿por qué no usarlos?",
+   "raw": "Los datos están ahí, ¿por qué no usarlos?"
+  },
+  {
+   "start": 283.08,
+   "end": 286.76,
+   "text": "Las empresas los usan, los comparten y hasta a veces los",
+   "raw": "Las empresas los usan, los comparten y hasta a veces los"
+  },
+  {
+   "start": 286.76,
+   "end": 289.08,
+   "text": "venden, porque para ellos son datos.",
+   "raw": "venden, porque para ellos son datos."
+  },
+  {
+   "start": 289.08,
+   "end": 294.0,
+   "text": "No son ni personales ni privados, solamente datos.",
+   "raw": "No son ni personales ni privados, solamente datos."
+  },
+  {
+   "start": 294.0,
+   "end": 297.56,
+   "text": "Podría seguir todo el día hablando de esto y como ya",
+   "raw": "Podría seguir todo el día hablando de esto y como ya"
+  },
+  {
+   "start": 297.6,
+   "end": 300.72,
+   "text": "verán, estas historias tienen un patrón común",
+   "raw": "verán, estas historias tienen un patrón común,"
+  },
+  {
+   "start": 300.72,
+   "end": 302.12,
+   "text": "que es la privacidad.",
+   "raw": "que es la privacidad."
+  },
+  {
+   "start": 302.12,
+   "end": 305.12,
+   "text": "De eso les quería hablar hoy, de la imperiosa necesidad que",
+   "raw": "De eso les quería hablar hoy, de la imperiosa necesidad que"
+  },
+  {
+   "start": 305.12,
+   "end": 309.28,
+   "text": "discutamos como sociedad, ¿cuánto nos importa tener una",
+   "raw": "discutamos como sociedad, ¿cuánto nos importa tener una"
+  },
+  {
+   "start": 309.28,
+   "end": 310.68,
+   "text": "vida privada?",
+   "raw": "vida privada?"
+  },
+  {
+   "start": 310.68,
+   "end": 313.36,
+   "text": "Porque a priori pareciera ser que no tanto.",
+   "raw": "Porque a priori pareciera ser que no tanto."
+  },
+  {
+   "start": 313.36,
+   "end": 316.36,
+   "text": "La privacidad es el derecho que tenemos las personas a que",
+   "raw": "La privacidad es el derecho que tenemos las personas a que"
+  },
+  {
+   "start": 316.36,
+   "end": 319.72,
+   "text": "nuestra vida esté resguardada por la confidencialidad.",
+   "raw": "nuestra vida esté resguardada por la confidencialidad."
+  },
+  {
+   "start": 319.72,
+   "end": 322.48,
+   "text": "Es decir, que podamos decidir quién es",
+   "raw": "Es decir, que podamos decidir quién es,"
+  },
+  {
+   "start": 322.48,
+   "end": 325.2,
+   "text": "en qué momento y qué cosas se sepan de nuestra vida",
+   "raw": "en qué momento y qué cosas se sepan de nuestra vida,"
+  },
+  {
+   "start": 325.2,
+   "end": 327.08,
+   "text": "nuestras acciones, nuestras decisiones",
+   "raw": "nuestras acciones, nuestras decisiones,"
+  },
+  {
+   "start": 327.08,
+   "end": 329.16,
+   "text": "nuestras opiniones.",
+   "raw": "nuestras opiniones."
+  },
+  {
+   "start": 329.16,
+   "end": 331.64,
+   "text": "La Declaración Universal de los Derechos Humanos dice que es",
+   "raw": "La Declaración Universal de los Derechos Humanos dice que es"
+  },
+  {
+   "start": 331.64,
+   "end": 332.32,
+   "text": "un derecho humano.",
+   "raw": "un derecho humano."
+  },
+  {
+   "start": 332.32,
+   "end": 335.6,
+   "text": "En su artículo número 12 dice que la vida privada es un derecho",
+   "raw": "En su artículo número 12 dice que la vida privada es un derecho"
+  },
+  {
+   "start": 335.6,
+   "end": 336.72,
+   "text": "humano.",
+   "raw": "humano."
+  },
+  {
+   "start": 336.72,
+   "end": 340.28,
+   "text": "Y es interesante que no es un derecho humano tan antiguo.",
+   "raw": "Y es interesante que no es un derecho humano tan antiguo."
+  },
+  {
+   "start": 340.28,
+   "end": 342.84,
+   "text": "De hecho, es más bien un derecho humano moderno.",
+   "raw": "De hecho, es más bien un derecho humano moderno."
+  },
+  {
+   "start": 342.84,
+   "end": 346.56,
+   "text": "Hace un par de siglos para atrás no era tan raro que la",
+   "raw": "Hace un par de siglos para atrás no era tan raro que la"
+  },
+  {
+   "start": 346.56,
+   "end": 350.4,
+   "text": "gente se cambie, se bañe o hasta tenga sexo adelante",
+   "raw": "gente se cambie, se bañe o hasta tenga sexo adelante"
+  },
+  {
+   "start": 350.4,
+   "end": 352.68,
+   "text": "a otras personas.",
+   "raw": "a otras personas."
+  },
+  {
+   "start": 352.68,
+   "end": 355.6,
+   "text": "Hoy, sin embargo, es impensado que uno se de una ducha",
+   "raw": "Hoy, sin embargo, es impensado que uno se de una ducha"
+  },
+  {
+   "start": 355.6,
+   "end": 358.24,
+   "text": "adelante a otras personas sin que eso sea una decisión.",
+   "raw": "adelante a otras personas sin que eso sea una decisión."
+  },
+  {
+   "start": 358.24,
+   "end": 361.28,
+   "text": "Es claramente un hecho privado.",
+   "raw": "Es claramente un hecho privado."
+  },
+  {
+   "start": 361.28,
+   "end": 365.88,
+   "text": "A pesar de que las computadoras e internet tienen más de 30 años",
+   "raw": "A pesar de que las computadoras e internet tienen más de 30 años,"
+  },
+  {
+   "start": 365.88,
+   "end": 368.84,
+   "text": "yo creo que la última mitad de los últimos 10 o 15 años",
+   "raw": "yo creo que la última mitad de los últimos 10 o 15 años,"
+  },
+  {
+   "start": 368.84,
+   "end": 370.64,
+   "text": "esto se ha puesto más evidente.",
+   "raw": "esto se ha puesto más evidente."
+  },
+  {
+   "start": 370.64,
+   "end": 373.56,
+   "text": "A partir del surgimiento de plataformas o tecnologías",
+   "raw": "A partir del surgimiento de plataformas o tecnologías"
+  },
+  {
+   "start": 373.56,
+   "end": 377.28,
+   "text": "que realmente ponen en hacke a la privacidad.",
+   "raw": "que realmente ponen en hacke a la privacidad."
+  },
+  {
+   "start": 377.28,
+   "end": 381.6,
+   "text": "Smartphones, cámaras, conectividad, redes sociales",
+   "raw": "Smartphones, cámaras, conectividad, redes sociales,"
+  },
+  {
+   "start": 381.6,
+   "end": 385.56,
+   "text": "Big Data, son distintos términos que de una u otra forma",
+   "raw": "Big Data, son distintos términos que de una u otra forma,"
+  },
+  {
+   "start": 385.92,
+   "end": 388.16,
+   "text": "modifican cómo nos comportamos con los datos",
+   "raw": "modifican cómo nos comportamos con los datos,"
+  },
+  {
+   "start": 388.16,
+   "end": 390.64,
+   "text": "con los datos personales, con los datos privados",
+   "raw": "con los datos personales, con los datos privados,"
+  },
+  {
+   "start": 390.64,
+   "end": 395.32,
+   "text": "y nos invitan a repensar este concepto de la privacidad.",
+   "raw": "y nos invitan a repensar este concepto de la privacidad."
+  },
+  {
+   "start": 395.32,
+   "end": 397.04,
+   "text": "La realidad es que en estos 15 años",
+   "raw": "La realidad es que en estos 15 años,"
+  },
+  {
+   "start": 397.04,
+   "end": 399.88,
+   "text": "a pesar de esos cambios, los debates alrededor de la",
+   "raw": "a pesar de esos cambios, los debates alrededor de la"
+  },
+  {
+   "start": 399.88,
+   "end": 402.72,
+   "text": "privacidad no han sido tantos.",
+   "raw": "privacidad no han sido tantos."
+  },
+  {
+   "start": 402.72,
+   "end": 405.04,
+   "text": "Quizás cambió un poquito o hubo un pequeño punto de",
+   "raw": "Quizás cambió un poquito o hubo un pequeño punto de"
+  },
+  {
+   "start": 405.04,
+   "end": 408.44,
+   "text": "inflexión el año pasado, cuando fue el escándalo",
+   "raw": "inflexión el año pasado, cuando fue el escándalo"
+  },
+  {
+   "start": 408.44,
+   "end": 411.92,
+   "text": "entre Facebook y Cambridge Analytica.",
+   "raw": "entre Facebook y Cambridge Analytica."
+  },
+  {
+   "start": 411.92,
+   "end": 415.2,
+   "text": "Escándalo que terminó así.",
+   "raw": "Escándalo que terminó así."
+  },
+  {
+   "start": 415.2,
+   "end": 418.28,
+   "text": "Mark Zuckerberg, el dueño y fundador de la red social",
+   "raw": "Mark Zuckerberg, el dueño y fundador de la red social"
+  },
+  {
+   "start": 418.28,
+   "end": 422.16,
+   "text": "más grande del mundo, sentado con una transmisión en vivo",
+   "raw": "más grande del mundo, sentado con una transmisión en vivo"
+  },
+  {
+   "start": 422.16,
+   "end": 424.56,
+   "text": "por internet y todos los medios de comunicación",
+   "raw": "por internet y todos los medios de comunicación,"
+  },
+  {
+   "start": 424.56,
+   "end": 427.2,
+   "text": "ahí frente al Congreso de los Estados Unidos",
+   "raw": "ahí frente al Congreso de los Estados Unidos,"
+  },
+  {
+   "start": 427.2,
+   "end": 431.04,
+   "text": "dando explicaciones sobre cómo su empresa utilizaba",
+   "raw": "dando explicaciones sobre cómo su empresa utilizaba"
+  },
+  {
+   "start": 431.04,
+   "end": 434.12,
+   "text": "los datos personales de los usuarios.",
+   "raw": "los datos personales de los usuarios."
+  },
+  {
+   "start": 434.12,
+   "end": 437.12,
+   "text": "Las redes sociales se han vuelto una parte fundamental",
+   "raw": "Las redes sociales se han vuelto una parte fundamental"
+  },
+  {
+   "start": 437.12,
+   "end": 439.4,
+   "text": "del entramado de la privacidad moderna.",
+   "raw": "del entramado de la privacidad moderna."
+  },
+  {
+   "start": 439.4,
+   "end": 441.76,
+   "text": "Estas son las condiciones de uso de las redes sociales",
+   "raw": "Estas son las condiciones de uso de las redes sociales"
+  },
+  {
+   "start": 441.76,
+   "end": 443.28,
+   "text": "que más utilizamos.",
+   "raw": "que más utilizamos."
+  },
+  {
+   "start": 443.32,
+   "end": 445.2,
+   "text": "A su derecha tienen la Snapchat",
+   "raw": "A su derecha tienen la Snapchat,"
+  },
+  {
+   "start": 445.2,
+   "end": 447.48,
+   "text": "a la izquierda tiene Instagram.",
+   "raw": "a la izquierda tiene Instagram."
+  },
+  {
+   "start": 447.48,
+   "end": 451.08,
+   "text": "Nuestra privacidad no puede depender de que leamos estos",
+   "raw": "Nuestra privacidad no puede depender de que leamos estos"
+  },
+  {
+   "start": 451.08,
+   "end": 452.48,
+   "text": "textos.",
+   "raw": "textos."
+  },
+  {
+   "start": 452.48,
+   "end": 455.72,
+   "text": "Y al mismo tiempo, ¿cuántos podemos exigir a las empresas",
+   "raw": "Y al mismo tiempo, ¿cuántos podemos exigir a las empresas"
+  },
+  {
+   "start": 455.72,
+   "end": 457.24,
+   "text": "de redes sociales?",
+   "raw": "de redes sociales?"
+  },
+  {
+   "start": 457.24,
+   "end": 460.32,
+   "text": "Al fin y al cabo, son empresas.",
+   "raw": "Al fin y al cabo, son empresas."
+  },
+  {
+   "start": 460.32,
+   "end": 463.12,
+   "text": "Tiene que haber probablemente algún equilibrio entre su",
+   "raw": "Tiene que haber probablemente algún equilibrio entre su"
+  },
+  {
+   "start": 463.12,
+   "end": 466.44,
+   "text": "responsabilidad y su necesidad de hacer negocios.",
+   "raw": "responsabilidad y su necesidad de hacer negocios."
+  },
+  {
+   "start": 466.44,
+   "end": 471.76,
+   "text": "Equilibrio que probablemente estemos aún buscando.",
+   "raw": "Equilibrio que probablemente estemos aún buscando."
+  },
+  {
+   "start": 471.8,
+   "end": 474.4,
+   "text": "Pero mientras tanto, es importante que pensemos",
+   "raw": "Pero mientras tanto, es importante que pensemos"
+  },
+  {
+   "start": 474.4,
+   "end": 477.48,
+   "text": "cómo actuamos nosotros y cómo entendemos y pensamos",
+   "raw": "cómo actuamos nosotros y cómo entendemos y pensamos"
+  },
+  {
+   "start": 477.48,
+   "end": 479.24,
+   "text": "a las redes sociales.",
+   "raw": "a las redes sociales."
+  },
+  {
+   "start": 479.24,
+   "end": 481.84,
+   "text": "Veamos cómo solimos pensarlas.",
+   "raw": "Veamos cómo solimos pensarlas."
+  },
+  {
+   "start": 481.84,
+   "end": 485.24,
+   "text": "Esto que está acá es una transacción comercial",
+   "raw": "Esto que está acá es una transacción comercial"
+  },
+  {
+   "start": 485.24,
+   "end": 486.84,
+   "text": "tradicional.",
+   "raw": "tradicional."
+  },
+  {
+   "start": 486.84,
+   "end": 490.24,
+   "text": "Creo que todos vemos que hay un cliente, un usuario",
+   "raw": "Creo que todos vemos que hay un cliente, un usuario,"
+  },
+  {
+   "start": 490.24,
+   "end": 494.16,
+   "text": "hay un proveedor, hay un producto o podría ser un",
+   "raw": "hay un proveedor, hay un producto o podría ser un"
+  },
+  {
+   "start": 494.16,
+   "end": 498.8,
+   "text": "servicio y, por supuesto, hay que pagar por ese producto",
+   "raw": "servicio y, por supuesto, hay que pagar por ese producto"
+  },
+  {
+   "start": 498.8,
+   "end": 500.96,
+   "text": "o servicio.",
+   "raw": "o servicio."
+  },
+  {
+   "start": 501.0,
+   "end": 503.08,
+   "text": "¿Cómo solimos ver las redes sociales o al menos",
+   "raw": "¿Cómo solimos ver las redes sociales o al menos"
+  },
+  {
+   "start": 503.08,
+   "end": 504.72,
+   "text": "mayoritariamente?",
+   "raw": "mayoritariamente?"
+  },
+  {
+   "start": 504.72,
+   "end": 508.0,
+   "text": "Hay un proveedor y un usuario.",
+   "raw": "Hay un proveedor y un usuario."
+  },
+  {
+   "start": 508.0,
+   "end": 510.0,
+   "text": "Ese proveedor, Facebook, por citar un ejemplo",
+   "raw": "Ese proveedor, Facebook, por citar un ejemplo,"
+  },
+  {
+   "start": 510.0,
+   "end": 512.84,
+   "text": "podría ser cualquier empresa o cualquiera de estas redes",
+   "raw": "podría ser cualquier empresa o cualquiera de estas redes"
+  },
+  {
+   "start": 512.84,
+   "end": 514.24,
+   "text": "sociales.",
+   "raw": "sociales."
+  },
+  {
+   "start": 514.24,
+   "end": 516.72,
+   "text": "Estas empresas nos dan un producto de las aplicaciones",
+   "raw": "Estas empresas nos dan un producto de las aplicaciones,"
+  },
+  {
+   "start": 516.72,
+   "end": 519.56,
+   "text": "el servicio de las redes sociales.",
+   "raw": "el servicio de las redes sociales."
+  },
+  {
+   "start": 519.56,
+   "end": 522.08,
+   "text": "Y por suerte, son gratuitas.",
+   "raw": "Y por suerte, son gratuitas."
+  },
+  {
+   "start": 522.08,
+   "end": 524.76,
+   "text": "Entras, te registras y las usas.",
+   "raw": "Entras, te registras y las usas."
+  },
+  {
+   "start": 524.76,
+   "end": 525.56,
+   "text": "Es genial.",
+   "raw": "Es genial."
+  },
+  {
+   "start": 525.56,
+   "end": 528.72,
+   "text": "Tenemos servicios geniales y además son gratuitos.",
+   "raw": "Tenemos servicios geniales y además son gratuitos."
+  },
+  {
+   "start": 528.72,
+   "end": 532.08,
+   "text": "Ahora, son gratuitos.",
+   "raw": "Ahora, son gratuitos."
+  },
+  {
+   "start": 532.08,
+   "end": 535.4,
+   "text": "Si dijimos que son empresas y que ganan dinero",
+   "raw": "Si dijimos que son empresas y que ganan dinero,"
+  },
+  {
+   "start": 535.4,
+   "end": 537.4,
+   "text": "le llueve el dinero, son organizaciones",
+   "raw": "le llueve el dinero, son organizaciones"
+  },
+  {
+   "start": 537.4,
+   "end": 539.36,
+   "text": "infinas de lucro.",
+   "raw": "infinas de lucro."
+  },
+  {
+   "start": 539.36,
+   "end": 541.2,
+   "text": "Hay una visión un tanto evolucionada",
+   "raw": "Hay una visión un tanto evolucionada,"
+  },
+  {
+   "start": 541.2,
+   "end": 543.52,
+   "text": "esta idea que lamentablemente, a pesar de que quizás para",
+   "raw": "esta idea que lamentablemente, a pesar de que quizás para"
+  },
+  {
+   "start": 543.52,
+   "end": 546.04,
+   "text": "mucho de ustedes en este momento suena obvio que no",
+   "raw": "mucho de ustedes en este momento suena obvio que no,"
+  },
+  {
+   "start": 546.04,
+   "end": 547.64,
+   "text": "lamentablemente es la idea más común.",
+   "raw": "lamentablemente es la idea más común."
+  },
+  {
+   "start": 547.64,
+   "end": 549.64,
+   "text": "Usemos las redes sociales que son gratis.",
+   "raw": "Usemos las redes sociales que son gratis."
+  },
+  {
+   "start": 549.64,
+   "end": 553.0,
+   "text": "Pero hay una idea un tanto evolucionada que es que",
+   "raw": "Pero hay una idea un tanto evolucionada que es que"
+  },
+  {
+   "start": 553.0,
+   "end": 555.08,
+   "text": "nosotros usamos las redes sociales",
+   "raw": "nosotros usamos las redes sociales,"
+  },
+  {
+   "start": 555.08,
+   "end": 556.48,
+   "text": "pero que no son gratis.",
+   "raw": "pero que no son gratis."
+  },
+  {
+   "start": 556.48,
+   "end": 558.88,
+   "text": "Que las pagamos con nuestros datos.",
+   "raw": "Que las pagamos con nuestros datos."
+  },
+  {
+   "start": 558.88,
+   "end": 561.52,
+   "text": "Muchos habrán escuchado alguna vez las redes sociales",
+   "raw": "Muchos habrán escuchado alguna vez las redes sociales,"
+  },
+  {
+   "start": 561.52,
+   "end": 565.2,
+   "text": "no son gratis, las pagas con tus datos.",
+   "raw": "no son gratis, las pagas con tus datos."
+  },
+  {
+   "start": 565.2,
+   "end": 567.8,
+   "text": "Insisto que, a pesar de que es una idea evolucionada",
+   "raw": "Insisto que, a pesar de que es una idea evolucionada,"
+  },
+  {
+   "start": 567.8,
+   "end": 569.96,
+   "text": "sigue siendo un tanto incompleto.",
+   "raw": "sigue siendo un tanto incompleto."
+  },
+  {
+   "start": 569.96,
+   "end": 573.0,
+   "text": "A fin de mes, las empresas les pagan a sus usuarios el",
+   "raw": "A fin de mes, las empresas les pagan a sus usuarios el"
+  },
+  {
+   "start": 573.0,
+   "end": 576.31,
+   "text": "sueldo con datos.",
+   "raw": "sueldo con datos."
+  },
+  {
+   "start": 576.31,
+   "end": 579.27,
+   "text": "Los accionistas buscan ganar datos.",
+   "raw": "Los accionistas buscan ganar datos."
+  },
+  {
+   "start": 579.27,
+   "end": 581.99,
+   "text": "Evidentemente no, son empresas que ganan mucho dinero y",
+   "raw": "Evidentemente no, son empresas que ganan mucho dinero y"
+  },
+  {
+   "start": 581.99,
+   "end": 583.35,
+   "text": "que valen mucho dinero.",
+   "raw": "que valen mucho dinero."
+  },
+  {
+   "start": 583.35,
+   "end": 586.59,
+   "text": "Entonces, intentemos verlo al revés.",
+   "raw": "Entonces, intentemos verlo al revés."
+  },
+  {
+   "start": 586.59,
+   "end": 589.99,
+   "text": "Hay un proveedor de redes sociales",
+   "raw": "Hay un proveedor de redes sociales,"
+  },
+  {
+   "start": 589.99,
+   "end": 592.03,
+   "text": "insisto, Facebook es un ejemplo.",
+   "raw": "insisto, Facebook es un ejemplo."
+  },
+  {
+   "start": 592.03,
+   "end": 594.79,
+   "text": "Y hay alguien que paga dinero, que les da el dinero.",
+   "raw": "Y hay alguien que paga dinero, que les da el dinero."
+  },
+  {
+   "start": 594.79,
+   "end": 598.71,
+   "text": "Y el que paga el dinero es siempre el cliente.",
+   "raw": "Y el que paga el dinero es siempre el cliente."
+  },
+  {
+   "start": 598.71,
+   "end": 602.39,
+   "text": "Si el que paga el dinero es el cliente, evidentemente",
+   "raw": "Si el que paga el dinero es el cliente, evidentemente,"
+  },
+  {
+   "start": 602.39,
+   "end": 605.59,
+   "text": "el cliente de Facebook u otros servicios basados en",
+   "raw": "el cliente de Facebook u otros servicios basados en"
+  },
+  {
+   "start": 605.59,
+   "end": 608.35,
+   "text": "anuncios son los anunciantes.",
+   "raw": "anuncios son los anunciantes."
+  },
+  {
+   "start": 608.35,
+   "end": 611.83,
+   "text": "Son las empresas que pagan para tener anuncios en estos",
+   "raw": "Son las empresas que pagan para tener anuncios en estos"
+  },
+  {
+   "start": 611.83,
+   "end": 613.35,
+   "text": "servicios.",
+   "raw": "servicios."
+  },
+  {
+   "start": 613.35,
+   "end": 614.55,
+   "text": "Y está perfecto, casi sea.",
+   "raw": "Y está perfecto, casi sea."
+  },
+  {
+   "start": 614.55,
+   "end": 617.11,
+   "text": "¿Por qué es su modelo de negocios?",
+   "raw": "¿Por qué es su modelo de negocios?"
+  },
+  {
+   "start": 617.11,
+   "end": 621.79,
+   "text": "Ahora, si nosotros no somos el cliente, ¿qué lugar nos queda",
+   "raw": "Ahora, si nosotros no somos el cliente, ¿qué lugar nos queda"
+  },
+  {
+   "start": 621.79,
+   "end": 623.59,
+   "text": "en esta imagen?",
+   "raw": "en esta imagen?"
+  },
+  {
+   "start": 623.59,
+   "end": 626.83,
+   "text": "Nosotros somos la zanahoria.",
+   "raw": "Nosotros somos la zanahoria."
+  },
+  {
+   "start": 626.83,
+   "end": 629.27,
+   "text": "Nosotros somos el producto.",
+   "raw": "Nosotros somos el producto."
+  },
+  {
+   "start": 629.27,
+   "end": 631.95,
+   "text": "Las redes sociales no son gratis ni las pagamos con",
+   "raw": "Las redes sociales no son gratis ni las pagamos con"
+  },
+  {
+   "start": 631.95,
+   "end": 633.07,
+   "text": "nuestros datos.",
+   "raw": "nuestros datos."
+  },
+  {
+   "start": 633.07,
+   "end": 635.47,
+   "text": "Nosotros somos el producto.",
+   "raw": "Nosotros somos el producto."
+  },
+  {
+   "start": 635.47,
+   "end": 638.39,
+   "text": "Y en el mejor de los casos, nuestros datos es la materia",
+   "raw": "Y en el mejor de los casos, nuestros datos es la materia"
+  },
+  {
+   "start": 638.39,
+   "end": 639.31,
+   "text": "prima.",
+   "raw": "prima."
+  },
+  {
+   "start": 639.31,
+   "end": 643.47,
+   "text": "Pero así hacen dinero en las redes sociales y así las",
+   "raw": "Pero así hacen dinero en las redes sociales y así las"
+  },
+  {
+   "start": 643.47,
+   "end": 644.91,
+   "text": "tendremos que entender.",
+   "raw": "tendremos que entender."
+  },
+  {
+   "start": 644.91,
+   "end": 648.95,
+   "text": "En el medio de este circo, nosotros bailamos y exponemos",
+   "raw": "En el medio de este circo, nosotros bailamos y exponemos"
+  },
+  {
+   "start": 648.95,
+   "end": 653.11,
+   "text": "nuestras vidas privadas en estos servicios y empezamos a perder",
+   "raw": "nuestras vidas privadas en estos servicios y empezamos a perder"
+  },
+  {
+   "start": 653.11,
+   "end": 657.31,
+   "text": "el límite entre lo privado y lo público y vivimos con la",
+   "raw": "el límite entre lo privado y lo público y vivimos con la"
+  },
+  {
+   "start": 657.31,
+   "end": 659.47,
+   "text": "ilusión de que esa vida privada que exponemos en",
+   "raw": "ilusión de que esa vida privada que exponemos en"
+  },
+  {
+   "start": 659.47,
+   "end": 664.03,
+   "text": "internet nunca va a ser usada en nuestra contra.",
+   "raw": "internet nunca va a ser usada en nuestra contra."
+  },
+  {
+   "start": 664.03,
+   "end": 666.71,
+   "text": "De lo que hagan las empresas y sus prácticas",
+   "raw": "De lo que hagan las empresas y sus prácticas,"
+  },
+  {
+   "start": 666.71,
+   "end": 668.91,
+   "text": "que por supuesto que es importante",
+   "raw": "que por supuesto que es importante,"
+  },
+  {
+   "start": 668.91,
+   "end": 671.35,
+   "text": "de lo que hagan el Estado con sus leyes y controles",
+   "raw": "de lo que hagan el Estado con sus leyes y controles,"
+  },
+  {
+   "start": 671.35,
+   "end": 673.99,
+   "text": "pero fundamentalmente de lo que hagamos nosotros con nuestros",
+   "raw": "pero fundamentalmente de lo que hagamos nosotros con nuestros"
+  },
+  {
+   "start": 673.99,
+   "end": 677.51,
+   "text": "hábitos va a depender hacia dónde va la privacidad en un",
+   "raw": "hábitos va a depender hacia dónde va la privacidad en un"
+  },
+  {
+   "start": 677.51,
+   "end": 681.43,
+   "text": "futuro y qué lugar va a ocupar en la sociedad que queremos",
+   "raw": "futuro y qué lugar va a ocupar en la sociedad que queremos"
+  },
+  {
+   "start": 681.43,
+   "end": 683.03,
+   "text": "vivir.",
+   "raw": "vivir."
+  },
+  {
+   "start": 683.03,
+   "end": 688.59,
+   "text": "Déjenme contarles una historia más.",
+   "raw": "Déjenme contarles una historia más."
+  },
+  {
+   "start": 688.59,
+   "end": 692.59,
+   "text": "Muchas veces en el trabajo, en reuniones de amigos",
+   "raw": "Muchas veces en el trabajo, en reuniones de amigos,"
+  },
+  {
+   "start": 692.59,
+   "end": 696.91,
+   "text": "surge el debate sobre si nuestras parejas tienen o no la",
+   "raw": "surge el debate sobre si nuestras parejas tienen o no la"
+  },
+  {
+   "start": 696.91,
+   "end": 699.43,
+   "text": "contraseña a nuestro celular.",
+   "raw": "contraseña a nuestro celular."
+  },
+  {
+   "start": 699.43,
+   "end": 701.83,
+   "text": "Debate relativamente moderno.",
+   "raw": "Debate relativamente moderno."
+  },
+  {
+   "start": 701.87,
+   "end": 703.95,
+   "text": "A la mínima que uno dice que no",
+   "raw": "A la mínima que uno dice que no,"
+  },
+  {
+   "start": 703.95,
+   "end": 706.83,
+   "text": "al menos en un grupo de hombres en la era moderna hay una",
+   "raw": "al menos en un grupo de hombres en la era moderna hay una"
+  },
+  {
+   "start": 706.83,
+   "end": 709.79,
+   "text": "respuesta, lamentablemente, sale esta respuesta",
+   "raw": "respuesta, lamentablemente, sale esta respuesta,"
+  },
+  {
+   "start": 709.79,
+   "end": 713.67,
+   "text": "que eso es un pirata, no compartiste un celular.",
+   "raw": "que eso es un pirata, no compartiste un celular."
+  },
+  {
+   "start": 713.67,
+   "end": 716.43,
+   "text": "Incluso esto podría ser el debate entre una pareja",
+   "raw": "Incluso esto podría ser el debate entre una pareja"
+  },
+  {
+   "start": 716.43,
+   "end": 719.03,
+   "text": "discutiendo si realmente van a compartir o no el acceso a un",
+   "raw": "discutiendo si realmente van a compartir o no el acceso a un"
+  },
+  {
+   "start": 719.03,
+   "end": 721.67,
+   "text": "dispositivo personal.",
+   "raw": "dispositivo personal."
+  },
+  {
+   "start": 721.67,
+   "end": 724.91,
+   "text": "Pensemos su segundo qué se esconde detrás de esta idea.",
+   "raw": "Pensemos su segundo qué se esconde detrás de esta idea."
+  },
+  {
+   "start": 724.91,
+   "end": 727.27,
+   "text": "Solo si sos una mala persona tenés derecho a la",
+   "raw": "Solo si sos una mala persona tenés derecho a la"
+  },
+  {
+   "start": 727.27,
+   "end": 728.79,
+   "text": "privacidad.",
+   "raw": "privacidad."
+  },
+  {
+   "start": 728.79,
+   "end": 731.59,
+   "text": "Este es uno de los mitos más grandes que hay alrededor de",
+   "raw": "Este es uno de los mitos más grandes que hay alrededor de"
+  },
+  {
+   "start": 731.63,
+   "end": 734.15,
+   "text": "la privacidad.",
+   "raw": "la privacidad."
+  },
+  {
+   "start": 734.15,
+   "end": 736.83,
+   "text": "Que solamente aquel que tiene algo que ocultar tiene derecho",
+   "raw": "Que solamente aquel que tiene algo que ocultar tiene derecho"
+  },
+  {
+   "start": 736.83,
+   "end": 737.99,
+   "text": "a la privacidad.",
+   "raw": "a la privacidad."
+  },
+  {
+   "start": 737.99,
+   "end": 739.95,
+   "text": "Y esta idea es terrible.",
+   "raw": "Y esta idea es terrible."
+  },
+  {
+   "start": 739.95,
+   "end": 743.75,
+   "text": "No pensar a la privacidad como el humano derecho a tener una",
+   "raw": "No pensar a la privacidad como el humano derecho a tener una"
+  },
+  {
+   "start": 743.75,
+   "end": 746.47,
+   "text": "intimidad, a elegir qué queremos que se sepa y qué no",
+   "raw": "intimidad, a elegir qué queremos que se sepa y qué no,"
+  },
+  {
+   "start": 746.47,
+   "end": 750.07,
+   "text": "y que no necesariamente todo eso sea algo malo.",
+   "raw": "y que no necesariamente todo eso sea algo malo."
+  },
+  {
+   "start": 750.07,
+   "end": 753.87,
+   "text": "Hay una dicotomía con esta problemática que está muy bien",
+   "raw": "Hay una dicotomía con esta problemática que está muy bien"
+  },
+  {
+   "start": 753.87,
+   "end": 758.91,
+   "text": "representada en una frase del libro 1984 de George Orwell",
+   "raw": "representada en una frase del libro 1984 de George Orwell,"
+  },
+  {
+   "start": 758.91,
+   "end": 764.73,
+   "text": "que dice, hasta que no tengan conciencia no podrán rebelarse",
+   "raw": "que dice, hasta que no tengan conciencia no podrán rebelarse,"
+  },
+  {
+   "start": 764.73,
+   "end": 768.37,
+   "text": "pero si no se rebelan nunca van a tener conciencia.",
+   "raw": "pero si no se rebelan nunca van a tener conciencia."
+  },
+  {
+   "start": 768.37,
+   "end": 771.45,
+   "text": "Algo muy similar pasa con la privacidad.",
+   "raw": "Algo muy similar pasa con la privacidad."
+  },
+  {
+   "start": 771.45,
+   "end": 774.05,
+   "text": "Los responsables de que tomemos conciencia sobre la",
+   "raw": "Los responsables de que tomemos conciencia sobre la"
+  },
+  {
+   "start": 774.05,
+   "end": 778.29,
+   "text": "importancia de la privacidad son las empresas, el estado",
+   "raw": "importancia de la privacidad son las empresas, el estado,"
+  },
+  {
+   "start": 778.29,
+   "end": 781.85,
+   "text": "los medios, que son los mismos que se ven beneficiados si",
+   "raw": "los medios, que son los mismos que se ven beneficiados si"
+  },
+  {
+   "start": 781.85,
+   "end": 784.33,
+   "text": "nosotros no cuidamos nuestros datos personales y no nos",
+   "raw": "nosotros no cuidamos nuestros datos personales y no nos"
+  },
+  {
+   "start": 784.33,
+   "end": 786.97,
+   "text": "importa nuestra vida íntima.",
+   "raw": "importa nuestra vida íntima."
+  },
+  {
+   "start": 787.01,
+   "end": 790.41,
+   "text": "Para cerrar, los invito a hacer un viaje.",
+   "raw": "Para cerrar, los invito a hacer un viaje."
+  },
+  {
+   "start": 790.41,
+   "end": 794.41,
+   "text": "Piensen cada uno un destino al que les gustaría viajar.",
+   "raw": "Piensen cada uno un destino al que les gustaría viajar."
+  },
+  {
+   "start": 794.41,
+   "end": 796.89,
+   "text": "Algún lugar lindo que conozcan el desencante o que no",
+   "raw": "Algún lugar lindo que conozcan el desencante o que no"
+  },
+  {
+   "start": 796.89,
+   "end": 798.25,
+   "text": "conozcan, bien lejano.",
+   "raw": "conozcan, bien lejano."
+  },
+  {
+   "start": 798.25,
+   "end": 799.05,
+   "text": "Tiene que ser lejos.",
+   "raw": "Tiene que ser lejos."
+  },
+  {
+   "start": 799.05,
+   "end": 801.01,
+   "text": "Tenemos que ir en avión.",
+   "raw": "Tenemos que ir en avión."
+  },
+  {
+   "start": 801.01,
+   "end": 803.29,
+   "text": "Imaginen cuánto quieren conocer ese lugar.",
+   "raw": "Imaginen cuánto quieren conocer ese lugar."
+  },
+  {
+   "start": 803.29,
+   "end": 805.49,
+   "text": "Imaginen se preparándose para el viaje llegando al",
+   "raw": "Imaginen se preparándose para el viaje llegando al"
+  },
+  {
+   "start": 805.49,
+   "end": 808.93,
+   "text": "aeropuerto, subiéndose al avión listos para despegar",
+   "raw": "aeropuerto, subiéndose al avión listos para despegar"
+  },
+  {
+   "start": 808.93,
+   "end": 811.65,
+   "text": "la emoción que nos implica viajar a ese lugar.",
+   "raw": "la emoción que nos implica viajar a ese lugar."
+  },
+  {
+   "start": 811.65,
+   "end": 814.09,
+   "text": "La alegría de que vamos a volver o conocer ese lugar",
+   "raw": "La alegría de que vamos a volver o conocer ese lugar"
+  },
+  {
+   "start": 814.09,
+   "end": 815.57,
+   "text": "por primera vez.",
+   "raw": "por primera vez."
+  },
+  {
+   "start": 815.57,
+   "end": 817.93,
+   "text": "Les pega el avión, ya estamos en viaje",
+   "raw": "Les pega el avión, ya estamos en viaje,"
+  },
+  {
+   "start": 817.93,
+   "end": 819.85,
+   "text": "con todo lo que implica irnos de vacaciones",
+   "raw": "con todo lo que implica irnos de vacaciones,"
+  },
+  {
+   "start": 819.85,
+   "end": 822.53,
+   "text": "irnos de viaje, alegría, emoción.",
+   "raw": "irnos de viaje, alegría, emoción."
+  },
+  {
+   "start": 822.53,
+   "end": 825.01,
+   "text": "Y cuando estamos en el aire, ya volando",
+   "raw": "Y cuando estamos en el aire, ya volando,"
+  },
+  {
+   "start": 825.01,
+   "end": 827.65,
+   "text": "nuestro compañero de la derecha, nuestra compañera de la",
+   "raw": "nuestro compañero de la derecha, nuestra compañera de la"
+  },
+  {
+   "start": 827.65,
+   "end": 831.13,
+   "text": "izquierda, nos miran, nos sonríen",
+   "raw": "izquierda, nos miran, nos sonríen,"
+  },
+  {
+   "start": 831.13,
+   "end": 835.93,
+   "text": "ponen la mano en el bolsillo y sacan un atado de cigarrillos.",
+   "raw": "ponen la mano en el bolsillo y sacan un atado de cigarrillos."
+  },
+  {
+   "start": 835.93,
+   "end": 838.45,
+   "text": "Se prenden un cigarrillo cada uno.",
+   "raw": "Se prenden un cigarrillo cada uno."
+  },
+  {
+   "start": 838.45,
+   "end": 842.01,
+   "text": "Y así cada uno de los 300 pasajeros del avión se van",
+   "raw": "Y así cada uno de los 300 pasajeros del avión se van"
+  },
+  {
+   "start": 842.01,
+   "end": 844.21,
+   "text": "prendiendo no solo uno, sino todos los cigarrillos que",
+   "raw": "prendiendo no solo uno, sino todos los cigarrillos que"
+  },
+  {
+   "start": 844.21,
+   "end": 848.05,
+   "text": "quieran en las próximas 10 horas de este hermoso viaje que",
+   "raw": "quieran en las próximas 10 horas de este hermoso viaje que"
+  },
+  {
+   "start": 848.05,
+   "end": 850.94,
+   "text": "estamos haciendo.",
+   "raw": "estamos haciendo."
+  },
+  {
+   "start": 850.94,
+   "end": 853.26,
+   "text": "Pero ya no parece tan hermoso ese viaje con el humo",
+   "raw": "Pero ya no parece tan hermoso ese viaje con el humo"
+  },
+  {
+   "start": 853.26,
+   "end": 856.14,
+   "text": "adentro del avión, ¿no?",
+   "raw": "adentro del avión, ¿no?"
+  },
+  {
+   "start": 856.14,
+   "end": 857.18,
+   "text": "Esto mismo me pasó a mí.",
+   "raw": "Esto mismo me pasó a mí."
+  },
+  {
+   "start": 857.18,
+   "end": 860.5,
+   "text": "Hace unos pocos meses estaba mirando una serie situada en",
+   "raw": "Hace unos pocos meses estaba mirando una serie situada en"
+  },
+  {
+   "start": 860.5,
+   "end": 863.42,
+   "text": "la década del 60, donde los protagonistas fumaban arriba",
+   "raw": "la década del 60, donde los protagonistas fumaban arriba"
+  },
+  {
+   "start": 863.42,
+   "end": 866.9,
+   "text": "del avión, como así también en reuniones de trabajo o en",
+   "raw": "del avión, como así también en reuniones de trabajo o en"
+  },
+  {
+   "start": 866.9,
+   "end": 869.3,
+   "text": "lugares cerrados.",
+   "raw": "lugares cerrados."
+  },
+  {
+   "start": 869.3,
+   "end": 872.22,
+   "text": "Estoy casi seguro que cualquiera de ustedes tendría una",
+   "raw": "Estoy casi seguro que cualquiera de ustedes tendría una"
+  },
+  {
+   "start": 872.22,
+   "end": 875.18,
+   "text": "reacción si ahora alguien acá se prende un cigarrillo",
+   "raw": "reacción si ahora alguien acá se prende un cigarrillo"
+  },
+  {
+   "start": 875.18,
+   "end": 877.9,
+   "text": "adentro del auditorio.",
+   "raw": "adentro del auditorio."
+  },
+  {
+   "start": 877.9,
+   "end": 882.26,
+   "text": "Sin embargo, no hace tanto que esto cambió.",
+   "raw": "Sin embargo, no hace tanto que esto cambió."
+  },
+  {
+   "start": 882.26,
+   "end": 885.46,
+   "text": "Hace 20 años, cuando se creó Google",
+   "raw": "Hace 20 años, cuando se creó Google,"
+  },
+  {
+   "start": 885.46,
+   "end": 889.26,
+   "text": "todavía se podía fumar en algunos aviones comerciales.",
+   "raw": "todavía se podía fumar en algunos aviones comerciales."
+  },
+  {
+   "start": 889.26,
+   "end": 892.5,
+   "text": "Hace 15 años, cuando se creó Facebook, en Argentina",
+   "raw": "Hace 15 años, cuando se creó Facebook, en Argentina,"
+  },
+  {
+   "start": 892.5,
+   "end": 895.1,
+   "text": "todavía se podía fumar en lugares cerrados y en",
+   "raw": "todavía se podía fumar en lugares cerrados y en"
+  },
+  {
+   "start": 895.1,
+   "end": 896.9,
+   "text": "restaurantes.",
+   "raw": "restaurantes."
+  },
+  {
+   "start": 896.9,
+   "end": 899.26,
+   "text": "Sin embargo, hoy ya nos parece descabellado.",
+   "raw": "Sin embargo, hoy ya nos parece descabellado."
+  },
+  {
+   "start": 899.26,
+   "end": 902.7,
+   "text": "Cuando las cosas cambian, parecen obvias.",
+   "raw": "Cuando las cosas cambian, parecen obvias."
+  },
+  {
+   "start": 902.74,
+   "end": 907.85,
+   "text": "Pero ese cambio, a veces, es muy lento.",
+   "raw": "Pero ese cambio, a veces, es muy lento."
+  },
+  {
+   "start": 907.85,
+   "end": 910.97,
+   "text": "Yo espero que ese sea el camino lento que hagamos con la",
+   "raw": "Yo espero que ese sea el camino lento que hagamos con la"
+  },
+  {
+   "start": 910.97,
+   "end": 914.61,
+   "text": "privacidad, pero que le tenemos que dar el tiempo y los",
+   "raw": "privacidad, pero que le tenemos que dar el tiempo y los"
+  },
+  {
+   "start": 914.61,
+   "end": 917.57,
+   "text": "debates necesarios para que, como yo siempre digo",
+   "raw": "debates necesarios para que, como yo siempre digo,"
+  },
+  {
+   "start": 917.57,
+   "end": 920.29,
+   "text": "se acomode el péndulo entre el lugar que tuvo la",
+   "raw": "se acomode el péndulo entre el lugar que tuvo la"
+  },
+  {
+   "start": 920.29,
+   "end": 922.77,
+   "text": "privacidad concebida en la era moderna en los últimos dos",
+   "raw": "privacidad concebida en la era moderna en los últimos dos"
+  },
+  {
+   "start": 922.77,
+   "end": 925.61,
+   "text": "siglos y el valor casi nulo que parece que le damos a la",
+   "raw": "siglos y el valor casi nulo que parece que le damos a la"
+  },
+  {
+   "start": 925.61,
+   "end": 928.25,
+   "text": "privacidad los últimos 10 o 15 años.",
+   "raw": "privacidad los últimos 10 o 15 años."
+  },
+  {
+   "start": 928.25,
+   "end": 930.57,
+   "text": "Y que, ojalá, y depende mucho de nosotros",
+   "raw": "Y que, ojalá, y depende mucho de nosotros,"
+  },
+  {
+   "start": 930.57,
+   "end": 932.81,
+   "text": "eso se acomodó en algún lugar intermedio donde",
+   "raw": "eso se acomodó en algún lugar intermedio donde"
+  },
+  {
+   "start": 932.85,
+   "end": 935.29,
+   "text": "probablemente la redefinamos, pero yo insisto",
+   "raw": "probablemente la redefinamos, pero yo insisto,"
+  },
+  {
+   "start": 935.29,
+   "end": 939.17,
+   "text": "sobre todo, la cuidemos.",
+   "raw": "sobre todo, la cuidemos."
+  },
+  {
+   "start": 939.17,
+   "end": 943.01,
+   "text": "Y que la privacidad sea el cigarrillo del futuro.",
+   "raw": "Y que la privacidad sea el cigarrillo del futuro."
+  },
+  {
+   "start": 943.01,
+   "end": 946.21,
+   "text": "Y que quien dice que el día de mañana, en muchos años",
+   "raw": "Y que quien dice que el día de mañana, en muchos años,"
+  },
+  {
+   "start": 946.21,
+   "end": 949.65,
+   "text": "algún hijo o algún nieto de mi generación",
+   "raw": "algún hijo o algún nieto de mi generación,"
+  },
+  {
+   "start": 949.65,
+   "end": 952.69,
+   "text": "pueda decir pensar que a mi papá le hicieron un perfil de",
+   "raw": "pueda decir pensar que a mi papá le hicieron un perfil de"
+  },
+  {
+   "start": 952.69,
+   "end": 956.17,
+   "text": "Instagram cuando era bebé y todo el mundo miraba sus fotos.",
+   "raw": "Instagram cuando era bebé y todo el mundo miraba sus fotos."
+  },
+  {
+   "start": 956.17,
+   "end": 958.29,
+   "text": "Qué locura.",
+   "raw": "Qué locura."
+  },
+  {
+   "start": 958.29,
+   "end": 959.29,
+   "text": "Gracias.",
+   "raw": "Gracias."
+  }
+ ]
+}

@@ -1,0 +1,532 @@
+{
+ "video_id": "01_matematicas",
+ "whisper_model": "small",
+ "language": "es",
+ "language_probability": 1,
+ "duration_seconds": 618.63,
+ "transcription_seconds": 237.6,
+ "segments": [
+  {
+   "start": 0.0,
+   "end": 20.1,
+   "text": "Os lo podéis imaginar, estás en un bar y sabes una discoteca y te pones a hablar con una",
+   "raw": "Os lo podéis imaginar, estás en un bar y sabes una discoteca y te pones a hablar con una"
+  },
+  {
+   "start": 20.1,
+   "end": 27.38,
+   "text": "chica y al rato pues sale en la conversación y tú en que trabajas y como te piensas que",
+   "raw": "chica y al rato pues sale en la conversación y tú en que trabajas y como te piensas que"
+  },
+  {
+   "start": 27.38,
+   "end": 40.25,
+   "text": "tu trabajo es interesante le dices soy matemático el 33,51% de las chicas en ese momento simulan",
+   "raw": "tu trabajo es interesante le dices soy matemático el 33,51% de las chicas en ese momento simulan"
+  },
+  {
+   "start": 40.25,
+   "end": 49.37,
+   "text": "una llamada telefónica urgente y se van el 64,69% de las chicas intentan desesperadamente",
+   "raw": "una llamada telefónica urgente y se van el 64,69% de las chicas intentan desesperadamente"
+  },
+  {
+   "start": 49.37,
+   "end": 58.41,
+   "text": "cambiar de tema y se van hay un 0,8% que son tu prima tu novia y tu madre que saben que trabajas",
+   "raw": "cambiar de tema y se van hay un 0,8% que son tu prima tu novia y tu madre que saben que trabajas"
+  },
+  {
+   "start": 58.41,
+   "end": 65.37,
+   "text": "en algo raro pero no se acordaban en qué y hay un 1% que sigue la conversación cuando esa",
+   "raw": "en algo raro pero no se acordaban en qué y hay un 1% que sigue la conversación cuando esa"
+  },
+  {
+   "start": 65.37,
+   "end": 72.13,
+   "text": "conversación sigue invariablemente en algún momento aparece una de estas dos frases a yo",
+   "raw": "conversación sigue invariablemente en algún momento aparece una de estas dos frases a yo"
+  },
+  {
+   "start": 72.13,
+   "end": 75.85,
+   "text": "es que era fatal con las matemáticas pero no la culpa mía es que el profesor era horroroso",
+   "raw": "es que era fatal con las matemáticas pero no la culpa mía es que el profesor era horroroso"
+  },
+  {
+   "start": 77.21,
+   "end": 87.1,
+   "text": "y b pero eso de las matemáticas para qué sirve me ocuparé del caso b cuando alguien te pregunta",
+   "raw": "y b pero eso de las matemáticas para qué sirve me ocuparé del caso b cuando alguien te pregunta"
+  },
+  {
+   "start": 87.1,
+   "end": 92.1,
+   "text": "para qué sirven las matemáticas no te está preguntando por aplicaciones de las ciencias",
+   "raw": "para qué sirven las matemáticas no te está preguntando por aplicaciones de las ciencias"
+  },
+  {
+   "start": 92.1,
+   "end": 96.86,
+   "text": "matemáticas te está preguntando y yo por qué tuve que estudiar esa mierda que no volvían",
+   "raw": "matemáticas te está preguntando y yo por qué tuve que estudiar esa mierda que no volvían"
+  },
+  {
+   "start": 96.86,
+   "end": 102.82,
+   "text": "a usar nunca es lo que te está preguntando realmente ante esto cuando a un matemático le",
+   "raw": "a usar nunca es lo que te está preguntando realmente ante esto cuando a un matemático le"
+  },
+  {
+   "start": 102.82,
+   "end": 107.54,
+   "text": "preguntan para qué sirven las matemáticas los matemáticos nos dividimos en grupos un",
+   "raw": "preguntan para qué sirven las matemáticas los matemáticos nos dividimos en grupos un"
+  },
+  {
+   "start": 107.54,
+   "end": 116.5,
+   "text": "54,51% de los matemáticos toma una postura al ataque y un 44,77% de los matemáticos",
+   "raw": "54,51% de los matemáticos toma una postura al ataque y un 44,77% de los matemáticos"
+  },
+  {
+   "start": 116.5,
+   "end": 122.58,
+   "text": "toma una postura a la defensiva hay un 0,8 raro entre los que me incluyo que son los",
+   "raw": "toma una postura a la defensiva hay un 0,8 raro entre los que me incluyo que son los"
+  },
+  {
+   "start": 122.58,
+   "end": 128.7,
+   "text": "del ataque los del ataque son matemáticos que te dicen que esa pregunta no tiene sentido",
+   "raw": "del ataque los del ataque son matemáticos que te dicen que esa pregunta no tiene sentido"
+  },
+  {
+   "start": 128.7,
+   "end": 132.82,
+   "text": "porque las matemáticas tienen un sentido propio y sí mismas son un edificio bellísimo",
+   "raw": "porque las matemáticas tienen un sentido propio y sí mismas son un edificio bellísimo"
+  },
+  {
+   "start": 132.82,
+   "end": 136.94,
+   "text": "que tiene una lógica propia que se construye y que no hace falta que uno esté siempre",
+   "raw": "que tiene una lógica propia que se construye y que no hace falta que uno esté siempre"
+  },
+  {
+   "start": 136.94,
+   "end": 141.02,
+   "text": "mirando las posibles aplicaciones para qué sirve la poesía para qué sirve el amor para",
+   "raw": "mirando las posibles aplicaciones para qué sirve la poesía para qué sirve el amor para"
+  },
+  {
+   "start": 141.02,
+   "end": 147.34,
+   "text": "qué sirve la vida misma que pregunta es esa hardy por ejemplo es un exponente de",
+   "raw": "qué sirve la vida misma que pregunta es esa hardy por ejemplo es un exponente de"
+  },
+  {
+   "start": 147.66,
+   "end": 153.62,
+   "text": "este ataque y los que están a la defensiva te dicen que aunque no te des cuenta cariño",
+   "raw": "este ataque y los que están a la defensiva te dicen que aunque no te des cuenta cariño"
+  },
+  {
+   "start": 153.62,
+   "end": 162.3,
+   "text": "las matemáticas están detrás de todo estos siempre nombran siempre nombran los puentes",
+   "raw": "las matemáticas están detrás de todo estos siempre nombran siempre nombran los puentes"
+  },
+  {
+   "start": 162.3,
+   "end": 168.62,
+   "text": "y las computadoras si no sabes matemáticas se te cae el puente realmente las computadoras",
+   "raw": "y las computadoras si no sabes matemáticas se te cae el puente realmente las computadoras"
+  },
+  {
+   "start": 168.62,
+   "end": 174.74,
+   "text": "son todo matemáticas ahora esto les ha dado también por decirte que detrás de la seguridad",
+   "raw": "son todo matemáticas ahora esto les ha dado también por decirte que detrás de la seguridad"
+  },
+  {
+   "start": 174.74,
+   "end": 179.9,
+   "text": "informática las tarjetas de crédito están los números primos estas son las respuestas",
+   "raw": "informática las tarjetas de crédito están los números primos estas son las respuestas"
+  },
+  {
+   "start": 179.9,
+   "end": 184.9,
+   "text": "que te va a dar tu profe de matemáticas y le preguntas es de los de la defensiva vale pero",
+   "raw": "que te va a dar tu profe de matemáticas y le preguntas es de los de la defensiva vale pero"
+  },
+  {
+   "start": 184.9,
+   "end": 188.86,
+   "text": "y quién lleva razón los que dicen que las matemáticas no tienen porque servir para",
+   "raw": "y quién lleva razón los que dicen que las matemáticas no tienen porque servir para"
+  },
+  {
+   "start": 188.86,
+   "end": 193.98,
+   "text": "nada los que dicen que realmente están detrás de todo realmente tienen razón los dos pero",
+   "raw": "nada los que dicen que realmente están detrás de todo realmente tienen razón los dos pero"
+  },
+  {
+   "start": 193.98,
+   "end": 198.82,
+   "text": "se ha dicho que yo era de ese 08 por ciento raro que dice otra cosa verdad así que",
+   "raw": "se ha dicho que yo era de ese 08 por ciento raro que dice otra cosa verdad así que"
+  },
+  {
+   "start": 199.34,
+   "end": 207.86,
+   "text": "dale preguntadme para qué sirven las matemáticas vale un 76 como 34 por ciento de la gente ha",
+   "raw": "dale preguntadme para qué sirven las matemáticas vale un 76 como 34 por ciento de la gente ha"
+  },
+  {
+   "start": 207.86,
+   "end": 214.42,
+   "text": "preguntado hay un 23 con 41 que se ha callado y un 08 por ciento y yo no sé lo que están",
+   "raw": "preguntado hay un 23 con 41 que se ha callado y un 08 por ciento y yo no sé lo que están"
+  },
+  {
+   "start": 214.42,
+   "end": 223.08,
+   "text": "haciendo eso es bueno querido 76 con 31 por ciento las matemáticas es verdad que no",
+   "raw": "haciendo eso es bueno querido 76 con 31 por ciento las matemáticas es verdad que no"
+  },
+  {
+   "start": 223.08,
+   "end": 227.72,
+   "text": "tienen porque servir para nada es verdad que son un edificio precioso un edificio lógico",
+   "raw": "tienen porque servir para nada es verdad que son un edificio precioso un edificio lógico"
+  },
+  {
+   "start": 227.72,
+   "end": 231.28,
+   "text": "probablemente uno de los mayores esfuerzos colectivos que el ser humano ha hecho a",
+   "raw": "probablemente uno de los mayores esfuerzos colectivos que el ser humano ha hecho a"
+  },
+  {
+   "start": 231.28,
+   "end": 235.92,
+   "text": "lo largo de la historia pero también es verdad que allá donde los científicos donde",
+   "raw": "lo largo de la historia pero también es verdad que allá donde los científicos donde"
+  },
+  {
+   "start": 235.92,
+   "end": 241.88,
+   "text": "los técnicos andan buscando teoría matemáticas modelos que les permitan avanzar ahí están",
+   "raw": "los técnicos andan buscando teoría matemáticas modelos que les permitan avanzar ahí están"
+  },
+  {
+   "start": 241.88,
+   "end": 248.4,
+   "text": "en el edificio las matemáticas que lo permean todo es verdad que tenemos que ir algo más al",
+   "raw": "en el edificio las matemáticas que lo permean todo es verdad que tenemos que ir algo más al"
+  },
+  {
+   "start": 248.4,
+   "end": 253.04,
+   "text": "fondo vamos a ver qué hay detrás de las ciencias la ciencia funciona por intuición por creatividad",
+   "raw": "fondo vamos a ver qué hay detrás de las ciencias la ciencia funciona por intuición por creatividad"
+  },
+  {
+   "start": 253.04,
+   "end": 259.76,
+   "text": "y las matemáticas doman la intuición y doman la creatividad a casi todo el mundo que",
+   "raw": "y las matemáticas doman la intuición y doman la creatividad a casi todo el mundo que"
+  },
+  {
+   "start": 259.76,
+   "end": 265.68,
+   "text": "no lo ha oído antes le sorprende que si uno cogiera una hoja de papel de 0,1 milímetros",
+   "raw": "no lo ha oído antes le sorprende que si uno cogiera una hoja de papel de 0,1 milímetros"
+  },
+  {
+   "start": 265.68,
+   "end": 270.08,
+   "text": "de grosor esas que utilizamos normalmente lo suficientemente grande y la pudiera doblar",
+   "raw": "de grosor esas que utilizamos normalmente lo suficientemente grande y la pudiera doblar"
+  },
+  {
+   "start": 270.08,
+   "end": 278.2,
+   "text": "50 veces el grosor de ese montón ocuparía la distancia de la tierra al sol tu intuición",
+   "raw": "50 veces el grosor de ese montón ocuparía la distancia de la tierra al sol tu intuición"
+  },
+  {
+   "start": 278.2,
+   "end": 285.16,
+   "text": "te dice eso es imposible echa las cuentas y verás que sí para eso sirven las matemáticas",
+   "raw": "te dice eso es imposible echa las cuentas y verás que sí para eso sirven las matemáticas"
+  },
+  {
+   "start": 285.16,
+   "end": 290.56,
+   "text": "es verdad que la ciencia toda la ciencia solamente tiene sentido porque nos hace comprender mejor",
+   "raw": "es verdad que la ciencia toda la ciencia solamente tiene sentido porque nos hace comprender mejor"
+  },
+  {
+   "start": 290.56,
+   "end": 295.68,
+   "text": "el mundo este hermoso en el que estamos y porque nos hace nos ayuda a sortear las trampas del",
+   "raw": "el mundo este hermoso en el que estamos y porque nos hace nos ayuda a sortear las trampas del"
+  },
+  {
+   "start": 295.68,
+   "end": 300.72,
+   "text": "mundo este doloroso en el que estamos hay ciencias que tocan esa aplicación con la mano",
+   "raw": "mundo este doloroso en el que estamos hay ciencias que tocan esa aplicación con la mano"
+  },
+  {
+   "start": 300.72,
+   "end": 306.0,
+   "text": "la ciencia oncológica por ejemplo y hay otras que las miramos desde lejos con envidia veces",
+   "raw": "la ciencia oncológica por ejemplo y hay otras que las miramos desde lejos con envidia veces"
+  },
+  {
+   "start": 306.0,
+   "end": 311.12,
+   "text": "pero sabiendo que somos su soporte todas las ciencias básicas son el soporte de aquellas",
+   "raw": "pero sabiendo que somos su soporte todas las ciencias básicas son el soporte de aquellas"
+  },
+  {
+   "start": 311.12,
+   "end": 316.44,
+   "text": "y entre ellas las matemáticas todo lo que hace la ciencia ser ciencia es el rigor de",
+   "raw": "y entre ellas las matemáticas todo lo que hace la ciencia ser ciencia es el rigor de"
+  },
+  {
+   "start": 316.44,
+   "end": 323.92,
+   "text": "la matemática y ese rigor les viene porque sus resultados son eternos seguramente os han",
+   "raw": "la matemática y ese rigor les viene porque sus resultados son eternos seguramente os han"
+  },
+  {
+   "start": 323.92,
+   "end": 330.59,
+   "text": "dicho alguna vez que un diamante es para siempre verdad depende de lo que uno entienda",
+   "raw": "dicho alguna vez que un diamante es para siempre verdad depende de lo que uno entienda"
+  },
+  {
+   "start": 330.59,
+   "end": 337.31,
+   "text": "por siempre un teorema eso sí que es para siempre el teorema de pitágoras el teorema",
+   "raw": "por siempre un teorema eso sí que es para siempre el teorema de pitágoras el teorema"
+  },
+  {
+   "start": 337.31,
+   "end": 341.91,
+   "text": "de pitágoras eso es verdad aunque se haya muerto pitágoras te lo digo yo aunque",
+   "raw": "de pitágoras eso es verdad aunque se haya muerto pitágoras te lo digo yo aunque"
+  },
+  {
+   "start": 341.91,
+   "end": 346.63,
+   "text": "segunda el mundo el teorema de pitágoras seguiría siendo verdad allá donde se junten un par de",
+   "raw": "segunda el mundo el teorema de pitágoras seguiría siendo verdad allá donde se junten un par de"
+  },
+  {
+   "start": 346.63,
+   "end": 361.85,
+   "text": "catetos y una buena hipotenusa el teorema de pitágoras funciona tope a tope bueno los matemáticos",
+   "raw": "catetos y una buena hipotenusa el teorema de pitágoras funciona tope a tope bueno los matemáticos"
+  },
+  {
+   "start": 361.85,
+   "end": 368.37,
+   "text": "nos dedicamos a hacer teoremas verdades eternas pero no siempre es fácil saber que es una",
+   "raw": "nos dedicamos a hacer teoremas verdades eternas pero no siempre es fácil saber que es una"
+  },
+  {
+   "start": 368.37,
+   "end": 375.21,
+   "text": "verdad eterna un teorema y que es una mera conjetura hace falta una demostración por",
+   "raw": "verdad eterna un teorema y que es una mera conjetura hace falta una demostración por"
+  },
+  {
+   "start": 375.25,
+   "end": 383.21,
+   "text": "ejemplo imaginaos que tengo aquí un campo grande enorme infinito lo quiero cubrir con piezas iguales",
+   "raw": "ejemplo imaginaos que tengo aquí un campo grande enorme infinito lo quiero cubrir con piezas iguales"
+  },
+  {
+   "start": 383.21,
+   "end": 390.09,
+   "text": "sin dejar huecos podría usar cuadrados verdad podría usar triángulos círculos no que dejan",
+   "raw": "sin dejar huecos podría usar cuadrados verdad podría usar triángulos círculos no que dejan"
+  },
+  {
+   "start": 390.09,
+   "end": 396.33,
+   "text": "huequitos cuál es la mejor pieza que puede usar la que para cubrir la misma superficie tiene un",
+   "raw": "huequitos cuál es la mejor pieza que puede usar la que para cubrir la misma superficie tiene un"
+  },
+  {
+   "start": 396.33,
+   "end": 402.37,
+   "text": "volumen un borde más pequeño papus de alejandría papus en el año 300 dijo que lo mejor era",
+   "raw": "volumen un borde más pequeño papus de alejandría papus en el año 300 dijo que lo mejor era"
+  },
+  {
+   "start": 402.37,
+   "end": 408.61,
+   "text": "usar hexágonos o hacen las abejas pero no lo demostró el tío dijo hexágonos búlopeta venga",
+   "raw": "usar hexágonos o hacen las abejas pero no lo demostró el tío dijo hexágonos búlopeta venga"
+  },
+  {
+   "start": 408.61,
+   "end": 415.61,
+   "text": "hexágonos dámelo no lo demostró se quedó en una conjetura dijo hexágonos el mundo como sabéis se",
+   "raw": "hexágonos dámelo no lo demostró se quedó en una conjetura dijo hexágonos el mundo como sabéis se"
+  },
+  {
+   "start": 415.61,
+   "end": 425.21,
+   "text": "dividió entre papistas y antipapistas hasta que 1700 años después 1700 años después en 1999",
+   "raw": "dividió entre papistas y antipapistas hasta que 1700 años después 1700 años después en 1999"
+  },
+  {
+   "start": 425.37,
+   "end": 434.01,
+   "text": "tomás hails demostró que papus y las abejas llevaban razón que lo mejor es usar hexágonos y eso",
+   "raw": "tomás hails demostró que papus y las abejas llevaban razón que lo mejor es usar hexágonos y eso"
+  },
+  {
+   "start": 434.01,
+   "end": 438.29,
+   "text": "se convirtió en un teorema el teorema del panel que va a ser verdad para siempre jamás",
+   "raw": "se convirtió en un teorema el teorema del panel que va a ser verdad para siempre siempre jamás"
+  },
+  {
+   "start": 438.29,
+   "end": 444.41,
+   "text": "más que el cualquier diamante que tengas pero qué pasa si vamos a tres dimensiones si quiero",
+   "raw": "más que el cualquier diamante que tengas pero qué pasa si vamos a tres dimensiones si quiero"
+  },
+  {
+   "start": 444.41,
+   "end": 452.29,
+   "text": "llenar el espacio con piezas iguales sin dejar huecos puede usar cubos verdad esferas no",
+   "raw": "llenar el espacio con piezas iguales sin dejar huecos puede usar cubos verdad esferas no"
+  },
+  {
+   "start": 452.29,
+   "end": 461.45,
+   "text": "que dejan huequitos cuál es la mejor pieza que puede usar lord kelvin el de los grados kelvin y todo",
+   "raw": "que dejan huequitos cuál es la mejor pieza que puede usar lord kelvin el de los grados kelvin y todo"
+  },
+  {
+   "start": 461.45,
+   "end": 474.6,
+   "text": "eso ese dijo que lo mejor era usar un octaedro truncado que como todos sabéis es esto de aquí",
+   "raw": "eso ese dijo que lo mejor era usar un octaedro truncado que como todos sabéis es esto de aquí"
+  },
+  {
+   "start": 483.18,
+   "end": 487.9,
+   "text": "quién no tiene un octaedro truncado en casa aunque sea de plástico nene trae los traes",
+   "raw": "quién no tiene un octaedro truncado en casa aunque sea de plástico nene trae los traes"
+  },
+  {
+   "start": 487.9,
+   "end": 494.02,
+   "text": "de truncado que vienen visitas todo el mundo tiene pero kelvin no lo demostró se quedó en",
+   "raw": "de truncado que vienen visitas todo el mundo tiene pero kelvin no lo demostró se quedó en"
+  },
+  {
+   "start": 494.02,
+   "end": 502.16,
+   "text": "una conjetura la conjetura de kelvin el mundo como sabéis se dividió entre kelvinistas y anti",
+   "raw": "una conjetura la conjetura de kelvin el mundo como sabéis se dividió entre kelvinistas y anti"
+  },
+  {
+   "start": 502.16,
+   "end": 512.46,
+   "text": "kelvinistas hasta que ciento y pico años después ciento y pico años después alguien encontró",
+   "raw": "kelvinistas hasta que ciento y pico años después ciento y pico años después alguien encontró"
+  },
+  {
+   "start": 512.5,
+   "end": 520.54,
+   "text": "una estructura mejor weyrey felan weyrey felan encontraron esta cosita de aquí",
+   "raw": "una estructura mejor weyrey felan weyrey felan encontraron esta cosita de aquí"
+  },
+  {
+   "start": 522.26,
+   "end": 531.62,
+   "text": "esta estructura a la que pusieron el imaginativo nombre de estructura de weyrey felan parece una",
+   "raw": "esta estructura a la que pusieron el imaginativo nombre de estructura de weyrey felan parece una"
+  },
+  {
+   "start": 531.62,
+   "end": 536.26,
+   "text": "cosa rara pero no es tan rara también está presente en la naturaleza es muy curioso",
+   "raw": "cosa rara pero no es tan rara también está presente en la naturaleza es muy muy curioso"
+  },
+  {
+   "start": 536.26,
+   "end": 541.74,
+   "text": "que esta estructura por sus propiedades geométricas se utilizó para construir el",
+   "raw": "que esta estructura por sus propiedades geométricas se utilizó para construir el"
+  },
+  {
+   "start": 541.74,
+   "end": 548.58,
+   "text": "edificio de la natación en los juegos olímpicos de pekín allá michael felps ganó ocho medallas",
+   "raw": "edificio de la natación en los juegos olímpicos de pekín allá michael felps ganó ocho medallas"
+  },
+  {
+   "start": 548.58,
+   "end": 554.22,
+   "text": "de oro se convirtió en el mejor nadador de todos los tiempos bueno de todos los tiempos hasta que",
+   "raw": "de oro se convirtió en el mejor nadador de todos los tiempos bueno de todos los tiempos hasta que"
+  },
+  {
+   "start": 554.22,
+   "end": 559.26,
+   "text": "salga otro mejor no como le pasa la estructura de weyrey felan es la mejor hasta que salga otra",
+   "raw": "salga otro mejor no como le pasa la estructura de weyrey felan es la mejor hasta que salga otra"
+  },
+  {
+   "start": 559.26,
+   "end": 567.22,
+   "text": "mejor pero cuidado porque ésta sí que tiene la oportunidad de que aunque pase en ciento y",
+   "raw": "mejor pero cuidado porque ésta sí que tiene la oportunidad de que aunque pase en ciento y"
+  },
+  {
+   "start": 567.34,
+   "end": 575.38,
+   "text": "pico años aunque sea dentro de mil 700 años alguien demuestre que ésta es la mejor pieza posible",
+   "raw": "pico años aunque sea dentro de mil 700 años alguien demuestre que ésta es la mejor pieza posible"
+  },
+  {
+   "start": 575.38,
+   "end": 581.82,
+   "text": "y entonces será un teorema una verdad para siempre jamás más que cualquier diamante",
+   "raw": "y entonces será un teorema una verdad para siempre siempre jamás más que cualquier diamante"
+  },
+  {
+   "start": 581.82,
+   "end": 592.78,
+   "text": "así que bueno si queréis decirle a alguien que le queréis para siempre le podéis regalar un",
+   "raw": "así que bueno si queréis decirle a alguien que le queréis para siempre le podéis regalar un"
+  },
+  {
+   "start": 592.78,
+   "end": 600.58,
+   "text": "diamante pero si le queréis decir que le queréis para siempre regalar un teorema es así",
+   "raw": "diamante pero si le queréis decir que le queréis para siempre siempre regalar un teorema es así"
+  },
+  {
+   "start": 600.58,
+   "end": 608.26,
+   "text": "y esto lo tendréis que demostrar que vuestro amor no se quede en conjetura",
+   "raw": "y esto lo tendréis que demostrar que vuestro amor no se quede en conjetura"
+  }
+ ]
+}

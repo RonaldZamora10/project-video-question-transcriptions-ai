@@ -1,0 +1,1480 @@
+{
+ "video_id": "03_cocina",
+ "whisper_model": "small",
+ "language": "es",
+ "language_probability": 1,
+ "duration_seconds": 795.45,
+ "transcription_seconds": 694.6,
+ "segments": [
+  {
+   "start": 3.66,
+   "end": 10.66,
+   "text": "Vivimos tiempos difíciles porque, por un lado, gracias a la conectividad, podemos ver el rostro más hermoso",
+   "raw": "Vivimos tiempos difíciles porque, por un lado, gracias a la conectividad, podemos ver el rostro más hermoso,"
+  },
+  {
+   "start": 10.66,
+   "end": 18.66,
+   "text": "el ser humano y por el otro también el más horrible, el hambre, la violencia, la guerra, el odio, la intolerancia",
+   "raw": "el ser humano y por el otro también el más horrible, el hambre, la violencia, la guerra, el odio, la intolerancia,"
+  },
+  {
+   "start": 18.66,
+   "end": 25.66,
+   "text": "todo un espectáculo diario que al llegar a casa no deja con la sensación al final del día de que todo está medio perdido.",
+   "raw": "todo un espectáculo diario que al llegar a casa no deja con la sensación al final del día de que todo está medio perdido."
+  },
+  {
+   "start": 25.66,
+   "end": 31.66,
+   "text": "Pero no, no lo está porque es precisamente en la casa en donde podemos encontrar",
+   "raw": "Pero no, no lo está porque es precisamente en la casa en donde podemos encontrar,"
+  },
+  {
+   "start": 31.66,
+   "end": 37.66,
+   "text": "quizás una de las herramientas más infalibles para tratar de luchar en favor del bienestar.",
+   "raw": "quizás una de las herramientas más infalibles para tratar de luchar en favor del bienestar."
+  },
+  {
+   "start": 37.66,
+   "end": 41.66,
+   "text": "Nutricional, emocional y ambiental en nuestra planeta.",
+   "raw": "Nutricional, emocional y ambiental en nuestra planeta."
+  },
+  {
+   "start": 41.66,
+   "end": 43.66,
+   "text": "¿Dónde en la casa?",
+   "raw": "¿Dónde en la casa?"
+  },
+  {
+   "start": 43.66,
+   "end": 46.66,
+   "text": "Pues en la cocina.",
+   "raw": "Pues en la cocina."
+  },
+  {
+   "start": 46.66,
+   "end": 49.66,
+   "text": "Voy a contarles por qué con tres historias.",
+   "raw": "Voy a contarles por qué con tres historias."
+  },
+  {
+   "start": 49.66,
+   "end": 56.66,
+   "text": "La primera, yo soy Limeño, hijo de toda la sangre, se nota.",
+   "raw": "La primera, yo soy Limeño, hijo de toda la sangre, se nota."
+  },
+  {
+   "start": 56.66,
+   "end": 64.66,
+   "text": "De madre, hija de la costa aristocrática y virreinal y de padre, hijo de los Andes, los Incas del Cusco.",
+   "raw": "De madre, hija de la costa aristocrática y virreinal y de padre, hijo de los Andes, los Incas del Cusco."
+  },
+  {
+   "start": 64.66,
+   "end": 71.66,
+   "text": "Y en mi casa, los Andes y la costa históricamente enfrentados se unieron gracias al amor.",
+   "raw": "Y en mi casa, los Andes y la costa históricamente enfrentados se unieron gracias al amor."
+  },
+  {
+   "start": 71.66,
+   "end": 75.66,
+   "text": "Como ocurrió en la mayoría de Limeños, hijos del más diverso origen",
+   "raw": "Como ocurrió en la mayoría de Limeños, hijos del más diverso origen,"
+  },
+  {
+   "start": 75.66,
+   "end": 81.66,
+   "text": "de africanos con amazónicos, de japoneses con andinos, de chinos con italianos.",
+   "raw": "de africanos con amazónicos, de japoneses con andinos, de chinos con italianos."
+  },
+  {
+   "start": 81.66,
+   "end": 87.66,
+   "text": "Esta historia de amor, por ejemplo, la hija de un próspero bodeguero chino cantonés",
+   "raw": "Esta historia de amor, por ejemplo, la hija de un próspero bodeguero chino cantonés"
+  },
+  {
+   "start": 87.66,
+   "end": 91.66,
+   "text": "se enamora jugando en las calles del puerto del Callado en Lima",
+   "raw": "se enamora jugando en las calles del puerto del Callado en Lima"
+  },
+  {
+   "start": 91.66,
+   "end": 97.66,
+   "text": "del hijo del famoso pastelero Genoves de Italia.",
+   "raw": "del hijo del famoso pastelero Genoves de Italia."
+  },
+  {
+   "start": 97.66,
+   "end": 101.66,
+   "text": "Al comienzo, los padres se oponen rotundamente a este amor",
+   "raw": "Al comienzo, los padres se oponen rotundamente a este amor"
+  },
+  {
+   "start": 101.66,
+   "end": 104.66,
+   "text": "y ellos deciden huir para fundar su hogar.",
+   "raw": "y ellos deciden huir para fundar su hogar."
+  },
+  {
+   "start": 104.66,
+   "end": 106.66,
+   "text": "Y es ahí donde descubren sus grandes diferencias.",
+   "raw": "Y es ahí donde descubren sus grandes diferencias."
+  },
+  {
+   "start": 106.66,
+   "end": 112.66,
+   "text": "En la mesa, ella descubre que amaba profundamente el arroz frito en el wok que le hacía su padre",
+   "raw": "En la mesa, ella descubre que amaba profundamente el arroz frito en el wok que le hacía su padre"
+  },
+  {
+   "start": 112.66,
+   "end": 116.66,
+   "text": "y él, él amaba el risotto que su abuela le hacía a fuego lento.",
+   "raw": "y él, él amaba el risotto que su abuela le hacía a fuego lento."
+  },
+  {
+   "start": 116.66,
+   "end": 119.66,
+   "text": "Ella quería echarle salsa de soja a todo.",
+   "raw": "Ella quería echarle salsa de soja a todo."
+  },
+  {
+   "start": 119.66,
+   "end": 123.66,
+   "text": "Y él quería echarle queso parmesano a todo.",
+   "raw": "Y él quería echarle queso parmesano a todo."
+  },
+  {
+   "start": 123.66,
+   "end": 133.01,
+   "text": "Al final, se ponen de acuerdo y hacen el arroz en el wok, pero a fuego lento.",
+   "raw": "Al final, se ponen de acuerdo y hacen el arroz en el wok, pero a fuego lento."
+  },
+  {
+   "start": 134.01,
+   "end": 139.01,
+   "text": "Y le echan un poquito de parmesano y un poquito de salsa de soja",
+   "raw": "Y le echan un poquito de parmesano y un poquito de salsa de soja"
+  },
+  {
+   "start": 139.01,
+   "end": 142.01,
+   "text": "y dan vida a un nuevo plato, al arroz con mariscos del Perú",
+   "raw": "y dan vida a un nuevo plato, al arroz con mariscos del Perú"
+  },
+  {
+   "start": 142.01,
+   "end": 147.01,
+   "text": "que tiene un poquito de los unos y un poquito de los otros.",
+   "raw": "que tiene un poquito de los unos y un poquito de los otros."
+  },
+  {
+   "start": 147.01,
+   "end": 150.01,
+   "text": "Como todos los platos de nuestra cocina",
+   "raw": "Como todos los platos de nuestra cocina,"
+  },
+  {
+   "start": 150.01,
+   "end": 152.01,
+   "text": "que llevan ese sello mágico de un Perú",
+   "raw": "que llevan ese sello mágico de un Perú"
+  },
+  {
+   "start": 152.01,
+   "end": 156.01,
+   "text": "que durante siglos recibió a millones de personas",
+   "raw": "que durante siglos recibió a millones de personas"
+  },
+  {
+   "start": 156.01,
+   "end": 161.01,
+   "text": "que soñaron con hacer realidad su vida en nuestro país.",
+   "raw": "que soñaron con hacer realidad su vida en nuestro país."
+  },
+  {
+   "start": 161.01,
+   "end": 164.01,
+   "text": "Sin embargo, no los recibió en guetos, no los separó",
+   "raw": "Sin embargo, no los recibió en guetos, no los separó,"
+  },
+  {
+   "start": 164.01,
+   "end": 167.01,
+   "text": "sino que los integró, los unió",
+   "raw": "sino que los integró, los unió"
+  },
+  {
+   "start": 167.01,
+   "end": 172.01,
+   "text": "y al menos en la cocina supo construir puentes fecundos de amor y de paz.",
+   "raw": "y al menos en la cocina supo construir puentes fecundos de amor y de paz."
+  },
+  {
+   "start": 172.01,
+   "end": 176.01,
+   "text": "El mensaje desde el Perú es claro.",
+   "raw": "El mensaje desde el Perú es claro."
+  },
+  {
+   "start": 176.01,
+   "end": 179.01,
+   "text": "Nada malo nos ocurre, solamente pasan cosas buenas",
+   "raw": "Nada malo nos ocurre, solamente pasan cosas buenas"
+  },
+  {
+   "start": 179.01,
+   "end": 182.01,
+   "text": "cuando abrazamos nuestra diversidad.",
+   "raw": "cuando abrazamos nuestra diversidad."
+  },
+  {
+   "start": 182.01,
+   "end": 188.01,
+   "text": "La segunda historia trata de mi que soy cocinero",
+   "raw": "La segunda historia trata de mi que soy cocinero"
+  },
+  {
+   "start": 189.01,
+   "end": 192.01,
+   "text": "y empecé mi formación en París como estudiante",
+   "raw": "y empecé mi formación en París como estudiante"
+  },
+  {
+   "start": 192.01,
+   "end": 196.01,
+   "text": "donde además tuve la suerte de conocer a mi esposa, Astrid",
+   "raw": "donde además tuve la suerte de conocer a mi esposa, Astrid,"
+  },
+  {
+   "start": 196.01,
+   "end": 201.01,
+   "text": "a quien convencí, de venirnos al Perú a hacer realidad nuestro sueño.",
+   "raw": "a quien convencí, de venirnos al Perú a hacer realidad nuestro sueño."
+  },
+  {
+   "start": 201.01,
+   "end": 204.01,
+   "text": "Un pequeño restaurante, un lindo restaurante",
+   "raw": "Un pequeño restaurante, un lindo restaurante"
+  },
+  {
+   "start": 204.01,
+   "end": 206.01,
+   "text": "donde sacara adelante a nuestra familia.",
+   "raw": "donde sacara adelante a nuestra familia."
+  },
+  {
+   "start": 206.01,
+   "end": 209.01,
+   "text": "Fue así como nació nuestro primer restaurante, Astrid Gastón.",
+   "raw": "Fue así como nació nuestro primer restaurante, Astrid Gastón."
+  },
+  {
+   "start": 209.01,
+   "end": 212.01,
+   "text": "Eran los años 90 y en los años 90",
+   "raw": "Eran los años 90 y en los años 90,"
+  },
+  {
+   "start": 212.01,
+   "end": 215.01,
+   "text": "como ocurría en la mayoría del mundo de la alta cocina",
+   "raw": "como ocurría en la mayoría del mundo de la alta cocina,"
+  },
+  {
+   "start": 215.01,
+   "end": 220.01,
+   "text": "nosotros también vivíamos influenciados por la alta cocina francesa.",
+   "raw": "nosotros también vivíamos influenciados por la alta cocina francesa."
+  },
+  {
+   "start": 220.01,
+   "end": 223.01,
+   "text": "En un mundo donde además el público local",
+   "raw": "En un mundo donde además el público local"
+  },
+  {
+   "start": 223.01,
+   "end": 227.01,
+   "text": "prefería siempre lo que venía de fuera",
+   "raw": "prefería siempre lo que venía de fuera"
+  },
+  {
+   "start": 227.01,
+   "end": 230.01,
+   "text": "a lo que venía de nuestra tierra.",
+   "raw": "a lo que venía de nuestra tierra."
+  },
+  {
+   "start": 230.01,
+   "end": 233.01,
+   "text": "Quizás por eso, cuando llegábamos a casa",
+   "raw": "Quizás por eso, cuando llegábamos a casa,"
+  },
+  {
+   "start": 233.01,
+   "end": 236.01,
+   "text": "a pesar de que teníamos mucho público todos los días",
+   "raw": "a pesar de que teníamos mucho público todos los días,"
+  },
+  {
+   "start": 236.01,
+   "end": 239.01,
+   "text": "había un sin sabor.",
+   "raw": "había un sin sabor."
+  },
+  {
+   "start": 239.01,
+   "end": 242.01,
+   "text": "Apareció una vocecita que nos decía",
+   "raw": "Apareció una vocecita que nos decía"
+  },
+  {
+   "start": 242.01,
+   "end": 247.01,
+   "text": "qué sentido tiene hacer un restaurante imitación francesa",
+   "raw": "qué sentido tiene hacer un restaurante imitación francesa"
+  },
+  {
+   "start": 247.01,
+   "end": 249.01,
+   "text": "hecho por una alemana y un peruano.",
+   "raw": "hecho por una alemana y un peruano."
+  },
+  {
+   "start": 249.01,
+   "end": 252.01,
+   "text": "Es una ciudad que no es Francia, sino es el Perú.",
+   "raw": "Es una ciudad que no es Francia, sino es el Perú."
+  },
+  {
+   "start": 252.01,
+   "end": 258.96,
+   "text": "La respuesta llegaría años después a comienzos de este siglo",
+   "raw": "La respuesta llegaría años después a comienzos de este siglo"
+  },
+  {
+   "start": 258.96,
+   "end": 261.96,
+   "text": "cuando ocurrieron dos cosas importantes.",
+   "raw": "cuando ocurrieron dos cosas importantes."
+  },
+  {
+   "start": 261.96,
+   "end": 265.96,
+   "text": "La primera fue que el mundo se conectaba, gracias a Internet",
+   "raw": "La primera fue que el mundo se conectaba, gracias a Internet,"
+  },
+  {
+   "start": 265.96,
+   "end": 268.96,
+   "text": "y empezó a valorar la diversidad de los pueblos",
+   "raw": "y empezó a valorar la diversidad de los pueblos"
+  },
+  {
+   "start": 268.96,
+   "end": 270.96,
+   "text": "y entre ellos el Perú.",
+   "raw": "y entre ellos el Perú."
+  },
+  {
+   "start": 270.96,
+   "end": 273.96,
+   "text": "Y la otra fue que la economía peruana crecía sostenidamente",
+   "raw": "Y la otra fue que la economía peruana crecía sostenidamente"
+  },
+  {
+   "start": 273.96,
+   "end": 276.96,
+   "text": "luego de haber derrotado a sendero luminoso.",
+   "raw": "luego de haber derrotado a sendero luminoso."
+  },
+  {
+   "start": 276.96,
+   "end": 279.96,
+   "text": "Era el escenario perfecto para la generación de cocineros",
+   "raw": "Era el escenario perfecto para la generación de cocineros"
+  },
+  {
+   "start": 279.96,
+   "end": 281.96,
+   "text": "a la cual pertenezco",
+   "raw": "a la cual pertenezco,"
+  },
+  {
+   "start": 281.96,
+   "end": 284.96,
+   "text": "empezar a trabajar juntos",
+   "raw": "empezar a trabajar juntos,"
+  },
+  {
+   "start": 284.96,
+   "end": 287.96,
+   "text": "acabando con egos, vanidades",
+   "raw": "acabando con egos, vanidades,"
+  },
+  {
+   "start": 287.96,
+   "end": 290.96,
+   "text": "desconfianzas, eliminando la competencia entre nosotros",
+   "raw": "desconfianzas, eliminando la competencia entre nosotros"
+  },
+  {
+   "start": 290.96,
+   "end": 294.96,
+   "text": "para trabajar sobre todo en favor de aquellos que no tenían voz.",
+   "raw": "para trabajar sobre todo en favor de aquellos que no tenían voz."
+  },
+  {
+   "start": 294.96,
+   "end": 298.96,
+   "text": "Los cocineros en las esquinas, los cocineros en los mercados",
+   "raw": "Los cocineros en las esquinas, los cocineros en los mercados,"
+  },
+  {
+   "start": 298.96,
+   "end": 302.96,
+   "text": "los pequeños agricultores en la Amazonía, en los Andes, en la costa",
+   "raw": "los pequeños agricultores en la Amazonía, en los Andes, en la costa,"
+  },
+  {
+   "start": 302.96,
+   "end": 304.96,
+   "text": "los pescadores artesanales en el Pacífico",
+   "raw": "los pescadores artesanales en el Pacífico,"
+  },
+  {
+   "start": 304.96,
+   "end": 309.96,
+   "text": "todos históricamente olvidados o incluso despreciados.",
+   "raw": "todos históricamente olvidados o incluso despreciados."
+  },
+  {
+   "start": 309.96,
+   "end": 313.96,
+   "text": "Fue a través de este movimiento que empezamos a imaginar",
+   "raw": "Fue a través de este movimiento que empezamos a imaginar"
+  },
+  {
+   "start": 313.96,
+   "end": 318.96,
+   "text": "esto como una oportunidad para construir un espacio muto de confianza",
+   "raw": "esto como una oportunidad para construir un espacio muto de confianza,"
+  },
+  {
+   "start": 318.96,
+   "end": 321.96,
+   "text": "un entorno de confianza que nos ayudara a trabajar",
+   "raw": "un entorno de confianza que nos ayudara a trabajar"
+  },
+  {
+   "start": 321.96,
+   "end": 326.96,
+   "text": "en objetivos colectivos muchísimo más importantes y trascendentes.",
+   "raw": "en objetivos colectivos muchísimo más importantes y trascendentes."
+  },
+  {
+   "start": 326.96,
+   "end": 328.96,
+   "text": "Y fue así que gracias a este movimiento",
+   "raw": "Y fue así que gracias a este movimiento,"
+  },
+  {
+   "start": 328.96,
+   "end": 331.96,
+   "text": "empezamos a imaginar a una cocina peruana",
+   "raw": "empezamos a imaginar a una cocina peruana"
+  },
+  {
+   "start": 331.96,
+   "end": 337.96,
+   "text": "que llevara un mensaje nuevo de un Perú mágico y seductor al mundo",
+   "raw": "que llevara un mensaje nuevo de un Perú mágico y seductor al mundo,"
+  },
+  {
+   "start": 337.96,
+   "end": 339.96,
+   "text": "con restaurantes peruanos",
+   "raw": "con restaurantes peruanos,"
+  },
+  {
+   "start": 339.96,
+   "end": 341.96,
+   "text": "desparcidos por todo el mundo",
+   "raw": "desparcidos por todo el mundo,"
+  },
+  {
+   "start": 341.96,
+   "end": 343.96,
+   "text": "convertidos en vibrantes embajadas",
+   "raw": "convertidos en vibrantes embajadas"
+  },
+  {
+   "start": 343.96,
+   "end": 347.96,
+   "text": "que promovieran cada día nuestra cultura, nuestros productos",
+   "raw": "que promovieran cada día nuestra cultura, nuestros productos"
+  },
+  {
+   "start": 347.96,
+   "end": 349.96,
+   "text": "y que convenciera a los turistas del mundo",
+   "raw": "y que convenciera a los turistas del mundo"
+  },
+  {
+   "start": 349.96,
+   "end": 352.96,
+   "text": "de venir a visitar al Perú.",
+   "raw": "de venir a visitar al Perú."
+  },
+  {
+   "start": 352.96,
+   "end": 355.96,
+   "text": "Al comienzo, como suele ocurrir",
+   "raw": "Al comienzo, como suele ocurrir,"
+  },
+  {
+   "start": 355.96,
+   "end": 358.96,
+   "text": "nos tildaron de locos utópicos.",
+   "raw": "nos tildaron de locos utópicos."
+  },
+  {
+   "start": 358.96,
+   "end": 364.96,
+   "text": "El ceviche, igual de importante que un plato francés",
+   "raw": "El ceviche, igual de importante que un plato francés,"
+  },
+  {
+   "start": 364.96,
+   "end": 368.96,
+   "text": "la cocina, algo tan insignificante y cotidiano",
+   "raw": "la cocina, algo tan insignificante y cotidiano,"
+  },
+  {
+   "start": 368.96,
+   "end": 372.96,
+   "text": "como una arma de promoción de la imagen de un país en el mundo",
+   "raw": "como una arma de promoción de la imagen de un país en el mundo"
+  },
+  {
+   "start": 372.96,
+   "end": 374.96,
+   "text": "o un factor de unión de un pueblo",
+   "raw": "o un factor de unión de un pueblo,"
+  },
+  {
+   "start": 374.96,
+   "end": 376.96,
+   "text": "eso es imposible, nos decían.",
+   "raw": "eso es imposible, nos decían."
+  },
+  {
+   "start": 376.96,
+   "end": 380.96,
+   "text": "Y sin embargo, ocurrió.",
+   "raw": "Y sin embargo, ocurrió."
+  },
+  {
+   "start": 380.96,
+   "end": 383.96,
+   "text": "Hoy la cocina peruana está en los corazones del mundo",
+   "raw": "Hoy la cocina peruana está en los corazones del mundo"
+  },
+  {
+   "start": 383.96,
+   "end": 385.96,
+   "text": "y, gracias a ello, ocurrió algo muy importante",
+   "raw": "y, gracias a ello, ocurrió algo muy importante,"
+  },
+  {
+   "start": 385.96,
+   "end": 388.96,
+   "text": "mucho más importante que el ceviche",
+   "raw": "mucho más importante que el ceviche,"
+  },
+  {
+   "start": 388.96,
+   "end": 392.96,
+   "text": "hoy día, está en las cartas de los restaurantes más famosos de París",
+   "raw": "hoy día, está en las cartas de los restaurantes más famosos de París,"
+  },
+  {
+   "start": 392.96,
+   "end": 396.96,
+   "text": "o que la cocina peruana se codede igual y igual, sin miedo",
+   "raw": "o que la cocina peruana se codede igual y igual, sin miedo,"
+  },
+  {
+   "start": 396.96,
+   "end": 398.96,
+   "text": "con las grandes cocinas del mundo",
+   "raw": "con las grandes cocinas del mundo,"
+  },
+  {
+   "start": 398.96,
+   "end": 401.96,
+   "text": "o que Lima se haya convertido en un destino turístico",
+   "raw": "o que Lima se haya convertido en un destino turístico"
+  },
+  {
+   "start": 401.96,
+   "end": 404.96,
+   "text": "gracias a los atributos de su gastronomía",
+   "raw": "gracias a los atributos de su gastronomía,"
+  },
+  {
+   "start": 404.96,
+   "end": 408.96,
+   "text": "con las oportunidades y el trabajo que crea para muchas personas.",
+   "raw": "con las oportunidades y el trabajo que crea para muchas personas."
+  },
+  {
+   "start": 408.96,
+   "end": 411.96,
+   "text": "Lo más importante fue que logramos",
+   "raw": "Lo más importante fue que logramos,"
+  },
+  {
+   "start": 411.96,
+   "end": 415.96,
+   "text": "gracias a ello, construir un sentimiento profundo de confianza",
+   "raw": "gracias a ello, construir un sentimiento profundo de confianza"
+  },
+  {
+   "start": 415.96,
+   "end": 417.96,
+   "text": "y seguridad en nuestra identidad",
+   "raw": "y seguridad en nuestra identidad"
+  },
+  {
+   "start": 417.96,
+   "end": 420.96,
+   "text": "y un espacio de unión entre los peruanos",
+   "raw": "y un espacio de unión entre los peruanos"
+  },
+  {
+   "start": 420.96,
+   "end": 422.96,
+   "text": "que nos emocionamos cuando vemos",
+   "raw": "que nos emocionamos cuando vemos"
+  },
+  {
+   "start": 422.96,
+   "end": 427.96,
+   "text": "a nuestra cocina reconocida en el mundo.",
+   "raw": "a nuestra cocina reconocida en el mundo."
+  },
+  {
+   "start": 427.96,
+   "end": 430.96,
+   "text": "Es cierto, durante mucho tiempo",
+   "raw": "Es cierto, durante mucho tiempo"
+  },
+  {
+   "start": 430.96,
+   "end": 434.96,
+   "text": "nos dijeron que teníamos que negar nuestro origen",
+   "raw": "nos dijeron que teníamos que negar nuestro origen,"
+  },
+  {
+   "start": 434.96,
+   "end": 437.96,
+   "text": "que para ser reconocidos en la vida",
+   "raw": "que para ser reconocidos en la vida"
+  },
+  {
+   "start": 437.96,
+   "end": 441.96,
+   "text": "debíamos parecer europeos o norteamericanos",
+   "raw": "debíamos parecer europeos o norteamericanos,"
+  },
+  {
+   "start": 441.96,
+   "end": 445.96,
+   "text": "y por eso llenos de miedo escondimos ese amor de nuestros padres",
+   "raw": "y por eso llenos de miedo escondimos ese amor de nuestros padres"
+  },
+  {
+   "start": 445.96,
+   "end": 447.96,
+   "text": "para que no le dan daño",
+   "raw": "para que no le dan daño,"
+  },
+  {
+   "start": 447.96,
+   "end": 449.96,
+   "text": "hasta que finalmente hoy día",
+   "raw": "hasta que finalmente hoy día"
+  },
+  {
+   "start": 449.96,
+   "end": 454.96,
+   "text": "celebramos con confianza, con tranquilidad y en paz",
+   "raw": "celebramos con confianza, con tranquilidad y en paz"
+  },
+  {
+   "start": 454.96,
+   "end": 457.96,
+   "text": "nuestra identidad multicultural.",
+   "raw": "nuestra identidad multicultural."
+  },
+  {
+   "start": 457.96,
+   "end": 460.96,
+   "text": "El mensaje en esta segunda historia también",
+   "raw": "El mensaje en esta segunda historia también"
+  },
+  {
+   "start": 460.96,
+   "end": 463.96,
+   "text": "insiste en la idea de que la cocina puede ser una herramienta",
+   "raw": "insiste en la idea de que la cocina puede ser una herramienta"
+  },
+  {
+   "start": 463.96,
+   "end": 467.96,
+   "text": "de bienestar en la medida que abrazamos la diversidad.",
+   "raw": "de bienestar en la medida que abrazamos la diversidad."
+  },
+  {
+   "start": 467.96,
+   "end": 472.96,
+   "text": "Y la tercera historia no trae tan buenas noticias",
+   "raw": "Y la tercera historia no trae tan buenas noticias,"
+  },
+  {
+   "start": 472.96,
+   "end": 475.96,
+   "text": "porque desde la revolución industrial a esta parte",
+   "raw": "porque desde la revolución industrial a esta parte"
+  },
+  {
+   "start": 475.96,
+   "end": 479.96,
+   "text": "se nos ha impuesto un estilo de vida basado en el consumo",
+   "raw": "se nos ha impuesto un estilo de vida basado en el consumo"
+  },
+  {
+   "start": 479.96,
+   "end": 483.96,
+   "text": "de productos que en realidad no necesitamos",
+   "raw": "de productos que en realidad no necesitamos,"
+  },
+  {
+   "start": 483.96,
+   "end": 488.96,
+   "text": "productos que además están alejados",
+   "raw": "productos que además están alejados"
+  },
+  {
+   "start": 488.96,
+   "end": 493.96,
+   "text": "del uso racional de los ingredientes y de nuestro entorno",
+   "raw": "del uso racional de los ingredientes y de nuestro entorno,"
+  },
+  {
+   "start": 493.96,
+   "end": 496.96,
+   "text": "pero que el marketing se encargaría de hacernos creer",
+   "raw": "pero que el marketing se encargaría de hacernos creer"
+  },
+  {
+   "start": 496.96,
+   "end": 502.96,
+   "text": "que sin ellos no podríamos ser felices de ninguna manera.",
+   "raw": "que sin ellos no podríamos ser felices de ninguna manera."
+  },
+  {
+   "start": 502.96,
+   "end": 506.96,
+   "text": "Al punto que hoy día, por ejemplo",
+   "raw": "Al punto que hoy día, por ejemplo,"
+  },
+  {
+   "start": 506.96,
+   "end": 510.96,
+   "text": "más personas mueren por obesidad que por hambre.",
+   "raw": "más personas mueren por obesidad que por hambre."
+  },
+  {
+   "start": 510.96,
+   "end": 514.96,
+   "text": "En las ciudades desarrolladas más personas mueren por suicidios",
+   "raw": "En las ciudades desarrolladas más personas mueren por suicidios"
+  },
+  {
+   "start": 514.96,
+   "end": 516.96,
+   "text": "que por el crimen.",
+   "raw": "que por el crimen."
+  },
+  {
+   "start": 516.96,
+   "end": 520.96,
+   "text": "Y en el caso del Perú, la economía creciente",
+   "raw": "Y en el caso del Perú, la economía creciente"
+  },
+  {
+   "start": 520.96,
+   "end": 523.96,
+   "text": "convive con desnutrición, con anemia",
+   "raw": "convive con desnutrición, con anemia,"
+  },
+  {
+   "start": 523.96,
+   "end": 526.96,
+   "text": "en territorios donde se exportan alimentos",
+   "raw": "en territorios donde se exportan alimentos"
+  },
+  {
+   "start": 526.96,
+   "end": 529.96,
+   "text": "mientras además nuestra Amazonía y nuestro mar",
+   "raw": "mientras además nuestra Amazonía y nuestro mar"
+  },
+  {
+   "start": 529.96,
+   "end": 532.96,
+   "text": "vienen siendo depredados.",
+   "raw": "vienen siendo depredados."
+  },
+  {
+   "start": 532.96,
+   "end": 537.96,
+   "text": "Y es aquí donde la cocina puede volver nuevamente",
+   "raw": "Y es aquí donde la cocina puede volver nuevamente"
+  },
+  {
+   "start": 537.96,
+   "end": 540.96,
+   "text": "a ayudar no solamente en el Perú, sino en todo el mundo.",
+   "raw": "a ayudar no solamente en el Perú, sino en todo el mundo."
+  },
+  {
+   "start": 540.96,
+   "end": 542.96,
+   "text": "¿Cómo?",
+   "raw": "¿Cómo?"
+  },
+  {
+   "start": 542.96,
+   "end": 545.96,
+   "text": "Volviéndola a poner al centro del hogar",
+   "raw": "Volviéndola a poner al centro del hogar,"
+  },
+  {
+   "start": 545.96,
+   "end": 548.96,
+   "text": "al centro de todo, con información y educación",
+   "raw": "al centro de todo, con información y educación,"
+  },
+  {
+   "start": 548.96,
+   "end": 550.96,
+   "text": "porque con información y educación",
+   "raw": "porque con información y educación"
+  },
+  {
+   "start": 550.96,
+   "end": 553.96,
+   "text": "podemos decidir correctamente cada día",
+   "raw": "podemos decidir correctamente cada día"
+  },
+  {
+   "start": 553.96,
+   "end": 556.96,
+   "text": "qué cocinar y qué comer de manera que encontremos nuevamente",
+   "raw": "qué cocinar y qué comer de manera que encontremos nuevamente"
+  },
+  {
+   "start": 556.96,
+   "end": 558.96,
+   "text": "un nuevo equilibrio",
+   "raw": "un nuevo equilibrio"
+  },
+  {
+   "start": 558.96,
+   "end": 561.96,
+   "text": "en donde todos podamos vivir en armonía.",
+   "raw": "en donde todos podamos vivir en armonía."
+  },
+  {
+   "start": 561.96,
+   "end": 565.96,
+   "text": "Un nuevo equilibrio entre salud y placer",
+   "raw": "Un nuevo equilibrio entre salud y placer,"
+  },
+  {
+   "start": 565.96,
+   "end": 568.96,
+   "text": "entre pequeños productores y la gran industria",
+   "raw": "entre pequeños productores y la gran industria,"
+  },
+  {
+   "start": 568.96,
+   "end": 571.96,
+   "text": "entre cultura local, medio ambiente",
+   "raw": "entre cultura local, medio ambiente,"
+  },
+  {
+   "start": 571.96,
+   "end": 574.96,
+   "text": "entre productos locales y productos universales.",
+   "raw": "entre productos locales y productos universales."
+  },
+  {
+   "start": 574.96,
+   "end": 576.96,
+   "text": "Y es precisamente por eso",
+   "raw": "Y es precisamente por eso"
+  },
+  {
+   "start": 576.96,
+   "end": 579.96,
+   "text": "que tenemos que volver a poner a la cocina en el centro del hogar",
+   "raw": "que tenemos que volver a poner a la cocina en el centro del hogar"
+  },
+  {
+   "start": 579.96,
+   "end": 582.96,
+   "text": "porque si llevamos este mensaje a cada hogar",
+   "raw": "porque si llevamos este mensaje a cada hogar,"
+  },
+  {
+   "start": 582.96,
+   "end": 585.96,
+   "text": "si la cocina vuelve a ser importante en cada hogar",
+   "raw": "si la cocina vuelve a ser importante en cada hogar,"
+  },
+  {
+   "start": 585.96,
+   "end": 588.96,
+   "text": "los efectos podrían ser en el mercado",
+   "raw": "los efectos podrían ser en el mercado"
+  },
+  {
+   "start": 588.96,
+   "end": 592.96,
+   "text": "y en muchas otras actividades masivos y fulminantes.",
+   "raw": "y en muchas otras actividades masivos y fulminantes."
+  },
+  {
+   "start": 592.96,
+   "end": 595.96,
+   "text": "Es probable que alguno esté pensando",
+   "raw": "Es probable que alguno esté pensando"
+  },
+  {
+   "start": 595.96,
+   "end": 598.96,
+   "text": "lo mismo que aquellas personas que pensaron",
+   "raw": "lo mismo que aquellas personas que pensaron"
+  },
+  {
+   "start": 598.96,
+   "end": 604.96,
+   "text": "que un día la cocina jamás podría",
+   "raw": "que un día la cocina jamás podría"
+  },
+  {
+   "start": 604.96,
+   "end": 607.96,
+   "text": "estar en los corazones del mundo.",
+   "raw": "estar en los corazones del mundo."
+  },
+  {
+   "start": 607.96,
+   "end": 610.96,
+   "text": "Imagino que estarán pensando",
+   "raw": "Imagino que estarán pensando"
+  },
+  {
+   "start": 610.96,
+   "end": 612.96,
+   "text": "cómo vamos a lograr",
+   "raw": "cómo vamos a lograr"
+  },
+  {
+   "start": 612.96,
+   "end": 615.96,
+   "text": "que el mensaje publicable de una alimentación",
+   "raw": "que el mensaje publicable de una alimentación"
+  },
+  {
+   "start": 615.96,
+   "end": 618.96,
+   "text": "equilibrada a fruto de la cocina en el hogar",
+   "raw": "equilibrada a fruto de la cocina en el hogar,"
+  },
+  {
+   "start": 618.96,
+   "end": 621.96,
+   "text": "como en la gran herramienta para combatir la desigualdad",
+   "raw": "como en la gran herramienta para combatir la desigualdad,"
+  },
+  {
+   "start": 621.96,
+   "end": 623.96,
+   "text": "las enfermedades",
+   "raw": "las enfermedades,"
+  },
+  {
+   "start": 623.96,
+   "end": 625.96,
+   "text": "para recuperar el medio ambiente.",
+   "raw": "para recuperar el medio ambiente."
+  },
+  {
+   "start": 625.96,
+   "end": 628.96,
+   "text": "¿Cómo van a lograr para que los políticos",
+   "raw": "¿Cómo van a lograr para que los políticos"
+  },
+  {
+   "start": 628.96,
+   "end": 631.96,
+   "text": "elaboren agendas de política pública global en ese sentido?",
+   "raw": "elaboren agendas de política pública global en ese sentido?"
+  },
+  {
+   "start": 631.96,
+   "end": 633.96,
+   "text": "Eso parece imposible. ¿Cómo van a lograr eso?",
+   "raw": "Eso parece imposible. ¿Cómo van a lograr eso?"
+  },
+  {
+   "start": 633.96,
+   "end": 639.56,
+   "text": "Pues, la verdad, no sabemos cómo lograr esto.",
+   "raw": "Pues, la verdad, no sabemos cómo lograr esto."
+  },
+  {
+   "start": 639.56,
+   "end": 641.56,
+   "text": "Y es por eso que desde hace mucho tiempo",
+   "raw": "Y es por eso que desde hace mucho tiempo,"
+  },
+  {
+   "start": 641.56,
+   "end": 643.56,
+   "text": "en todo el mundo",
+   "raw": "en todo el mundo,"
+  },
+  {
+   "start": 643.56,
+   "end": 645.56,
+   "text": "los cocineros estamos trabajando unidos",
+   "raw": "los cocineros estamos trabajando unidos,"
+  },
+  {
+   "start": 645.56,
+   "end": 647.56,
+   "text": "cada uno en su terreno",
+   "raw": "cada uno en su terreno"
+  },
+  {
+   "start": 647.56,
+   "end": 651.56,
+   "text": "para luchar por este objetivo de llevar este mensaje",
+   "raw": "para luchar por este objetivo de llevar este mensaje"
+  },
+  {
+   "start": 651.56,
+   "end": 654.56,
+   "text": "sin esperar que lo hagan los estados.",
+   "raw": "sin esperar que lo hagan los estados."
+  },
+  {
+   "start": 654.56,
+   "end": 656.56,
+   "text": "Por ejemplo, aquí, en Nueva York Dunbarber",
+   "raw": "Por ejemplo, aquí, en Nueva York Dunbarber,"
+  },
+  {
+   "start": 656.56,
+   "end": 658.56,
+   "text": "en su Blue Hill, muy cerca de Nueva York",
+   "raw": "en su Blue Hill, muy cerca de Nueva York,"
+  },
+  {
+   "start": 658.56,
+   "end": 660.56,
+   "text": "viene batallando desde hace mucho tiempo",
+   "raw": "viene batallando desde hace mucho tiempo"
+  },
+  {
+   "start": 660.56,
+   "end": 662.56,
+   "text": "por demostrar que una agricultura",
+   "raw": "por demostrar que una agricultura"
+  },
+  {
+   "start": 662.56,
+   "end": 664.56,
+   "text": "variada, diversa y sostenible",
+   "raw": "variada, diversa y sostenible"
+  },
+  {
+   "start": 664.56,
+   "end": 666.56,
+   "text": "puede llevar masivamente",
+   "raw": "puede llevar masivamente"
+  },
+  {
+   "start": 666.56,
+   "end": 668.56,
+   "text": "productos de calidad",
+   "raw": "productos de calidad,"
+  },
+  {
+   "start": 668.56,
+   "end": 670.56,
+   "text": "alimentos de calidad a todas las familias",
+   "raw": "alimentos de calidad a todas las familias,"
+  },
+  {
+   "start": 670.56,
+   "end": 672.56,
+   "text": "que sean además deliciosos",
+   "raw": "que sean además deliciosos,"
+  },
+  {
+   "start": 672.56,
+   "end": 675.56,
+   "text": "asequibles, saludables, amigables y sostenibles.",
+   "raw": "asequibles, saludables, amigables y sostenibles."
+  },
+  {
+   "start": 675.56,
+   "end": 677.56,
+   "text": "O en Francia",
+   "raw": "O en Francia,"
+  },
+  {
+   "start": 677.56,
+   "end": 679.56,
+   "text": "el gran cocinero Alain Ducasse",
+   "raw": "el gran cocinero Alain Ducasse,"
+  },
+  {
+   "start": 679.56,
+   "end": 681.56,
+   "text": "en su hotel Plaza Tenet, en la Avenida Montaña",
+   "raw": "en su hotel Plaza Tenet, en la Avenida Montaña,"
+  },
+  {
+   "start": 681.56,
+   "end": 683.56,
+   "text": "la más lujosa de París",
+   "raw": "la más lujosa de París,"
+  },
+  {
+   "start": 683.56,
+   "end": 685.56,
+   "text": "es eliminar la carne de su menú",
+   "raw": "es eliminar la carne de su menú,"
+  },
+  {
+   "start": 685.56,
+   "end": 687.56,
+   "text": "sin temer a que sus clientes",
+   "raw": "sin temer a que sus clientes,"
+  },
+  {
+   "start": 687.56,
+   "end": 689.56,
+   "text": "muchas veces caprichosos",
+   "raw": "muchas veces caprichosos,"
+  },
+  {
+   "start": 689.56,
+   "end": 690.56,
+   "text": "lo abandonen",
+   "raw": "lo abandonen,"
+  },
+  {
+   "start": 690.56,
+   "end": 692.56,
+   "text": "conscientes del impacto negativo",
+   "raw": "conscientes del impacto negativo"
+  },
+  {
+   "start": 692.56,
+   "end": 694.56,
+   "text": "que el exceso del consumo de carne",
+   "raw": "que el exceso del consumo de carne"
+  },
+  {
+   "start": 694.56,
+   "end": 696.56,
+   "text": "afecta a nuestro medio ambiente.",
+   "raw": "afecta a nuestro medio ambiente."
+  },
+  {
+   "start": 696.56,
+   "end": 698.56,
+   "text": "Convencido de que, haciendo su discurso coherente",
+   "raw": "Convencido de que, haciendo su discurso coherente"
+  },
+  {
+   "start": 698.56,
+   "end": 700.56,
+   "text": "desde su restaurante",
+   "raw": "desde su restaurante,"
+  },
+  {
+   "start": 700.56,
+   "end": 702.56,
+   "text": "puede llegar con su mensaje a muchos más hogares.",
+   "raw": "puede llegar con su mensaje a muchos más hogares."
+  },
+  {
+   "start": 702.56,
+   "end": 704.56,
+   "text": "O en el caso del Perú",
+   "raw": "O en el caso del Perú,"
+  },
+  {
+   "start": 704.56,
+   "end": 706.56,
+   "text": "pero mire, es que afina un gran amigo y cocinero",
+   "raw": "pero mire, es que afina un gran amigo y cocinero"
+  },
+  {
+   "start": 706.56,
+   "end": 708.56,
+   "text": "que se va lo más alejado de la Amazonía",
+   "raw": "que se va lo más alejado de la Amazonía"
+  },
+  {
+   "start": 708.56,
+   "end": 710.56,
+   "text": "en búsqueda de ingredientes, de tradiciones, de artesanía.",
+   "raw": "en búsqueda de ingredientes, de tradiciones, de artesanía."
+  },
+  {
+   "start": 710.56,
+   "end": 713.56,
+   "text": "Convencido de que, trayéndolas a su restaurante",
+   "raw": "Convencido de que, trayéndolas a su restaurante,"
+  },
+  {
+   "start": 713.56,
+   "end": 716.56,
+   "text": "puede convencer a los 10 millones de limenos",
+   "raw": "puede convencer a los 10 millones de limenos"
+  },
+  {
+   "start": 716.56,
+   "end": 718.56,
+   "text": "de pronto utilizar estos productos",
+   "raw": "de pronto utilizar estos productos"
+  },
+  {
+   "start": 718.56,
+   "end": 720.56,
+   "text": "y así llevar prosperidad a estas comunidades",
+   "raw": "y así llevar prosperidad a estas comunidades,"
+  },
+  {
+   "start": 720.56,
+   "end": 723.56,
+   "text": "respetando y valorando su identidad cultural.",
+   "raw": "respetando y valorando su identidad cultural."
+  },
+  {
+   "start": 724.56,
+   "end": 726.56,
+   "text": "En todo el mundo",
+   "raw": "En todo el mundo,"
+  },
+  {
+   "start": 726.56,
+   "end": 728.56,
+   "text": "cocineros unidos gracias a la cocina.",
+   "raw": "cocineros unidos gracias a la cocina."
+  },
+  {
+   "start": 728.56,
+   "end": 730.56,
+   "text": "¿Cómo ocurrió con nuestros padres",
+   "raw": "¿Cómo ocurrió con nuestros padres"
+  },
+  {
+   "start": 730.56,
+   "end": 732.56,
+   "text": "que se unieron en la mesa",
+   "raw": "que se unieron en la mesa"
+  },
+  {
+   "start": 732.56,
+   "end": 733.56,
+   "text": "gracias al amor?",
+   "raw": "gracias al amor?"
+  },
+  {
+   "start": 733.56,
+   "end": 735.56,
+   "text": "¿Cómo ocurrió con",
+   "raw": "¿Cómo ocurrió con"
+  },
+  {
+   "start": 735.56,
+   "end": 737.56,
+   "text": "la generación de cocineros que en el Perú",
+   "raw": "la generación de cocineros que en el Perú"
+  },
+  {
+   "start": 737.56,
+   "end": 739.56,
+   "text": "un día decidió trabajar unida",
+   "raw": "un día decidió trabajar unida"
+  },
+  {
+   "start": 739.56,
+   "end": 741.56,
+   "text": "en favor de su cultura?",
+   "raw": "en favor de su cultura?"
+  },
+  {
+   "start": 742.56,
+   "end": 744.56,
+   "text": "¿Cómo ocurre ahora, convencidos",
+   "raw": "¿Cómo ocurre ahora, convencidos"
+  },
+  {
+   "start": 744.56,
+   "end": 747.56,
+   "text": "de que no podemos esperar a que otros lo hagan",
+   "raw": "de que no podemos esperar a que otros lo hagan"
+  },
+  {
+   "start": 747.56,
+   "end": 749.56,
+   "text": "sino que tenemos que pasar la acción?",
+   "raw": "sino que tenemos que pasar la acción?"
+  },
+  {
+   "start": 749.56,
+   "end": 752.56,
+   "text": "Porque gracias a las oportunidades mediáticas",
+   "raw": "Porque gracias a las oportunidades mediáticas"
+  },
+  {
+   "start": 752.56,
+   "end": 754.56,
+   "text": "y la popularidad que tiene hoy día",
+   "raw": "y la popularidad que tiene hoy día"
+  },
+  {
+   "start": 754.56,
+   "end": 756.56,
+   "text": "la cocina profesional en el mundo",
+   "raw": "la cocina profesional en el mundo,"
+  },
+  {
+   "start": 756.56,
+   "end": 758.56,
+   "text": "los cocineros sabemos que podemos hacer mucho",
+   "raw": "los cocineros sabemos que podemos hacer mucho"
+  },
+  {
+   "start": 758.56,
+   "end": 760.56,
+   "text": "para llevar este mensaje",
+   "raw": "para llevar este mensaje"
+  },
+  {
+   "start": 760.56,
+   "end": 762.56,
+   "text": "de volver a poner a la cocina",
+   "raw": "de volver a poner a la cocina"
+  },
+  {
+   "start": 762.56,
+   "end": 764.56,
+   "text": "en el centro del hogar",
+   "raw": "en el centro del hogar,"
+  },
+  {
+   "start": 764.56,
+   "end": 766.56,
+   "text": "de manera que un día cercano",
+   "raw": "de manera que un día cercano,"
+  },
+  {
+   "start": 766.56,
+   "end": 768.56,
+   "text": "todas las familias, todos los hogares",
+   "raw": "todas las familias, todos los hogares,"
+  },
+  {
+   "start": 768.56,
+   "end": 770.56,
+   "text": "con la buena información",
+   "raw": "con la buena información,"
+  },
+  {
+   "start": 770.56,
+   "end": 773.56,
+   "text": "elijan ingredientes que contribuyen",
+   "raw": "elijan ingredientes que contribuyen"
+  },
+  {
+   "start": 773.56,
+   "end": 775.56,
+   "text": "a recuperar la salud y el medio ambiente",
+   "raw": "a recuperar la salud y el medio ambiente,"
+  },
+  {
+   "start": 775.56,
+   "end": 777.56,
+   "text": "a combatir la desigualdad",
+   "raw": "a combatir la desigualdad"
+  },
+  {
+   "start": 777.56,
+   "end": 779.56,
+   "text": "y a recuperar sobre todo la paz emocional",
+   "raw": "y a recuperar sobre todo la paz emocional"
+  },
+  {
+   "start": 779.56,
+   "end": 781.56,
+   "text": "que tanta falta nos hace.",
+   "raw": "que tanta falta nos hace."
+  },
+  {
+   "start": 782.56,
+   "end": 784.56,
+   "text": "Ese es el poder de la cocina",
+   "raw": "Ese es el poder de la cocina"
+  },
+  {
+   "start": 784.56,
+   "end": 786.56,
+   "text": "ven las herramientas más infabilibles",
+   "raw": "ven las herramientas más infabilibles"
+  },
+  {
+   "start": 786.56,
+   "end": 788.56,
+   "text": "para alcanzar el bienestar.",
+   "raw": "para alcanzar el bienestar."
+  },
+  {
+   "start": 788.56,
+   "end": 789.56,
+   "text": "Gracias.",
+   "raw": "Gracias."
+  }
+ ]
+}

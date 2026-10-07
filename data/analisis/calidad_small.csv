@@ -1,0 +1,6 @@
+﻿id,minutos,palabras,palabras_estimadas_150ppm,palabras_por_minuto,muletillas_cada_100,muletillas_frecuentes,palabras_quitadas_limpieza,wer_aprox_vs_ted,segundos_transcripcion,veces_tiempo_real
+01_matematicas,10.3,1428,1547,138,0.5,"bueno (4), vale (2), pues (1)",4,,237.6,2.6
+02_privacidad,16.2,2532,2424,157,0.0,bueno (1),0,,454.4,2.1
+03_cocina,13.3,1872,1989,141,0.1,pues (2),0,0.15,694.6,1.1
+04_musica,15.8,1727,2369,109,0.1,bueno (2),0,0.106,6082.0,0.2
+05_alta_mar,12.7,1816,1907,143,0.1,bueno (2),1,0.138,6058.4,0.1
