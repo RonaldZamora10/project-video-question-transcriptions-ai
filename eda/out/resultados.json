@@ -1,0 +1,870 @@
+{
+ "catalogo": [
+  {
+   "id": "01_matematicas",
+   "topic": "Ciencia",
+   "title": "Las matemáticas son para siempre",
+   "speaker": "Eduardo Sáenz de Cabezón",
+   "duration": "10:19",
+   "duracion_min": 10.32,
+   "tamano_mb": NaN,
+   "fuente": "YouTube (TEDx)",
+   "transcrito": true,
+   "referencia_ted": false
+  },
+  {
+   "id": "02_privacidad",
+   "topic": "Tecnología",
+   "title": "El futuro de la privacidad",
+   "speaker": "Sebastián Bortnik",
+   "duration": "16:10",
+   "duracion_min": 16.17,
+   "tamano_mb": NaN,
+   "fuente": "YouTube (TEDx)",
+   "transcrito": true,
+   "referencia_ted": false
+  },
+  {
+   "id": "03_cocina",
+   "topic": "Gastronomía",
+   "title": "¿Puede la cocina cambiar el mundo?",
+   "speaker": "Gastón Acurio",
+   "duration": "13:15",
+   "duracion_min": 13.25,
+   "tamano_mb": NaN,
+   "fuente": "TED",
+   "transcrito": true,
+   "referencia_ted": true
+  },
+  {
+   "id": "04_musica",
+   "topic": "Música",
+   "title": "¿Por qué nos emociona la música?",
+   "speaker": "Paolo Bortolameolli",
+   "duration": "15:48",
+   "duracion_min": 15.8,
+   "tamano_mb": NaN,
+   "fuente": "TED",
+   "transcrito": true,
+   "referencia_ted": true
+  },
+  {
+   "id": "05_alta_mar",
+   "topic": "Medioambiente",
+   "title": "Por qué necesitamos proteger el alta mar",
+   "speaker": "Enric Sala",
+   "duration": "12:43",
+   "duracion_min": 12.72,
+   "tamano_mb": NaN,
+   "fuente": "TED",
+   "transcrito": true,
+   "referencia_ted": true
+  },
+  {
+   "id": "06_diversidad",
+   "topic": "Desarrollo personal",
+   "title": "El valor de nuestra diversidad interna",
+   "speaker": "Rebeca Hwang",
+   "duration": "12:05",
+   "duracion_min": 12.08,
+   "tamano_mb": NaN,
+   "fuente": "TED",
+   "transcrito": false,
+   "referencia_ted": true
+  },
+  {
+   "id": "07_cerebros",
+   "topic": "Educación",
+   "title": "La selección latinoamericana de cerebros",
+   "speaker": "Juan Enriquez",
+   "duration": "12:38",
+   "duracion_min": 12.63,
+   "tamano_mb": NaN,
+   "fuente": "TED",
+   "transcrito": false,
+   "referencia_ted": false
+  },
+  {
+   "id": "08_fracaso",
+   "topic": "Emprendimiento",
+   "title": "Una nueva manera de hablar del fracaso en los negocios",
+   "speaker": "Leticia Gasca",
+   "duration": "13:01",
+   "duracion_min": 13.02,
+   "tamano_mb": NaN,
+   "fuente": "TED",
+   "transcrito": false,
+   "referencia_ted": true
+  }
+ ],
+ "catalogo_resumen": {
+  "videos": 8,
+  "minutos_total": 106.0,
+  "gb_total": 0.0,
+  "duracion": {
+   "count": 8.0,
+   "mean": 13.25,
+   "std": 1.92,
+   "min": 10.32,
+   "25%": 12.49,
+   "50%": 12.87,
+   "75%": 13.89,
+   "max": 16.17
+  },
+  "transcritos": 5,
+  "faltantes": [
+   "06_diversidad",
+   "07_cerebros",
+   "08_fracaso"
+  ],
+  "pct_faltantes": 37.5,
+  "con_referencia": 5
+ },
+ "segmentos": {
+  "total": 938,
+  "variables": [
+   "video",
+   "start",
+   "end",
+   "text",
+   "raw"
+  ],
+  "por_video": {
+   "01_matematicas": 87,
+   "02_privacidad": 333,
+   "03_cocina": 245,
+   "04_musica": 111,
+   "05_alta_mar": 162
+  },
+  "palabras": {
+   "count": 938.0,
+   "mean": 9.99,
+   "std": 4.73,
+   "min": 1.0,
+   "25%": 6.0,
+   "50%": 9.0,
+   "75%": 13.0,
+   "max": 25.0
+  },
+  "duracion_s": {
+   "count": 938.0,
+   "mean": 4.25,
+   "std": 2.84,
+   "min": 0.68,
+   "25%": 2.6,
+   "50%": 3.36,
+   "75%": 5.03,
+   "max": 25.74
+  },
+  "caracteres": {
+   "count": 938.0,
+   "mean": 56.67,
+   "std": 25.28,
+   "min": 6.0,
+   "25%": 38.0,
+   "50%": 53.0,
+   "75%": 81.0,
+   "max": 134.0
+  }
+ },
+ "faltantes": {
+  "texto_vacio": 0,
+  "raw_vacio": 0,
+  "nulos_por_campo": {
+   "start": 0,
+   "end": 0,
+   "text": 0,
+   "raw": 0
+  },
+  "segmentos_menos_3_palabras": 33,
+  "ejemplos_cortos": [
+   {
+    "video": "02_privacidad",
+    "start": 60.1,
+    "text": "competida."
+   },
+   {
+    "video": "02_privacidad",
+    "start": 86.22,
+    "text": "privadas."
+   },
+   {
+    "video": "02_privacidad",
+    "start": 93.66,
+    "text": "otras historias."
+   },
+   {
+    "video": "02_privacidad",
+    "start": 142.04,
+    "text": "adolescentes."
+   },
+   {
+    "video": "02_privacidad",
+    "start": 167.12,
+    "text": "de seguidores."
+   },
+   {
+    "video": "02_privacidad",
+    "start": 309.28,
+    "text": "vida privada?"
+   },
+   {
+    "video": "02_privacidad",
+    "start": 327.08,
+    "text": "nuestras opiniones."
+   },
+   {
+    "video": "02_privacidad",
+    "start": 335.6,
+    "text": "humano."
+   }
+  ]
+ },
+ "duplicados": {
+  "segmentos_texto_identico": 4,
+  "pct": 0.43,
+  "ejemplos": [
+   {
+    "video": "02_privacidad",
+    "start": 626.83,
+    "text": "Nosotros somos el producto."
+   },
+   {
+    "video": "02_privacidad",
+    "start": 633.07,
+    "text": "Nosotros somos el producto."
+   },
+   {
+    "video": "02_privacidad",
+    "start": 958.29,
+    "text": "Gracias."
+   },
+   {
+    "video": "03_cocina",
+    "start": 641.56,
+    "text": "en todo el mundo"
+   },
+   {
+    "video": "03_cocina",
+    "start": 724.56,
+    "text": "En todo el mundo"
+   },
+   {
+    "video": "03_cocina",
+    "start": 788.56,
+    "text": "Gracias."
+   },
+   {
+    "video": "05_alta_mar",
+    "start": 753.78,
+    "text": "Gracias."
+   }
+  ],
+  "repeticiones_palabra_quitadas": 5
+ },
+ "atipicos": {
+  "palabras_seg": {
+   "lim": [
+    -4.5,
+    23.5
+   ],
+   "n": 2,
+   "pct": 0.2,
+   "max_ejemplos": [
+    {
+     "video": "05_alta_mar",
+     "start": 649.78,
+     "palabras": 25,
+     "dur": 14.0
+    },
+    {
+     "video": "03_cocina",
+     "start": 18.66,
+     "palabras": 24,
+     "dur": 7.0
+    }
+   ]
+  },
+  "duracion_seg": {
+   "lim": [
+    -1.05,
+    8.68
+   ],
+   "n": 48,
+   "pct": 5.1,
+   "max_ejemplos": [
+    {
+     "video": "04_musica",
+     "start": 588.06,
+     "palabras": 15,
+     "dur": 25.74,
+     "text": "distorsionado y decadente bals escrito antes de la Primera Guerra Mundial. ¿No es como un"
+    },
+    {
+     "video": "04_musica",
+     "start": 721.67,
+     "palabras": 13,
+     "dur": 25.61,
+     "text": "regalando instantes de lucubración, siendo parte del discurso y conectando ideas que pueden"
+    },
+    {
+     "video": "04_musica",
+     "start": 747.28,
+     "palabras": 16,
+     "dur": 23.66,
+     "text": "seguir creciendo. Contrastes, estabilidad e inestabilidad. Y a propósito, la estabilidad del pulso y cómo lo"
+    }
+   ]
+  },
+  "z_ppm": {
+   "01_matematicas": 0.03,
+   "02_privacidad": 1.23,
+   "03_cocina": 0.22,
+   "04_musica": -1.82,
+   "05_alta_mar": 0.34
+  },
+  "pausas_mayores_10s": []
+ },
+ "consistencia": {
+  "fin_menor_inicio": 0,
+  "solapes_tiempo": 0,
+  "caracteres_raros": {},
+  "idioma": {
+   "01_matematicas": [
+    "es",
+    1
+   ],
+   "02_privacidad": [
+    "es",
+    1
+   ],
+   "03_cocina": [
+    "es",
+    1
+   ],
+   "04_musica": [
+    "es",
+    1
+   ],
+   "05_alta_mar": [
+    "es",
+    1
+   ]
+  },
+  "duracion_whisper_vs_catalogo_s": {
+   "01_matematicas": -0.4,
+   "02_privacidad": -0.4,
+   "03_cocina": 0.5,
+   "04_musica": -0.5,
+   "05_alta_mar": -0.4
+  },
+  "numeros_en_digitos": 78,
+  "segmentos_con_numero_en_letras": 7,
+  "fin_sin_puntuacion": 62.4,
+  "frases_tipicas_alucinacion": []
+ },
+ "por_video": [
+  {
+   "id": "01_matematicas",
+   "minutos": 10.3,
+   "palabras": 1428,
+   "palabras_por_minuto": 138,
+   "muletillas_cada_100": 0.5,
+   "wer_aprox_vs_ted": NaN,
+   "segundos_transcripcion": 237.6,
+   "veces_tiempo_real": 2.6,
+   "palabras_quitadas_limpieza": 4,
+   "segmentos": 87,
+   "vocabulario": 479,
+   "ttr": 0.335,
+   "tokens_aprox": 2285.0,
+   "chunks": 16
+  },
+  {
+   "id": "02_privacidad",
+   "minutos": 16.2,
+   "palabras": 2532,
+   "palabras_por_minuto": 157,
+   "muletillas_cada_100": 0.0,
+   "wer_aprox_vs_ted": NaN,
+   "segundos_transcripcion": 454.4,
+   "veces_tiempo_real": 2.1,
+   "palabras_quitadas_limpieza": 0,
+   "segmentos": 333,
+   "vocabulario": 822,
+   "ttr": 0.325,
+   "tokens_aprox": 4051.0,
+   "chunks": 28
+  },
+  {
+   "id": "03_cocina",
+   "minutos": 13.3,
+   "palabras": 1872,
+   "palabras_por_minuto": 141,
+   "muletillas_cada_100": 0.1,
+   "wer_aprox_vs_ted": 0.15,
+   "segundos_transcripcion": 694.6,
+   "veces_tiempo_real": 1.1,
+   "palabras_quitadas_limpieza": 0,
+   "segmentos": 245,
+   "vocabulario": 661,
+   "ttr": 0.353,
+   "tokens_aprox": 2995.0,
+   "chunks": 21
+  },
+  {
+   "id": "04_musica",
+   "minutos": 15.8,
+   "palabras": 1727,
+   "palabras_por_minuto": 109,
+   "muletillas_cada_100": 0.1,
+   "wer_aprox_vs_ted": 0.106,
+   "segundos_transcripcion": 6082.0,
+   "veces_tiempo_real": 0.2,
+   "palabras_quitadas_limpieza": 0,
+   "segmentos": 111,
+   "vocabulario": 688,
+   "ttr": 0.398,
+   "tokens_aprox": 2763.0,
+   "chunks": 19
+  },
+  {
+   "id": "05_alta_mar",
+   "minutos": 12.7,
+   "palabras": 1816,
+   "palabras_por_minuto": 143,
+   "muletillas_cada_100": 0.1,
+   "wer_aprox_vs_ted": 0.138,
+   "segundos_transcripcion": 6058.4,
+   "veces_tiempo_real": 0.1,
+   "palabras_quitadas_limpieza": 1,
+   "segmentos": 162,
+   "vocabulario": 616,
+   "ttr": 0.339,
+   "tokens_aprox": 2906.0,
+   "chunks": 20
+  }
+ ],
+ "totales_5": {
+  "palabras": 9375,
+  "minutos": 68.3,
+  "estimadas_150": 10236,
+  "chunks": 104,
+  "vocab_global": 2368
+ },
+ "chunks": {
+  "palabras": {
+   "count": 104.0,
+   "mean": 123.4,
+   "std": 11.1,
+   "min": 47.0,
+   "25%": 122.0,
+   "50%": 125.0,
+   "75%": 128.0,
+   "max": 136.0
+  },
+  "dur_s": {
+   "count": 104.0,
+   "mean": 53.3,
+   "std": 16.0,
+   "min": 26.4,
+   "25%": 46.2,
+   "50%": 49.5,
+   "75%": 54.5,
+   "max": 133.6
+  },
+  "duplicados": 0
+ },
+ "top_palabras": {
+  "01_matematicas": [
+   [
+    "matemáticas",
+    18
+   ],
+   [
+    "verdad",
+    14
+   ],
+   [
+    "mejor",
+    12
+   ],
+   [
+    "siempre",
+    11
+   ],
+   [
+    "teorema",
+    10
+   ],
+   [
+    "usar",
+    9
+   ],
+   [
+    "ciento",
+    7
+   ],
+   [
+    "mundo",
+    7
+   ]
+  ],
+  "02_privacidad": [
+   [
+    "datos",
+    18
+   ],
+   [
+    "privacidad",
+    18
+   ],
+   [
+    "redes",
+    16
+   ],
+   [
+    "sociales",
+    15
+   ],
+   [
+    "empresas",
+    11
+   ],
+   [
+    "dinero",
+    9
+   ],
+   [
+    "internet",
+    8
+   ],
+   [
+    "derecho",
+    8
+   ]
+  ],
+  "03_cocina": [
+   [
+    "cocina",
+    20
+   ],
+   [
+    "mundo",
+    15
+   ],
+   [
+    "perú",
+    12
+   ],
+   [
+    "gracias",
+    11
+   ],
+   [
+    "nuestra",
+    10
+   ],
+   [
+    "mensaje",
+    8
+   ],
+   [
+    "hogar",
+    7
+   ],
+   [
+    "nuestro",
+    7
+   ]
+  ],
+  "04_musica": [
+   [
+    "música",
+    29
+   ],
+   [
+    "expectativas",
+    18
+   ],
+   [
+    "vida",
+    6
+   ],
+   [
+    "silencio",
+    6
+   ],
+   [
+    "beethoven",
+    5
+   ],
+   [
+    "escuchar",
+    5
+   ],
+   [
+    "movimiento",
+    5
+   ],
+   [
+    "mismo",
+    5
+   ]
+  ],
+  "05_alta_mar": [
+   [
+    "alta",
+    24
+   ],
+   [
+    "pesca",
+    20
+   ],
+   [
+    "aguas",
+    14
+   ],
+   [
+    "países",
+    10
+   ],
+   [
+    "internacionales",
+    9
+   ],
+   [
+    "hemos",
+    8
+   ],
+   [
+    "lugares",
+    8
+   ],
+   [
+    "pescando",
+    8
+   ]
+  ]
+ },
+ "correlacion": {
+  "minutos": {
+   "minutos": 1.0,
+   "palabras": 0.74,
+   "palabras_por_minuto": -0.12,
+   "segmentos": 0.56,
+   "vocabulario": 0.94,
+   "ttr": 0.36,
+   "chunks": 0.73
+  },
+  "palabras": {
+   "minutos": 0.74,
+   "palabras": 1.0,
+   "palabras_por_minuto": 0.58,
+   "segmentos": 0.93,
+   "vocabulario": 0.92,
+   "ttr": -0.35,
+   "chunks": 1.0
+  },
+  "palabras_por_minuto": {
+   "minutos": -0.12,
+   "palabras": 0.58,
+   "palabras_por_minuto": 1.0,
+   "segmentos": 0.71,
+   "vocabulario": 0.23,
+   "ttr": -0.95,
+   "chunks": 0.59
+  },
+  "segmentos": {
+   "minutos": 0.56,
+   "palabras": 0.93,
+   "palabras_por_minuto": 0.71,
+   "segmentos": 1.0,
+   "vocabulario": 0.81,
+   "ttr": -0.46,
+   "chunks": 0.94
+  },
+  "vocabulario": {
+   "minutos": 0.94,
+   "palabras": 0.92,
+   "palabras_por_minuto": 0.23,
+   "segmentos": 0.81,
+   "vocabulario": 1.0,
+   "ttr": 0.03,
+   "chunks": 0.92
+  },
+  "ttr": {
+   "minutos": 0.36,
+   "palabras": -0.35,
+   "palabras_por_minuto": -0.95,
+   "segmentos": -0.46,
+   "vocabulario": 0.03,
+   "ttr": 1.0,
+   "chunks": -0.36
+  },
+  "chunks": {
+   "minutos": 0.73,
+   "palabras": 1.0,
+   "palabras_por_minuto": 0.59,
+   "segmentos": 0.94,
+   "vocabulario": 0.92,
+   "ttr": -0.36,
+   "chunks": 1.0
+  }
+ },
+ "wer_vs_ppm": [
+  {
+   "id": "03_cocina",
+   "wer_aprox_vs_ted": 0.15,
+   "palabras_por_minuto": 141
+  },
+  {
+   "id": "04_musica",
+   "wer_aprox_vs_ted": 0.106,
+   "palabras_por_minuto": 109
+  },
+  {
+   "id": "05_alta_mar",
+   "wer_aprox_vs_ted": 0.138,
+   "palabras_por_minuto": 143
+  }
+ ],
+ "similitud_tfidf": {
+  "videos": [
+   "01_matematicas",
+   "02_privacidad",
+   "03_cocina",
+   "04_musica",
+   "05_alta_mar"
+  ],
+  "matriz": [
+   [
+    1.0,
+    0.055,
+    0.051,
+    0.031,
+    0.026
+   ],
+   [
+    0.055,
+    1.0,
+    0.094,
+    0.049,
+    0.082
+   ],
+   [
+    0.051,
+    0.094,
+    1.0,
+    0.068,
+    0.073
+   ],
+   [
+    0.031,
+    0.049,
+    0.068,
+    1.0,
+    0.027
+   ],
+   [
+    0.026,
+    0.082,
+    0.073,
+    0.027,
+    1.0
+   ]
+  ],
+  "media_fuera_diagonal": 0.056
+ },
+ "preguntas": {
+  "total": 25,
+  "por_tipo": {
+   "normal": 20,
+   "trampa": 5
+  },
+  "por_video": {
+   "01_matematicas": 5,
+   "02_privacidad": 5,
+   "03_cocina": 5,
+   "04_musica": 5,
+   "05_alta_mar": 5
+  },
+  "palabras_pregunta": {
+   "count": 25.0,
+   "mean": 13.0,
+   "std": 3.2,
+   "min": 7.0,
+   "25%": 11.0,
+   "50%": 12.0,
+   "75%": 15.0,
+   "max": 22.0
+  },
+  "palabras_ref": {
+   "count": 20.0,
+   "mean": 13.8,
+   "std": 6.7,
+   "min": 3.0,
+   "25%": 10.0,
+   "50%": 12.5,
+   "75%": 18.2,
+   "max": 29.0
+  },
+  "posicion_relativa": [
+   0.51,
+   0.42,
+   0.67,
+   0.87,
+   0.17,
+   0.34,
+   0.62,
+   0.97,
+   0.17,
+   0.24,
+   0.63,
+   0.85,
+   0.0,
+   0.23,
+   0.36,
+   0.97,
+   0.03,
+   0.24,
+   0.52,
+   0.83
+  ],
+  "tercios": {
+   "inicio": 7,
+   "medio": 7,
+   "final": 6
+  }
+ },
+ "split": {
+  "desarrollo": [
+   "01-3",
+   "02-4",
+   "03-1",
+   "04-3",
+   "05-3"
+  ],
+  "n_dev": 5,
+  "n_test": 20,
+  "test_por_tipo": {
+   "normal": 15,
+   "trampa": 5
+  }
+ },
+ "ejemplo": {
+  "pregunta": "¿Qué artículo de la Declaración Universal de los Derechos Humanos protege la vida privada?",
+  "referencia": "El artículo 12.",
+  "minuto": "05:29",
+  "chunk": {
+   "start": 294.0,
+   "end": 336.72,
+   "text": "Podría seguir todo el día hablando de esto y como ya verán, estas historias tienen un patrón común que es la privacidad. De eso les quería hablar hoy, de la imperiosa necesidad que discutamos como sociedad, ¿cuánto nos importa tener una vida privada? Porque a priori pareciera ser que no tanto. La privacidad es el derecho que tenemos las personas a que nuestra vida esté resguardada por la confidencialidad. Es decir, que podamos decidir quién es en qué momento y qué cosas se sepan de nuestra vida nuestras acciones, nuestras decisiones nuestras opiniones. La Declaración Universal de los Derechos Humanos dice que es un derecho humano. En su artículo número 12 dice que la vida privada es un derecho humano."
+  }
+ },
+ "wer_check": {
+  "03_cocina": 0.15,
+  "04_musica": 0.106,
+  "05_alta_mar": 0.138
+ }
+}

@@ -1,0 +1,7 @@
+# Herramientas de desarrollo: pruebas y revisión de estilo.
+-r requirements.txt
+pytest==9.1.1
+ruff==0.16.10
+# Solo para bajar una vez los subtítulos de TED (referencia del WER). Versión preliminar: la estable 2026.08.19
+# no lee ted.com porque TED cambió su página.
+yt-dlp==2026.9.27.232945.dev0

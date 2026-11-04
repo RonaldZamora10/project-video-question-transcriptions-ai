@@ -1,0 +1,26 @@
+﻿id,video,type,conjunto,question
+01-1,01_matematicas,normal,prueba,¿Por qué dice el ponente que un teorema es para siempre?
+01-2,01_matematicas,normal,prueba,"¿Qué pasaría si se dobla 50 veces una hoja de papel de 0,1 milímetros?"
+01-3,01_matematicas,normal,desarrollo,¿Quién demostró que el hexágono es la mejor forma para cubrir un plano y cuándo?
+01-4,01_matematicas,normal,prueba,¿En qué construcción se usó la estructura de Weaire-Phelan?
+01-T,01_matematicas,trampa,prueba,¿Qué dice el ponente sobre el último teorema de Fermat?
+02-1,02_privacidad,normal,prueba,"Según el estudio que cita el ponente, ¿cuántas fotos en internet tiene un niño al cumplir 5 años?"
+02-2,02_privacidad,normal,prueba,¿Qué artículo de la Declaración Universal de los Derechos Humanos protege la vida privada?
+02-3,02_privacidad,normal,prueba,"Según el ponente, ¿quién es el cliente de las redes sociales y qué papel tenemos los usuarios?"
+02-4,02_privacidad,normal,desarrollo,¿Con qué compara el ponente el futuro de la privacidad al final de la charla?
+02-T,02_privacidad,trampa,prueba,¿Qué ley argentina de protección de datos personales recomienda el ponente?
+03-1,03_cocina,normal,desarrollo,¿Qué plato nació de la historia de amor entre la hija de un bodeguero chino y el hijo de un pastelero genovés?
+03-2,03_cocina,normal,prueba,¿Cómo se llamaba el primer restaurante de Gastón Acurio y dónde conoció a su esposa?
+03-3,03_cocina,normal,prueba,¿Qué dato da el ponente sobre las muertes por obesidad y por hambre?
+03-4,03_cocina,normal,prueba,¿Qué decisión tomó el cocinero Alain Ducasse en su restaurante de París?
+03-T,03_cocina,trampa,prueba,¿Qué ingredientes lleva la receta de ceviche que enseña Gastón Acurio?
+04-1,04_musica,normal,prueba,¿Qué obra escuchó el ponente en su primer concierto y qué edad tenía?
+04-2,04_musica,normal,prueba,¿Qué decidió el ponente después de ese primer concierto?
+04-3,04_musica,normal,desarrollo,"Según el ponente, ¿de dónde viene el poder evocador de la música?"
+04-4,04_musica,normal,prueba,¿Qué le dijo el director de orquesta al ponente cuando era niño?
+04-T,04_musica,trampa,prueba,¿Qué opina el ponente sobre el reguetón?
+05-1,05_alta_mar,normal,prueba,¿Qué hicieron los pescadores de Cabo Pulmo y qué pasó diez años después?
+05-2,05_alta_mar,normal,prueba,¿Qué porcentaje del mar está protegido hoy y cuánto dicen los estudios que se necesita?
+05-3,05_alta_mar,normal,desarrollo,¿Qué países representan casi el 80 % del esfuerzo pesquero en alta mar?
+05-4,05_alta_mar,normal,prueba,¿Qué porcentaje de las capturas marinas globales viene de la alta mar?
+05-T,05_alta_mar,trampa,prueba,¿Cuántas especies de ballenas hay en peligro según el ponente?

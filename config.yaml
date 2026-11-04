@@ -1,0 +1,53 @@
+# Configuración central del sistema. Ningún valor de este archivo debe repetirse "a mano" en el código.
+# Las rutas son relativas a la carpeta raíz del proyecto.
+
+paths:
+  catalog: data/videos.yaml        # lista de los 8 videos del dataset
+  videos: data/videos              # archivos de video (no se suben al repositorio)
+  uploads: data/videos/subidos     # videos que el usuario sube desde la interfaz
+  transcripts: data/transcripts    # transcripciones .json y .txt (sí se suben: son el dataset)
+  references: data/referencias     # subtítulos humanos de TED, solo para medir el error de Whisper
+  index: data/index                # base vectorial ChromaDB (se regenera, no se sube)
+  reports: data/analisis           # tablas y resultados para el informe
+  eval_questions: data/eval/preguntas.yaml  # banco de preguntas de evaluación
+
+whisper:
+  model: small            # tamaño elegido por bajo consumo en CPU
+  device: cpu             # el equipo no tiene GPU dedicada
+  compute_type: int8      # cuantización recomendada por faster-whisper para CPU
+  language: es            # fijar el idioma evita que Whisper lo adivine mal
+  beam_size: 5
+  vad_filter: true        # salta silencios y reduce frases inventadas en pausas
+
+cleaning:
+  # Muletillas que se cuentan en el análisis de calidad (no se borran del texto: pueden ser palabras normales).
+  # "este" no se incluye: casi siempre es demostrativo ("este barco") y inflaba el conteo.
+  fillers: ["eh", "em", "mm", "o sea", "pues", "bueno", "digamos", "vale"]
+  # Sonidos de duda que sí se eliminan porque no aportan contenido.
+  hesitations: ["eh", "ehh", "em", "emm", "mm", "mmm", "ah", "ahh"]
+
+analysis:
+  estimated_words_per_minute: 150   # supuesto del Entregable 1 para estimar el corpus (≈15.500 palabras en total)
+
+embeddings:
+  model: intfloat/multilingual-e5-base
+
+chunking:
+  words_per_chunk: 120    # tamaño objetivo de cada fragmento (el modelo e5 corta a 512 tokens)
+  overlap_words: 30       # palabras que se repiten entre fragmentos vecinos para no perder contexto
+
+retrieval:
+  top_k: 4                # fragmentos que se le pasan al LLM en la configuración A
+
+llm:
+  base_url: http://localhost:11434
+  model: llama3.2:3b
+  temperature: 0          # respuestas reproducibles: misma pregunta, misma respuesta
+  seed: 42
+  num_ctx: 8192           # ventana de contexto; debe alcanzar para la transcripción completa (config. B)
+  timeout_seconds: 600
+  not_found_answer: "No encuentro esto en el video."
+
+evaluation:
+  retrieval_tolerance_seconds: 15   # margen al comprobar si un fragmento recuperado contiene el minuto de la respuesta
+  citation_tolerance_seconds: 60    # margen para dar por buena una cita [mm:ss] (los fragmentos duran ~45 s)
