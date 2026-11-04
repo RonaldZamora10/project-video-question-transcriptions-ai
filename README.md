@@ -9,15 +9,6 @@ Todo se ejecuta en el computador del usuario, sin servicios de pago.
 Pregunta problema: *¿es posible construir un sistema basado en LLM que, a partir de la transcripción automática de un
 video, responda con precisión y fidelidad las preguntas en lenguaje natural de un usuario?*
 
-## Equipo
-
-| Integrante | Rol |
-|---|---|
-| _Por definir_ | |
-| _Por definir_ | |
-| _Por definir_ | |
-| _Por definir_ | |
-
 ## Cómo funciona
 
 ```
