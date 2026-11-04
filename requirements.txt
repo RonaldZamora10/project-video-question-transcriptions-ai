@@ -5,7 +5,7 @@ chromadb==1.5.9                # base de datos vectorial local y persistente
 streamlit==1.65.0              # interfaz web
 PyYAML==6.0.3                  # lectura de config.yaml y del catálogo
 jiwer==4.0.0                   # cálculo del error de transcripción (WER)
-#Activación Entorno
-source .venv/Scripts/activate
-#Abrir la aplicación
-streamlit run app.py
+# Activación del entorno:
+# source .venv/Scripts/activate
+# Abrir la aplicación:
+# streamlit run app.py

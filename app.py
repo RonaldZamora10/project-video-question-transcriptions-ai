@@ -5,7 +5,7 @@ import re
 import streamlit as st
 
 from videoqa.answer import MODES, answer_question
-from videoqa.config import VIDEO_EXTENSIONS, find_video_file, load_catalog, project_path
+from videoqa.config import find_video_file, load_catalog, project_path
 from videoqa.index import ensure_index
 from videoqa.transcribe import ensure_transcript, format_timestamp, load_transcript, load_whisper
 
@@ -46,14 +46,7 @@ def save_upload(uploaded) -> tuple[str, object]:
 
 def choose_video() -> tuple[str, object] | None:
     st.sidebar.header("1. Video")
-    source = st.sidebar.radio("Origen", ["Dataset del proyecto", "Subir un archivo"], label_visibility="collapsed")
-    if source == "Subir un archivo":
-        uploaded = st.sidebar.file_uploader(
-            "Video o audio en español",
-            type=[extension.lstrip(".") for extension in VIDEO_EXTENSIONS],
-            max_upload_size=MAX_UPLOAD_MB,
-        )
-        return save_upload(uploaded) if uploaded else None
+    st.sidebar.radio("Origen", ["Dataset del proyecto"], label_visibility="collapsed")
 
     available = [video for video in load_catalog() if find_video_file(video["id"])]
     if not available:
@@ -97,7 +90,7 @@ def main() -> None:
 
     selection = choose_video()
     st.sidebar.header("2. Configuración")
-    mode = st.sidebar.radio("Configuración", list(MODES), format_func=MODES.get, label_visibility="collapsed")
+    mode = st.sidebar.radio("Configuración", list(MODES)[:1], format_func=MODES.get, label_visibility="collapsed")
     if selection is None:
         st.info("Elige una charla del dataset o sube un archivo en el panel izquierdo.")
         return
