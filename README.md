@@ -14,7 +14,7 @@ video, responda con precisión y fidelidad las preguntas en lenguaje natural de 
 ```
 video ─► Whisper (texto con minutos) ─► limpieza ─► fragmentos ─► embeddings e5 ─► ChromaDB
                                                                                      │
-pregunta ─► embedding ─► fragmentos más parecidos ─► Llama 3.2 3B (Ollama) ─► respuesta con [mm:ss]
+pregunta ─► embedding ─► fragmentos más parecidos ─► LLM local en Ollama ─► respuesta con [mm:ss]
 ```
 
 Se comparan dos configuraciones:
@@ -25,7 +25,8 @@ Se comparan dos configuraciones:
 ## Estructura
 
 ```
-app.py              Interfaz web (Streamlit)
+app.py              Interfaz web (Streamlit): pestañas "Preguntar" y "Comparar modelos"
+app_pages/          Las dos pestañas de la interfaz
 config.yaml         Toda la configuración: modelos, rutas y parámetros
 videoqa/            Código del sistema
 tests/              Pruebas automáticas (no necesitan internet ni modelos)
@@ -44,7 +45,8 @@ Requisitos: Python 3.11, [Ollama](https://ollama.com) y unos 6 GB libres en disc
 py -3.11 -m venv .venv
 source .venv/Scripts/activate
 pip install -r requirements-dev.txt
-ollama pull llama3.2:3b
+ollama pull llama3.2:1b
+ollama pull qwen2.5:1.5b
 ```
 
 Los videos no se suben al repositorio por su tamaño: se guardan en `data/videos/` con el nombre del `id` del catálogo
@@ -60,9 +62,19 @@ Con el entorno activado (`source .venv/Scripts/activate`) y Ollama abierto:
 | Transcribir los 8 videos (solo la primera vez, ~45 min en CPU) | `python -m videoqa.transcribe --all` |
 | Análisis de calidad de las transcripciones | `python -m videoqa.quality` |
 | Evaluar A vs. B con el banco de preguntas (~1 h en CPU) | `python -m videoqa.evaluate` |
-| Recalcular el resumen después de calificar a mano | `python -m videoqa.evaluate --summary` |
+| Evaluar A vs. B con otro modelo de Ollama | `python -m videoqa.evaluate --model qwen2.5:1.5b` |
+| Recalcular el resumen después de calificar a mano | `python -m videoqa.evaluate --summary --model <modelo>` |
 
 Los resultados quedan en `data/analisis/` como CSV (se abren en Excel).
+
+En la aplicación:
+
+- **Preguntar:** elige una charla del dataset o usa **Agregar video** para pegar un enlace de YouTube o subir un
+  archivo. Abajo a la izquierda eliges el modelo de Ollama; junto a cada uno se ve qué tan confiable fue en la
+  evaluación y cuánto tarda.
+- **Comparar modelos:** gráficas con el comportamiento de cada modelo evaluado (si inventa respuestas, si cita el
+  minuto correcto, cuánto tarda) y una recomendación. Para que un modelo aparezca, evalúalo antes con
+  `python -m videoqa.evaluate --model <modelo>`.
 
 ## Pruebas automáticas
 

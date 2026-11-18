@@ -1,5 +1,6 @@
 """Indexación (Etapas 5 a 7 y 9 del Entregable 1): fragmentos con tiempos, embeddings e5 y búsqueda en ChromaDB."""
 
+import threading
 from functools import cache
 
 import chromadb
@@ -60,10 +61,19 @@ def embed(texts: list[str], kind: str) -> list[list[float]]:
     return vectors.tolist()
 
 
+# La interfaz atiende varias ejecuciones a la vez y chromadb falla si dos crean el cliente al mismo tiempo.
+_client_lock = threading.Lock()
+
+
 @cache
-def get_client() -> chromadb.ClientAPI:
+def _create_client() -> chromadb.ClientAPI:
     # Telemetría desactivada: el sistema debe funcionar 100 % local.
     return chromadb.PersistentClient(path=str(project_path("index")), settings=Settings(anonymized_telemetry=False))
+
+
+def get_client() -> chromadb.ClientAPI:
+    with _client_lock:
+        return _create_client()
 
 
 def ensure_index(video_id: str, transcript: dict) -> Collection:

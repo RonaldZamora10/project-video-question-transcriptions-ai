@@ -12,6 +12,7 @@ Si la transcripción ya existe no se repite, salvo con --force.
 import argparse
 import json
 import time
+from collections.abc import Callable
 from pathlib import Path
 
 from faster_whisper import WhisperModel
@@ -39,8 +40,11 @@ def load_whisper(model_size: str | None = None) -> WhisperModel:
     )
 
 
-def transcribe_file(model: WhisperModel, media_path: Path) -> dict:
-    """Transcribe un archivo de audio o video y devuelve los segmentos limpios con sus tiempos."""
+def transcribe_file(model: WhisperModel, media_path: Path, on_progress: Callable[[float], None] | None = None) -> dict:
+    """Transcribe un archivo de audio o video y devuelve los segmentos limpios con sus tiempos.
+
+    `on_progress` recibe la fracción ya transcrita (0 a 1), para mostrar una barra de progreso.
+    """
     settings = load_config()
     started = time.perf_counter()
     segments, info = model.transcribe(
@@ -52,6 +56,8 @@ def transcribe_file(model: WhisperModel, media_path: Path) -> dict:
     # `segments` es un generador: la transcripción ocurre al recorrerlo (advertencia del README de faster-whisper).
     items = []
     for segment in segments:
+        if on_progress and info.duration:
+            on_progress(min(segment.end / info.duration, 1.0))
         raw = segment.text.strip()
         text = clean_text(raw, settings["cleaning"]["hesitations"])
         if text:
@@ -80,13 +86,18 @@ def load_transcript(video_id: str, model_size: str | None = None) -> dict | None
     return json.loads(path.read_text(encoding="utf-8")) if path.exists() else None
 
 
-def ensure_transcript(video_id: str, media_path: Path, model: WhisperModel | None = None) -> dict:
+def ensure_transcript(
+    video_id: str,
+    media_path: Path,
+    model: WhisperModel | None = None,
+    on_progress: Callable[[float], None] | None = None,
+) -> dict:
     """Devuelve la transcripción guardada o la genera si no existe (caché en disco)."""
     model_size = load_config()["whisper"]["model"]
     cached = load_transcript(video_id, model_size)
     if cached:
         return cached
-    save_transcript(video_id, model_size, transcribe_file(model or load_whisper(model_size), media_path))
+    save_transcript(video_id, model_size, transcribe_file(model or load_whisper(model_size), media_path, on_progress))
     return load_transcript(video_id, model_size)
 
 

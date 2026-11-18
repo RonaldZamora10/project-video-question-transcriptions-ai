@@ -8,6 +8,9 @@ __pycache__/
 # Datos pesados o que se regeneran (no se versionan)
 data/videos/
 data/index/
+# Transcripciones de videos que agrega cada usuario (no son parte del dataset)
+data/transcripts/*/yt_*
+data/transcripts/*/subido_*
 *.mp4
 *.webm
 *.m4a

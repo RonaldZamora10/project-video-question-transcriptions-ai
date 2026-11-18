@@ -1,0 +1,3 @@
+﻿configuracion,respuestas,latencia_media_s,latencia_mediana_s,rechazo_correcto_trampas,rechazo_indebido_normales,recuperacion_acierta,cita_cercana,correctitud_media_0a2,fidelidad_media_0a2,alucinaciones,modelo
+A — Con RAG (fragmentos relevantes),25,10.4,9.7,100% (n=5),55% (n=20),95% (n=20),25% (n=20),,,,llama3.2:1b
+B — Transcripción completa (sin RAG),25,14.0,2.9,60% (n=5),60% (n=20),,5% (n=20),,,,llama3.2:1b

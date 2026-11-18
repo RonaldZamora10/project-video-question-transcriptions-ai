@@ -3,11 +3,12 @@
 Uso:
     python -m videoqa.evaluate              # responde todas las preguntas de data/eval/preguntas.yaml en A y B
     python -m videoqa.evaluate --summary    # solo recalcula el resumen (por ejemplo, después de calificar a mano)
+    python -m videoqa.evaluate --model qwen2.5:1.5b   # evalúa otro modelo de Ollama (por defecto, el de config.yaml)
 
-Salidas en data/analisis/:
-    respuestas_eval.csv   una fila por pregunta y configuración. Trae columnas vacías para la rúbrica humana
+Salidas en data/analisis/ (una pareja de archivos por modelo, p. ej. respuestas_eval_llama3.2_1b.csv):
+    respuestas_eval_<modelo>.csv   una fila por pregunta y configuración. Trae columnas vacías para la rúbrica humana
                           (correctitud y fidelidad de 0 a 2, alucinación sí/no) que el equipo llena en Excel.
-    resumen_eval.csv      métricas por configuración.
+    resumen_eval_<modelo>.csv      métricas por configuración.
 
 Métricas automáticas (no dependen de la opinión de nadie):
     - rechazo_correcto: en preguntas trampa, ¿respondió "No encuentro esto en el video"?
@@ -158,18 +159,25 @@ def run_all() -> list[dict]:
 
 def main() -> None:
     parser = argparse.ArgumentParser(description="Evalúa las configuraciones A y B con el banco de preguntas.")
-    parser.add_argument("--summary", action="store_true", help="solo recalcular el resumen desde respuestas_eval.csv")
+    parser.add_argument("--summary", action="store_true", help="solo recalcular el resumen del modelo")
+    parser.add_argument("--model", help="modelo de Ollama a evaluar (por defecto, el de config.yaml)")
     args = parser.parse_args()
 
-    answers_path = project_path("reports") / "respuestas_eval.csv"
+    if args.model:
+        load_config()["llm"]["model"] = args.model  # load_config está en caché: answer_question lee este mismo dict
+    model = load_config()["llm"]["model"]
+    name = re.sub(r"[^\w.-]", "_", model)  # "llama3.2:1b" -> "llama3.2_1b" (":" no es válido en Windows)
+    answers_path = project_path("reports") / f"respuestas_eval_{name}.csv"
     if args.summary:
         with open(answers_path, encoding="utf-8-sig") as file:
             rows = list(csv.DictReader(file))
     else:
-        rows = run_all()
+        rows = [{**row, "modelo": model} for row in run_all()]
         save_csv(rows, answers_path)
     summary = summarize(rows)
-    save_csv(summary, project_path("reports") / "resumen_eval.csv")
+    for row in summary:
+        row["modelo"] = model
+    save_csv(summary, project_path("reports") / f"resumen_eval_{name}.csv")
     for row in summary:
         print(row)
 

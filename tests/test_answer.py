@@ -41,7 +41,7 @@ def test_extract_citations_understands_ranges_and_ignores_times_outside_brackets
 def test_answer_question_full_mode_uses_ollama_response(monkeypatch):
     sent = {}
 
-    def fake_chat(messages):
+    def fake_chat(messages, model=None):
         sent["messages"] = messages
         return FAKE_OLLAMA_RESPONSE
 
@@ -64,6 +64,15 @@ def test_connection_error_has_clear_message(monkeypatch):
     monkeypatch.setattr(answer.urllib.request, "urlopen", _raise_connection_refused)
     with pytest.raises(ConnectionError, match="Ollama"):
         answer.chat([{"role": "user", "content": "hola"}])
+
+
+def test_missing_model_error_explains_how_to_download(monkeypatch):
+    def raise_not_found(*args, **kwargs):
+        raise answer.urllib.error.HTTPError("url", 404, "not found", {}, None)
+
+    monkeypatch.setattr(answer.urllib.request, "urlopen", raise_not_found)
+    with pytest.raises(ConnectionError, match="ollama pull modelo:1b"):
+        answer.chat([{"role": "user", "content": "hola"}], "modelo:1b")
 
 
 def _raise_connection_refused(*args, **kwargs):

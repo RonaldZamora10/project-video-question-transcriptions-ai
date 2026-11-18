@@ -4,7 +4,7 @@ Dos configuraciones, según el Entregable 1 §6.2:
     "rag"      (A) el modelo recibe solo los fragmentos recuperados más parecidos a la pregunta.
     "completo" (B) el modelo recibe la transcripción completa, sin recuperación.
 
-API de Ollama usada: POST /api/chat con "stream": false y "options" (temperature, seed, num_ctx).
+API de Ollama usada: POST /api/chat con "stream": false y "options" (temperature, seed, num_ctx, num_predict).
 Fuente: https://github.com/ollama/ollama/blob/main/docs/api.md#generate-a-chat-completion
 """
 
@@ -66,14 +66,30 @@ def extract_citations(text: str) -> list[float]:
     )
 
 
-def chat(messages: list[dict]) -> dict:
+def installed_models() -> list[str]:
+    """Modelos descargados en Ollama (GET /api/tags). Lista vacía si Ollama no está abierto."""
+    settings = load_config()["llm"]
+    try:
+        with urllib.request.urlopen(f"{settings['base_url']}/api/tags", timeout=3) as response:
+            return sorted(model["name"] for model in json.loads(response.read().decode("utf-8"))["models"])
+    except (urllib.error.URLError, OSError):
+        return []
+
+
+def chat(messages: list[dict], model: str | None = None) -> dict:
     """Llama a Ollama y devuelve la respuesta completa (texto y estadísticas de tiempo/tokens)."""
     settings = load_config()["llm"]
+    model = model or settings["model"]
     payload = {
-        "model": settings["model"],
+        "model": model,
         "messages": messages,
         "stream": False,
-        "options": {"temperature": settings["temperature"], "seed": settings["seed"], "num_ctx": settings["num_ctx"]},
+        "options": {
+            "temperature": settings["temperature"],
+            "seed": settings["seed"],
+            "num_ctx": settings["num_ctx"],
+            "num_predict": settings["num_predict"],
+        },
     }
     request = urllib.request.Request(
         f"{settings['base_url']}/api/chat",
@@ -83,13 +99,19 @@ def chat(messages: list[dict]) -> dict:
     try:
         with urllib.request.urlopen(request, timeout=settings["timeout_seconds"]) as response:
             return json.loads(response.read().decode("utf-8"))
+    except urllib.error.HTTPError as error:  # Ollama responde 404 cuando el modelo no está descargado
+        raise ConnectionError(
+            f"El modelo {model} no está descargado en Ollama. Descárgalo con: ollama pull {model}"
+        ) from error
     except urllib.error.URLError as error:
         raise ConnectionError(
             f"No se pudo conectar con Ollama en {settings['base_url']}. Verifica que Ollama esté abierto. ({error})"
         ) from error
 
 
-def answer_question(question: str, mode: str, transcript: dict, collection: Collection | None = None) -> Answer:
+def answer_question(
+    question: str, mode: str, transcript: dict, collection: Collection | None = None, model: str | None = None
+) -> Answer:
     if mode not in MODES:
         raise ValueError(f"Modo desconocido: {mode}. Usa uno de {list(MODES)}")
     settings = load_config()
@@ -101,7 +123,7 @@ def answer_question(question: str, mode: str, transcript: dict, collection: Coll
             "content": f"Transcripción:\n{build_context(mode, transcript, sources)}\n\nPregunta: {question}",
         },
     ]
-    response = chat(messages)
+    response = chat(messages, model)
     text = response["message"]["content"].strip()
     return Answer(
         text=text,
